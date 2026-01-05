@@ -40,7 +40,7 @@ jobs:
     # 4. 运行 Python 脚本
     - name: Run processing script
       run: |
-        python process_iptv.py
+        python main.py
 
     # 5. 检查文件是否生成成功
     - name: Verify generated files
