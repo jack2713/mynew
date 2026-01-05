@@ -1,4 +1,4 @@
-# IPTV源文件 - 生成时间: 2026-01-05 07:38:53
+# IPTV源文件 - 生成时间: 2026-01-05 12:50:22
 # 源URL: https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/%E5%88%AB%E4%BA%BA%E6%94%B6%E8%B4%B9%E6%BA%90, https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/%E6%B5%B7%E8%A7%92%E7%A4%BE%E5%8C%BA%E5%8D%9A%E4%B8%BB(%E5%85%8D%E7%95%AA%E5%BC%BA)
 # ==================================================
 
@@ -292,7 +292,7 @@ UK TNT Sports 3,http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/1556.t
 UK Euro Sport 1,http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/1512.ts
 UK Euro Sport 2,http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/1511.ts
 
-香港,#genre#
+🇭🇰香港,#genre#
 TVB 翡翠台 JADE H265 (HK),http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/2.ts
 TVB Plus H265 (HK),http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/4.ts
 TVB 明珠 Pearl H265 (HK),http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/5.ts
@@ -323,8 +323,8 @@ Now Jelli 紫金 CH108 (HK),http://iptvpro.pw:35451//live/加QQ群1041749599/666
 HBO CH115 (HK),http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/37.ts
 MOVIE MOVIE CH116 (HK),http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/38.ts
 Cinemax CH118 (HK),http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/39.ts
-Now 爆穀星影台 CH138 (HK),http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/40.ts
-Now 爆穀台 CH133 (HK),http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/41.ts
+Now星影台 CH138 (HK),http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/40.ts
+Now爆谷台 CH133 (HK),http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/41.ts
 美亞電影台 (粵) CH201 (HK),http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/42.ts
 美亞電影台 (國) CH202 (HK),http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/43.ts
 中國電影頻道香港版 CH204 (HK),http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/44.ts
@@ -395,7 +395,7 @@ Now Golf 2 CH683 (HK),http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/
 Now Golf 3 CH684 (HK),http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/116.ts
 SUPER Sports CH11(HK),http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/48.ts
 
-台湾,#genre#
+🇹🇼台湾,#genre#
 民视 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/156.ts
 中视 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/159.ts
 华视 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/158.ts
@@ -619,7 +619,7 @@ TVBS 欢乐台 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/666699
 TLC 旅遊生活台 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/432.ts
 TaiWan Plus H265 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/437.ts
 
-大陆,#genre#
+🇨🇳中国大陆,#genre#
 CCTV-1 (CN),http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/475.ts
 CCTV-1 1080P (CN),http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/533.ts
 CCTV-2 (CN),http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/476.ts
@@ -756,7 +756,7 @@ TVB 千禧经典台 (马来) (HK),http://iptvpro.pw:35451//live/加QQ群10417495
 东森超视美洲台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/472.ts
 中国电影频道,http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/65108.ts
 
-新加坡,#genre#
+🇸🇬新加坡,#genre#
 Channel 5 (SG),http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/598.ts
 Channel 8 (SG),http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/599.ts
 Channel U(SG),http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/600.ts
@@ -795,7 +795,7 @@ Lifetime (SG),http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/627.ts
 TVB 星河 (中) (SG),http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/607.ts
 TVB 翡翠台 (SG),http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/608.ts
 
-马来西亚,#genre#
+马来西亚MY,#genre#
 TV1 (MY),http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/650.ts
 TV2 (MY),http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/651.ts
 TV3 (MY),http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/652.ts
@@ -890,7 +890,7 @@ Zee Tamil (MY),http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/738.ts
 Adithya (MY),http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/732.ts
 Al Sunnah (MY),http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/781.ts
 
-日本,#genre#
+🇯🇵日本,#genre#
 NHK総合東京 NHKG (JP),http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/786.ts
 日本テレビ NTV (JP),http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/787.ts
 テレビ東京 TV Tokyo (JP),http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/788.ts
@@ -980,7 +980,7 @@ BSフジ Fuji (JP),http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/817
 海外アニメ！カートゥーン ネットワーク (JP),http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/864.ts
 KNTV (JP),http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/883.ts
 
-韩国,#genre#
+🇰🇷韩国,#genre#
 KBS 1 (KR),http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/886.ts
 KBS 2 (KR),http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/887.ts
 MBC (KR),http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/889.ts
@@ -1047,7 +1047,7 @@ YTN (KR),http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/929.ts
 Arirang (KR),http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/964.ts
 ALL TV K (KR),http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/974.ts
 
-美国,#genre#
+🇺🇸美国,#genre#
 US CNN,http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/1125.ts
 US CNN B,http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/1201.ts
 US CNN International,http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/1277.ts
