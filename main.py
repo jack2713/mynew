@@ -9,14 +9,14 @@ from datetime import datetime
 class IPTVProcessor:
     def __init__(self):
         # 定义1：需要写入文件1的类别
-        self.categories_file1 = {"新聞", "体育", "香港", "台湾", "大陆", "海外中文OC", "新加坡", "马来西亚","日本","韩国","美国","加拿大","英国"}
+        self.categories_file1 = {"电影", "新闻", "体育", "台湾", "中国", "香港", "韩国", "印度","日本","越南","泰国","新加坡","英国","马来西亚","儿童","记录"}
         
         # 定义2：需要写入文件2的类别
         self.categories_file2 = {"【1】", "【2】", "【3】", "【4】", "【5】", "【6】", "【7】", "【8】","【9】","【10】","【11】","【12】","【3】","【14】","【15】","【16】",}
         
         # 源URL列表
         self.source_urls = [
-            "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/%E5%88%AB%E4%BA%BA%E6%94%B6%E8%B4%B9%E6%BA%90",
+            "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/斯瑪特直播源1",
             "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/%E6%B5%B7%E8%A7%92%E7%A4%BE%E5%8C%BA%E5%8D%9A%E4%B8%BB(%E5%85%8D%E7%95%AA%E5%BC%BA)"
         ]
         
