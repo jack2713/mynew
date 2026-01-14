@@ -117,7 +117,6 @@ def main():
     # 直接在代码中定义要处理的URL列表
     urls = [
         "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/斯瑪特直播源1",
-        "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/斯瑪特直播源2"
         # 可以添加更多URL
     ]
     
