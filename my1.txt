@@ -1,6 +1,10 @@
-# IPTV源文件 - 生成时间: 2026-01-14 02:47:37
+# IPTV源文件 - 文件1
+# 生成时间: 2026-01-14 02:51:36
 # 源URL: https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/斯瑪特直播源1, https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/%E6%B5%B7%E8%A7%92%E7%A4%BE%E5%8C%BA%E5%8D%9A%E4%B8%BB(%E5%85%8D%E7%95%AA%E5%BC%BA)
-# ==================================================
+# 分组数量: 17
+# 频道数量: 579
+# 过滤重复频道: 1
+# ============================================================
 
 📽电影频道,#genre#
 Now星影台(粤),http://74.91.26.218:82/live/nowxy.m3u8
@@ -66,7 +70,6 @@ Al_Jazeera,http://96.44.160.246:9999/smt.php?id=Aljazeera
 中視新聞台,http://96.44.160.246:9999/smt.php?id=zhongshinews_twn
 CNN,http://96.44.160.246:9999/smt.php?id=Cnn
 CNN backup,http://96.44.160.246:9999/smt.php?id=cnn_twn
-BBC World News,http://96.44.160.246:9999/smt.php?id=Bbcnews
 BBC World News,http://96.44.160.246:9999/smt.php?id=Bbcnews
 CNBC,http://96.44.160.246:9999/smt.php?id=Cnbc
 Bloomberg TV,http://96.44.160.246:9999/smt.php?id=Bloomberg
