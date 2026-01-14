@@ -7,7 +7,7 @@ on:
   push:
     paths:
       - 'main.py'
-      - '.github/workflows/synczb.yml'
+      - '.github/workflows/main.yml'
 
 permissions:
   contents: write
