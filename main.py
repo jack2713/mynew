@@ -110,7 +110,8 @@ class TVSourceProcessor:
         
         # 只使用指定的URL
         urls = [
-            "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/斯瑪特直播源1",
+           # "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/斯瑪特直播源1",
+            "https://raw.githubusercontent.com/jack2713/mynew/refs/heads/main/my.txt",
         ]
         
         print(f"源URL: {len(urls)}个")
