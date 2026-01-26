@@ -1,1 +1,11 @@
-# 没有获取到数据
+电影,#genre#
+测试电影频道1,http://example.com/movie1.m3u8
+测试电影频道2,http://example.com/movie2.m3u8
+测试电影频道3,http://example.com/movie3.m3u8
+
+电视剧,#genre#
+测试电视剧频道1,http://example.com/tv1.m3u8
+测试电视剧频道2,http://example.com/tv2.m3u8
+
+体育,#genre#
+测试体育频道1,http://example.com/sports1.m3u8
