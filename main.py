@@ -4,7 +4,7 @@ import os
 import sys  # 添加这行
 
 # 全局排除关键词定义
-EXCLUDE_KEYWORDS = ["成人", "激情", "情色", "涩情", "18禁", "R18"]
+EXCLUDE_KEYWORDS = ["成人", "激情", "虎牙", "体育", "熊猫", "提示"]
 
 class TVSourceProcessor:
     def __init__(self):
@@ -111,7 +111,7 @@ class TVSourceProcessor:
         # 只使用指定的URL
         urls = [
            # "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/斯瑪特直播源1",
-            "https://raw.githubusercontent.com/jack2713/mynew/refs/heads/main/my.txt",
+            "https://txt.gt.tc/users/HKTV.txt?i=1",
         ]
         
         print(f"源URL: {len(urls)}个")
