@@ -1,9 +1,11 @@
-import requests
 import re
 import os
 import sys
-from requests.adapters import HTTPAdapter
-from urllib3.util.retry import Retry
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.by import By
 
 # 全局排除关键词定义
 EXCLUDE_KEYWORDS = ["成人", "激情", "虎牙", "体育", "熊猫", "提示"]
@@ -11,39 +13,35 @@ EXCLUDE_KEYWORDS = ["成人", "激情", "虎牙", "体育", "熊猫", "提示"]
 class TVSourceProcessor:
     def __init__(self):
         self.all_lines = []
-        # 配置重试策略
-        self.session = requests.Session()
-        retry = Retry(
-            total=3,  # 总重试次数
-            backoff_factor=1,  # 重试间隔时间系数
-            status_forcelist=[429, 500, 502, 503, 504],  # 需要重试的状态码
-            allowed_methods=["GET"]  # 允许重试的请求方法
-        )
-        adapter = HTTPAdapter(max_retries=retry)
-        self.session.mount("https://", adapter)
-        self.session.mount("http://", adapter)
+        # 配置 Chrome 无头模式
+        chrome_options = Options()
+        chrome_options.add_argument("--headless=new")
+        chrome_options.add_argument("--disable-gpu")
+        chrome_options.add_argument("--no-sandbox")
+        chrome_options.add_argument("--disable-dev-shm-usage")
+        chrome_options.add_argument("--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
+        
+        self.driver = webdriver.Chrome(options=chrome_options)
 
     def fetch_url_content(self, url: str):
-        """获取单个URL内容"""
+        """使用 Selenium 获取URL内容"""
         try:
             print(f"获取: {url}")
-            headers = {
-                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
-            }
-            response = self.session.get(url, headers=headers, timeout=60)
-            response.raise_for_status()
+            self.driver.get(url)
             
-            # 处理编码
-            if response.encoding:
-                content = response.text
-            else:
-                content = response.content.decode('utf-8', errors='ignore')
-                
+            # 等待页面加载完成
+            WebDriverWait(self.driver, 30).until(
+                EC.presence_of_element_located((By.TAG_NAME, "pre"))
+            )
+            
+            # 获取页面内容
+            content = self.driver.find_element(By.TAG_NAME, "pre").text
+            
             # 清理并分割行
             lines = [line.strip() for line in content.splitlines() if line.strip()]
             print(f" 成功: {len(lines)} 行")
             return lines
-        except requests.exceptions.RequestException as e:
+        except Exception as e:
             print(f" 失败: {e}")
             return []
 
@@ -122,25 +120,30 @@ class TVSourceProcessor:
         # 1. 获取内容
         if not self.fetch_multiple_urls(urls):
             print("无内容可处理")
+            self.driver.quit()
             return False
         
         # 2. 排除处理
         filtered = self.remove_excluded_sections()
         if not filtered:
             print("排除后无内容")
+            self.driver.quit()
             return False
         
         # 3. 去重处理
         final = self.remove_genre_lines_and_deduplicate(filtered)
         if not final:
             print("去重后无内容")
+            self.driver.quit()
             return False
         
         # 4. 保存文件
         if self.save_to_file(final, "my1.txt", "smt,#genre#"):
             print("处理完成")
+            self.driver.quit()
             return True
         else:
+            self.driver.quit()
             return False
 
 def main():
