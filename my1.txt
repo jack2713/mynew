@@ -1,22 +1,79 @@
 smt,#genre#
-中视新闻(测试),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=N8M8VH&tk=xwwfcyWEcwWm
-中天新闻(测试),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=WJtv4r&tk=xwwfcyWEcwWm
-TVBS HD(测试),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=8jhamc&tk=xwwfcyWEcwWm
-TVBS新闻(测试),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Ck5m5Q&tk=xwwfcyWEcwWm
-寰宇新闻(测试),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=UZyry8&tk=xwwfcyWEcwWm
-寰宇台湾(测试),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ubJjx9&tk=xwwfcyWEcwWm
-东森新闻(测试),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=0e588l&tk=xwwfcyWEcwWm
-东森财经(测试),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=HW4TG0&tk=xwwfcyWEcwWm
-民视综艺(测试),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=gKKJmO&tk=xwwfcyWEcwWm
-猪哥亮歌厅秀(测试),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=KWxU51&tk=xwwfcyWEcwWm
-Now星影(国语),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=DA3dgK&tk=xwwfcyWEcwWm
-Now爆谷(国语),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=YawmIR&tk=xwwfcyWEcwWm
-Now华剧台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=kRN1Mg&tk=xwwfcyWEcwWm
-Now剧集台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=JIgYlm&tk=xwwfcyWEcwWm
-TVB生活台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=6YDpxv&tk=xwwfcyWEcwWm
-TVB功夫(国语),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=iH8AIz&tk=xwwfcyWEcwWm
-TVB星河(国语),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=wZFafy&tk=xwwfcyWEcwWm
-PopC电影,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=bBd0UR&tk=xwwfcyWEcwWm
+中视新闻(测试),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Jq1pGO&tk=5ERA3BtLviUb
+中天新闻(测试),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=tJtLWP&tk=5ERA3BtLviUb
+TVBS HD(测试),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=pKKc6O&tk=5ERA3BtLviUb
+TVBS新闻(测试),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=K7o2nF&tk=5ERA3BtLviUb
+寰宇新闻(测试),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=CZIcDW&tk=5ERA3BtLviUb
+寰宇台湾(测试),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=PqYR4m&tk=5ERA3BtLviUb
+东森新闻(测试),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=wOHxAj&tk=5ERA3BtLviUb
+东森财经(测试),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=E4NlSL&tk=5ERA3BtLviUb
+民视综艺(测试),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=KFO56A&tk=5ERA3BtLviUb
+猪哥亮歌厅秀(测试),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=3asan4&tk=5ERA3BtLviUb
+PopC电影,http://hls-pull-usmanriaz.speedws.com/live/hktv-hk987654HdRUHNEdsHPopC.flv
+AZTECA 1 HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=8WexrY&tk=5ERA3BtLviUb
+ESTRELLAS  HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=n8oApT&tk=5ERA3BtLviUb
+IMAGEN HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=c7eo5m&tk=5ERA3BtLviUb
+CANAL5 HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=U9XFJk&tk=5ERA3BtLviUb
+AZTECA 7 HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=bzWo7V&tk=5ERA3BtLviUb
+STAR CHANNEL HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=h5UUVb&tk=5ERA3BtLviUb
+UNIVERSAL CHANEL HD CENTRAL,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=FBVMWL&tk=5ERA3BtLviUb
+SONY HD CENTRA,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ZvdJ7X&tk=5ERA3BtLviUb
+WB HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=803lgU&tk=5ERA3BtLviUb
+AMC HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ISVUvH&tk=5ERA3BtLviUb
+A3S SERIES HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=1bpv3b&tk=5ERA3BtLviUb
+AXN HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=fAgJBH&tk=5ERA3BtLviUb
+FX CENTRAL HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Iq3cyT&tk=5ERA3BtLviUb
+SPACE HD CENTRAL,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Sf2RFY&tk=5ERA3BtLviUb
+USA HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=adtFxW&tk=5ERA3BtLviUb
+AE HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=pfDy6y&tk=5ERA3BtLviUb
+Investigation Discovery (ID),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=MyPwZ3&tk=5ERA3BtLviUb
+Discovery HH HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=sd90Lj&tk=5ERA3BtLviUb
+Discovery World HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ifst9b&tk=5ERA3BtLviUb
+TLC DISCOVERY HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=YQrjxT&tk=5ERA3BtLviUb
+GOURMET HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=zqg4UK&tk=5ERA3BtLviUb
+Hola TV HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=LbVAHB&tk=5ERA3BtLviUb
+E! HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=4WjrpI&tk=5ERA3BtLviUb
+Comedia central HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=GLSoMP&tk=5ERA3BtLviUb
+MTV HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=NPdxy4&tk=5ERA3BtLviUb
+MTV LIVE HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=uofrxO&tk=5ERA3BtLviUb
+DISNEY CHANNEL HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=vJGRF9&tk=5ERA3BtLviUb
+DISNEY JUNIOR,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Vtsuvu&tk=5ERA3BtLviUb
+TEEN NICK HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=XS4orY&tk=5ERA3BtLviUb
+Discovery Kids HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=9GsLh7&tk=5ERA3BtLviUb
+Baby TV,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=JjQ8NV&tk=5ERA3BtLviUb
+Cartoonito HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=5mJ33i&tk=5ERA3BtLviUb
+Discovery HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=otUI7h&tk=5ERA3BtLviUb
+Discovery Theater HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=2AHNqU&tk=5ERA3BtLviUb
+NETGEO HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=vaeXuD&tk=5ERA3BtLviUb
+Animal planet HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=bO54N5&tk=5ERA3BtLviUb
+HISTORY HD CENTRAL,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=bvdI3Z&tk=5ERA3BtLviUb
+TYC SPORTS HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=lOgKks&tk=5ERA3BtLviUb
+TELEMUNDO HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=CWKQXh&tk=5ERA3BtLviUb
+ESPN 2 HD CENTRAL,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=p7qiGO&tk=5ERA3BtLviUb
+ESPN4 HD CENTRAL,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Vj4Dz5&tk=5ERA3BtLviUb
+TRACE SPORTS HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=DRPWRz&tk=5ERA3BtLviUb
+ESPN CENTRAL HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=rY7Np5&tk=5ERA3BtLviUb
+GOLF HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=SAZzB9&tk=5ERA3BtLviUb
+ESPN 3 HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Oe2ljl&tk=5ERA3BtLviUb
+Discovery Turbo HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=oyPont&tk=5ERA3BtLviUb
+NBA HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=647NZq&tk=5ERA3BtLviUb
+NFL NETWORK HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=jSKPII&tk=5ERA3BtLviUb
+TNT HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=O3NayK&tk=5ERA3BtLviUb
+MC HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=zGtKTO&tk=5ERA3BtLviUb
+Cinemax HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=NqvhBl&tk=5ERA3BtLviUb
+MULTIPREMIER HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=3LbMGp&tk=5ERA3BtLviUb
+CINECANAL CENTRAL HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=qZ7iK3&tk=5ERA3BtLviUb
+FilmArts HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=TW79lk&tk=5ERA3BtLviUb
+Studio Universal HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=A02LRa&tk=5ERA3BtLviUb
+PARAMOINT CHANNEL HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=UhMUwN&tk=5ERA3BtLviUb
+HBO HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=A63g1A&tk=5ERA3BtLviUb
+HBO 2 HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=vLnkYD&tk=5ERA3BtLviUb
+HBO FAMILY HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=tkgztU&tk=5ERA3BtLviUb
+HBO PLUS HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=4h1dL2&tk=5ERA3BtLviUb
+HBO SIGNATURE HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=vG6znW&tk=5ERA3BtLviUb
+HBO MUNDI HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=MC7Wmn&tk=5ERA3BtLviUb
+HBO POP HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=JKPdKe&tk=5ERA3BtLviUb
+HBO EXTREME HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=hnBgJn&tk=5ERA3BtLviUb
 港台電視 31,http://119.237.111.230:55555/stream/channelid/1602635863?ticket=fa027550d413801aca85f9a39111abc4b4fe99ea&profile=pass
 港台電視 32,http://119.237.111.230:55555/stream/channelid/1554897652?ticket=27114b77ef3844fae697bf3c5e587425eb86fc17&profile=pass
 中央電視台綜合頻道（CCTV-1綜合),http://119.237.111.230:55555/stream/channelid/1154412102?ticket=3a0fa31056440bc87a2f63a034b263e78b543026&profile=pass
@@ -76,32 +133,33 @@ Now新聞台,http://hls.168.us.kg/u/332/master.m3u8
 NowSports,http://hls.168.us.kg/u/630/master.m3u8
 VIUTV全运-2,http://hls.168.us.kg/u/962/master.m3u8
 港台電視 31,http://hls.168.us.kg/u/31/master.m3u8
-NOW星影台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Eil5n8&tk=xwwfcyWEcwWm
-NOW爆谷台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=epZYI6&tk=xwwfcyWEcwWm
-美亚电影台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=oH9KCG&tk=xwwfcyWEcwWm
-中天娱乐,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=m8CqGV&tk=xwwfcyWEcwWm
-中天综合,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Vgfdsq&tk=xwwfcyWEcwWm
-年代新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=tj7aDJ&tk=xwwfcyWEcwWm
-寰宇新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=0k1McV&tk=xwwfcyWEcwWm
-东森新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=wqEQHl&tk=xwwfcyWEcwWm
-中视新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=EJwW9S&tk=xwwfcyWEcwWm
-中天新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=VfibRP&tk=xwwfcyWEcwWm
-TVBS HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=WTOsHs&tk=xwwfcyWEcwWm
-星空卫视(国际),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=F66rxJ&tk=xwwfcyWEcwWm
-天映经典,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=N44L50&tk=xwwfcyWEcwWm
-天映频道,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=QKWfvA&tk=xwwfcyWEcwWm
-中国电影台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=bhlGjY&tk=xwwfcyWEcwWm
-纬来电影台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Km1v4Z&tk=xwwfcyWEcwWm
-龙祥电影台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=c3QPBz&tk=xwwfcyWEcwWm
-香港卫视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=E0xs6N&tk=xwwfcyWEcwWm
-莲花卫视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=FrEmNc&tk=xwwfcyWEcwWm
-环球电视台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=NXu4X2&tk=xwwfcyWEcwWm
-香港环球卫视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=RxG6x2&tk=xwwfcyWEcwWm
-亚洲卫视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=iu7Vf4&tk=xwwfcyWEcwWm
-亚太第一卫视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=j2KabV&tk=xwwfcyWEcwWm
-华文卫视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=jXk0Rs&tk=xwwfcyWEcwWm
-1905电影,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=4yIY4S&tk=xwwfcyWEcwWm
-重温经典频道,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=O7wJ0l&tk=xwwfcyWEcwWm
+NOW星影台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=gE2xlu&tk=5ERA3BtLviUb
+NOW爆谷台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=wniF9Y&tk=5ERA3BtLviUb
+美亚电影台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=SFjWO2&tk=5ERA3BtLviUb
+极限电影台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ugzE6g&tk=5ERA3BtLviUb
+中天娱乐,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=d6O85X&tk=5ERA3BtLviUb
+中天综合,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=9i6Mbv&tk=5ERA3BtLviUb
+年代新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=6mNLe0&tk=5ERA3BtLviUb
+寰宇新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=uOrAjN&tk=5ERA3BtLviUb
+东森新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=VBef3m&tk=5ERA3BtLviUb
+中视新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=RveBYE&tk=5ERA3BtLviUb
+中天新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=0oqOhY&tk=5ERA3BtLviUb
+TVBS HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=6eDBz2&tk=5ERA3BtLviUb
+星空卫视(国际),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=BomhOK&tk=5ERA3BtLviUb
+天映经典,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=NOT4kt&tk=5ERA3BtLviUb
+天映频道,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=1vZzOW&tk=5ERA3BtLviUb
+中国电影台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=yVEdxi&tk=5ERA3BtLviUb
+纬来电影台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Mx8VY5&tk=5ERA3BtLviUb
+龙祥电影台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Ea6j47&tk=5ERA3BtLviUb
+香港卫视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=aiQKJO&tk=5ERA3BtLviUb
+莲花卫视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=NTbMZD&tk=5ERA3BtLviUb
+环球电视台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=RujhdV&tk=5ERA3BtLviUb
+香港环球卫视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=DDI80Q&tk=5ERA3BtLviUb
+亚洲卫视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ulXc1Z&tk=5ERA3BtLviUb
+亚太第一卫视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=I3nwaW&tk=5ERA3BtLviUb
+华文卫视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=LVPgTo&tk=5ERA3BtLviUb
+1905电影,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=oL5bvn&tk=5ERA3BtLviUb
+重温经典频道,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=8uEHdE&tk=5ERA3BtLviUb
 广东大湾区,http://119.123.77.185:8086/hls/29/index.m3u8
 广东民生,http://119.123.77.185:8086/hls/39/index.m3u8
 广东少儿,http://119.123.77.185:8086/hls/40/index.m3u8
