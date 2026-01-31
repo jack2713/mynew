@@ -9,6 +9,8 @@ TVBS新闻(测试),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=K7o2nF&tk=5ERA3B
 东森财经(测试),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=E4NlSL&tk=5ERA3BtLviUb
 民视综艺(测试),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=KFO56A&tk=5ERA3BtLviUb
 猪哥亮歌厅秀(测试),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=3asan4&tk=5ERA3BtLviUb
+TVB生活台,http://hls-pull-usmanriaz.speedws.com/live/hktv-hk987654HdRUHNEdsHtvbsh.flv
+TVB功夫台,http://hls-pull-usmanriaz.speedws.com/live/hktv-hk987654HdRUHNEdsHtvbgf.flv
 PopC电影,http://hls-pull-usmanriaz.speedws.com/live/hktv-hk987654HdRUHNEdsHPopC.flv
 AZTECA 1 HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=8WexrY&tk=5ERA3BtLviUb
 ESTRELLAS  HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=n8oApT&tk=5ERA3BtLviUb
