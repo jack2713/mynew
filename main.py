@@ -4,7 +4,7 @@ import os
 import sys  # 添加这行
 
 # 全局排除关键词定义
-EXCLUDE_KEYWORDS = ["成人", "激情", "虎牙", "体育", "熊猫", "提示"]
+EXCLUDE_KEYWORDS = ["成人", "激情", "虎牙", "体育", "熊猫", "提示","斗鱼"]
 
 class TVSourceProcessor:
     def __init__(self):
