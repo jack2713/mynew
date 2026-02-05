@@ -1,0 +1,67 @@
+import requests
+from urllib.parse import urlparse
+
+def convert_m3u_to_txt(urls, output_file="TMP/hw.txt"):
+    """
+    将指定URL列表中的M3U内容转换为TXT格式并保存到文件
+    
+    Args:
+        urls (list): M3U文件的URL列表
+        output_file (str): 输出文件路径，默认为"TMP/hw.txt"
+    """
+    output = []
+    group_set = set()
+    
+    for url in urls:
+        try:
+            # 获取M3U文件内容
+            response = requests.get(url)
+            response.raise_for_status()  # 检查请求是否成功
+            content = response.text
+            lines = content.split('\n')
+            
+            for i in range(len(lines)):
+                line = lines[i].strip()
+                if line.startswith('#EXTINF'):
+                    # 提取分组信息
+                    import re
+                    group_match = re.search(r'group-title="([^"]+)"', line)
+                    name_start = line.rfind(',') + 1
+                    name = line[name_start:] if name_start < len(line) else ""
+                    
+                    group_name = group_match.group(1) if group_match else '未分类'
+                    
+                    # 添加分组（去重）
+                    if group_name not in group_set:
+                        output.append(f"{group_name},#genre#")
+                        group_set.add(group_name)
+                    
+                    # 处理下一行的URL
+                    if i + 1 < len(lines):
+                        next_line = lines[i + 1].strip()
+                        if next_line and next_line.startswith('http'):
+                            output.append(f"{name},{next_line}")
+                            i += 1  # 跳过已处理的URL行
+                            
+        except Exception as e:
+            print(f"处理URL {url} 时出错: {e}")
+    
+    # 确保输出目录存在
+    import os
+    os.makedirs(os.path.dirname(output_file), exist_ok=True)
+    
+    # 写入文件
+    with open(output_file, 'w', encoding='utf-8') as f:
+        f.write('\n'.join(output))
+    
+    print(f"转换完成，结果已保存到 {output_file}")
+
+# 示例用法
+if __name__ == "__main__":
+    # 替换为你需要处理的M3U URL列表
+    m3u_urls = [
+        "https://raw.githubusercontent.com/Cnmajun/IptvSync/refs/heads/main/Judy/combined-playlist.m3u",
+        #"http://example.com/playlist2.m3u"
+    ]
+    
+    convert_m3u_to_txt(m3u_urls)
