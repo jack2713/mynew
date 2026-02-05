@@ -1,16 +1,21 @@
 import requests
 from urllib.parse import urlparse
 
-def convert_m3u_to_txt(urls, output_file="TMP/hw.txt"):
+def convert_m3u_to_txt(urls, exclude_chars=None, output_file="TMP/hw.txt"):
     """
     将指定URL列表中的M3U内容转换为TXT格式并保存到文件
     
     Args:
         urls (list): M3U文件的URL列表
+        exclude_chars (list): 需要排除的字符列表，包含这些字符的行会被过滤掉
         output_file (str): 输出文件路径，默认为"TMP/hw.txt"
     """
     output = []
     group_set = set()
+    
+    # 默认排除字符为空列表
+    if exclude_chars is None:
+        exclude_chars = []
     
     for url in urls:
         try:
@@ -31,6 +36,16 @@ def convert_m3u_to_txt(urls, output_file="TMP/hw.txt"):
                     
                     group_name = group_match.group(1) if group_match else '未分类'
                     
+                    # 检查是否需要排除
+                    should_exclude = False
+                    for char in exclude_chars:
+                        if char in name or char in group_name:
+                            should_exclude = True
+                            break
+                    
+                    if should_exclude:
+                        continue  # 跳过需要排除的行
+                    
                     # 添加分组（去重）
                     if group_name not in group_set:
                         output.append(f"{group_name},#genre#")
@@ -40,7 +55,15 @@ def convert_m3u_to_txt(urls, output_file="TMP/hw.txt"):
                     if i + 1 < len(lines):
                         next_line = lines[i + 1].strip()
                         if next_line and next_line.startswith('http'):
-                            output.append(f"{name},{next_line}")
+                            # 检查URL是否需要排除
+                            url_should_exclude = False
+                            for char in exclude_chars:
+                                if char in next_line:
+                                    url_should_exclude = True
+                                    break
+                            
+                            if not url_should_exclude:
+                                output.append(f"{name},{next_line}")
                             i += 1  # 跳过已处理的URL行
                             
         except Exception as e:
@@ -64,4 +87,7 @@ if __name__ == "__main__":
         #"http://example.com/playlist2.m3u"
     ]
     
-    convert_m3u_to_txt(m3u_urls)
+    # 需要排除的字符列表
+    exclude_chars = ["aynascope.net", "测试", "付费"]
+    
+    convert_m3u_to_txt(m3u_urls, exclude_chars)
