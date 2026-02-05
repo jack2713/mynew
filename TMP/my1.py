@@ -8,7 +8,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 
 # 全局排除关键词定义
-EXCLUDE_KEYWORDS = ["成人", "激情", "虎牙", "体育", "熊猫", "提示"]
+EXCLUDE_KEYWORDS = ["成人", "激情", "虎牙", "体育", "熊猫", "提示","记录","解说","春晚","直播中国","更新","赛事","SPORTS","电视剧","优质个源","明星","主题片","戏曲","游戏","MTV","收音机","悍刀","家人","甄嬛"]
 
 class TVSourceProcessor:
     def __init__(self):
@@ -114,6 +114,8 @@ class TVSourceProcessor:
         urls = [
             # "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/斯瑪特直播源1",
             "https://txt.gt.tc/users/HKTV.txt?i=1",
+            "https://live.hacks.tools/tv/iptv4.txt",
+            "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/bbxx.txt",
         ]
         print(f"源URL: {len(urls)}个")
         
