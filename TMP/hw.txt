@@ -4546,125 +4546,55 @@ Sky Sports Mix,https://d1.merichunidya.com:1686/hls/skysmixx.m3u8?md5=P6_hO66Lqw
 Sky Sports Tennis,https://d10.merichunidya.com:1686/hls/skystennis.m3u8?md5=PJJSfwZc_AMScrXCE8Nhpw&expires=1770277066
 Fox Cricket 501 HD,https://d3.merichunidya.com:1686/hls/fox501.m3u8?md5=LTV8vVxah_mpwbCcYrohMA&expires=1770277066
 Sony Sports3,https://d4.merichunidya.com:1686/hls/ten1hd.m3u8?md5=AorcYVCtPd504sTbtST7QA&expires=1770277066
-BTV World,https://tvsen6.aynascope.net/btv_world/index.m3u8?e=1770276626&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=090223d49143665fadca33e27b5b5868
-BTV CTG,https://tvsen6.aynascope.net/btvctg/index.m3u8?e=1770276626&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=59f80daaaa76e2320046156f49cce77c
-Peace TV Bangla HD,https://tvsen7.aynascope.net/PeaceTvBanglaHD/index.m3u8?e=1770276626&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=7734373b3eaa72612a9823fa8414ac0e
-TIME TV USA,https://tvsen7.aynascope.net/timetv/index.m3u8?e=1770276626&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=8aa407879ce5bb03705f8a07685a51c6
 Discovery HD (Bangla),https://fifabangladesh.site/?id=db6759ab-4cf1-4970-9007-c15d977e33de
-Channel I,https://tvsen6.aynascope.net/channeli/index.m3u8?e=1770276627&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=f0065981a5cfa53ce13daf5246375182
-NTV,https://tvsen5.aynascope.net/ntvbd/index.m3u8?e=1770276627&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=baedcff3247abaa93bce18c51d601bfb
-Bangla Vision,https://tvsen5.aynascope.net/banglavision/index.m3u8?e=1770276627&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=d46cfcf5024c4135bb4647e599d75201
-RTV,https://tvsen5.aynascope.net/RtvHD/index.m3u8?e=1770276627&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=1ba59f3e4a43ff4888eb571f1246f57c
-ATN Bangla,https://tvsen5.aynascope.net/atnbangla/index.m3u8?e=1770276627&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=e5d77ec7f6b94271a038e134f10a6390
-ETV,https://tvsen6.aynascope.net/etv/index.m3u8?e=1770276627&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=8b69f446a583539cf5b972213940cccd
-Maasranga TV,https://tvsen5.aynascope.net/maasrangatv/index.m3u8?e=1770276628&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=cc6a44e70fc0d769cfb73caf1f1b0db2
-Deepto TV,https://tvsen5.aynascope.net/DeeptoTVHD/index.m3u8?e=1770276628&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=d4733e227acfc49f13dbf9a3ef6a50ea
-Gazi TV,https://tvsen5.aynascope.net/Ravc7gPCZpxk/index.m3u8?e=1770276628&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=4068be46b5c0650bd8b058bd94064d20
-Desh TV,https://tvsen6.aynascope.net/deshtv/index.m3u8?e=1770276628&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=6501a1c1cf8cd4c197c4b487c464731d
-Boishakhi TV,https://tvsen6.aynascope.net/boishakhitv/index.m3u8?e=1770276628&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=e9d05318c1f46da6afafe578d993d0b8
-Channel 9,https://tvsen6.aynascope.net/channel9/index.m3u8?e=1770276628&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=3ea2be50d956ff83a1126854e09baa36
-Asian TV,https://tvsen6.aynascope.net/asiantv/index.m3u8?e=1770276629&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=8324c55e3a12955cff5ebf7d2cf37204
-SA TV,https://tvsen6.aynascope.net/satv/index.m3u8?e=1770276629&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=9eefb579f6ba0a019f284d29e245e8af
-Duronto TV,https://tvsen6.aynascope.net/durontotv-live/index.m3u8?e=1770276629&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=554ecb5f090cef33a801b8dce790e84e
-Bangla TV,https://tvsen6.aynascope.net/banglatv/index.m3u8?e=1770276629&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=78b82bf2b1238fbc6dc08022f17ece24
-BTV NATIONAL HD,https://tvsen6.aynascope.net/btvhd/index.m3u8?e=1770276629&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=0759d7999e83c8a2dfcad395e1572481
-Ananda TV,https://tvsen6.aynascope.net/anandatv/index.m3u8?e=1770276629&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=fcc00341da4ef369bfbdd62be45d4e0e
-My TV,https://tvsen6.aynascope.net/mytv/index.m3u8?e=1770276630&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=538c359408359e765f6b63e59993235c
-Global TV,https://tvsen6.aynascope.net/globaltvhd/index.m3u8?e=1770276630&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=1eea68ae7c955f2fa44de556520e6b36
-Bijoy TV,https://tvsen6.aynascope.net/bijoytv/index.m3u8?e=1770276630&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=d6e966030d0f91fb788d485d3891661a
-NEXUS TV,https://tvsen6.aynascope.net/nexustv/index.m3u8?e=1770276630&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=435aa7548da3ce8dbf85fe76d41d28b8
-Mohona TV,https://tvsen6.aynascope.net/mohonatv/index.m3u8?e=1770276630&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=8dfa88c702d31b6b3c63c836bc848de4
-Drama 24,https://vods2.aynascope.net/gseriesDrama/index.m3u8
 ABC 7 Bay,https://content.uplynk.com/channel/ext/4413701bf5a1488db55b767f8ae9d4fa/kgo_24x7_news.m3u8
-ABC News,https://tvsen6.aynascope.net/AbcNews/index.m3u8?e=1770276620&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=ad006d21ec59d10e1f37c175e2a31b2c
 ABC News NY,https://fifabangladesh.site/?id=5031a2f5-324e-4e3d-91b2-d16385052dd2
 Amiricans Voice News,https://fifabangladesh.site/?id=12467e84-4c98-4a15-841d-61852f4a8a42
 BBC News AP,https://fifabangladesh.site/?id=62d06278-50b4-48a1-b200-5a148e53fdbc
 BEK TV News,https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/playlist.m3u8
-Somoy News TV,https://tvsen6.aynascope.net/somoytv/index.m3u8?e=1770276621&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=f08527d4d6569dfec9ec140608af0daf
-Channel 24,https://tvsen6.aynascope.net/channel24/index.m3u8?e=1770276621&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=cfa7e50737b0c29c4b0f0269bcbc783c
 ATN News,https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
-Independent TV,https://tvsen6.aynascope.net/independenttv/index.m3u8?e=1770276621&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=f21934203604b242964c1b4f9493825c
-DBC News,https://tvsen6.aynascope.net/dbcnews/index.m3u8?e=1770276621&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=3807b5599452d4e1d8ab364e39261258
-Ekhon TV,https://tvsen6.aynascope.net/ekhontv/index.m3u8?e=1770276621&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=297918ca9d9b437aef4a54d665e91008
-News 24 BD,https://tvsen6.aynascope.net/news24/index.m3u8?e=1770276622&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=baf43c6f565702c68ae2d4fb4724cf55
-Ekattor TV,https://tvsen6.aynascope.net/ekattorbdtv/index.m3u8?e=1770276622&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=2e79e09f4351c8000b1fc44b5c1b5a72
-Jamuna TV,https://tvsen6.aynascope.net/jamunatv/index.m3u8?e=1770276622&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=cf4911d28c8de22dbe274e910bf2ffb8
-CNN,https://tvsen6.aynascope.net/cnn/index.m3u8?e=1770276622&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=eb79668c842368530b457ccac63cc415
 AlJazeera,https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 DW News,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
-NHK World,https://tvsen6.aynascope.net/nhkworld/index.m3u8?e=1770276623&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=063d461581b1d0aadd96650ea03a1583
 BBC America,https://fifabangladesh.site/?id=fb22d339-2a01-4d88-b2af-8d5c9999bbe5
 Finans Turk,https://fifabangladesh.site/?id=93475856-6996-4ebd-9b1e-b39fefadfe9f
 Wion,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-ANB News,https://tvsen6.aynascope.net/ANB_News/index.m3u8?e=1770276623&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=21a5f6c9b6e97f906bebb4d7d3cf5b8f
-News 1 India,https://tvsen6.aynascope.net/News1India/index.m3u8?e=1770276623&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=38e214e180a678a10327ef233fe69652
-Sadhna Prime News,https://tvsen6.aynascope.net/SadhnaPrimeNews/index.m3u8?e=1770276624&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=9ebe7ea3f2e9d94b47a8fc4ab1716f8c
 TV9 Bangla,https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 TRT World,https://tv-trtworld.medya.trt.com.tr/master.m3u8
-TV9 Bharatvarsh,https://tvsen7.aynascope.net/TV9Bharatvarsh/index.m3u8?e=1770276624&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=338b4fe51ec78e43419cb7eda01229d9
 GB NEWS,https://fifabangladesh.site/?id=0f02e5af-c673-4498-8c62-cad669ee0cb5
-Sky News,https://tvsen5.aynascope.net/skynews/index.m3u8?e=1770276624&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=c3f94b09c2b259346173473f7165021a
-Hindi Khabar,https://tvsen7.aynascope.net/HindiKhabar/index.m3u8?e=1770276625&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=a0a35795483d1980efa605c9c6067b56
 News Nation,https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
-Bharat Samachar,https://tvsen7.aynascope.net/BharatSamachar/index.m3u8?e=1770276625&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=82bf2dc5b53bda2d26303e8d41c52f5a
 Cgtn News,https://fifabangladesh.site/?id=7909a70a-f8c8-4766-913a-b57e941bdd9d
-Fox News,https://tvsen6.aynascope.net/foxnews/index.m3u8?e=1770276625&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=a1574124ef736baf1db89fa7e4e516d2
 India Today,https://feeds.intoday.in/hltapps/api/master.m3u8
 OAN,https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8
 Iran Press,https://live.presstv.ir/hls/presstv_5_482/index.m3u8
-T Sports HD,https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1770276606&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=d1f753fe13a4b0ef5a67589d890065b8
-PTV Sports,https://tvsen5.aynascope.net/PtvSports/index.m3u8?e=1770276606&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=78ccd41dcb03aa552edb6382b496215c
 4 Sports,https://pepsi.abntv.live/hls/4spstream.m3u8
-A sports,https://tvsen6.aynascope.net/asports/index.m3u8?e=1770276606&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=746eb740aee38ee9a36b0753b1577960
-Cricket Gold,https://tvsen6.aynascope.net/CricketGold/index.m3u8?e=1770276607&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=361d02d4603776f6ab26beb5cc84571a
 PSN 1 Sports,https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8
 PSN 2 Sports,https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay.m3u8
 PSN 4 Sports,https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
 PSN 5 Sports,https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
-Golf Channel,https://tvsen6.aynascope.net/golfchannel/index.m3u8?e=1770276607&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=06ad791d75f834e82c1f956ae34f3ee7
 Bleav Football,https://linear-493.frequency.stream/dist/glewedtv/493/hls/master/playlist.m3u8
-Fox Sports 2,https://tvsen7.aynascope.net/foxsports2/index.m3u8?e=1770276608&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=9274d561b74d38d2c88d27865fb12f44
-Star Sports 1 HD,https://tvsen5.aynascope.net/c9EpzZ6fQBJ3/index.m3u8?e=1770276608&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=a7da19b9eb0b121636e35a90eb87bf53
 Sports 18,https://fifabangladesh.site/?id=f1e1b6c8-9a1b-492d-bdf9-b63295e6073e
 Bein Sports,http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
-BT Sports 2,https://tvsen6.aynascope.net/btSport2/index.m3u8?e=1770276608&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=3fd0e07afd46fb1d7d3c05b10a0fbb3a
-Espn,https://tvsen5.aynascope.net/espn/index.m3u8?e=1770276609&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=a8d91c395b31d5a67b2ec8fff672c1cf
-TSN 2,https://tvsen7.aynascope.net/tsn2/index.m3u8?e=1770276609&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=9a3ceaf2aca1066bb91084b9376d05be
 DUBAI SPORTS 1,https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
-Talk Sport,https://tvsen6.aynascope.net/talkSPORT/index.m3u8?e=1770276609&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=8dd23f194992d23350f6c27efaf40fdd
 KTV Sport Plus,https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 SPORTS FIRST TV,https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8
-Marquee Sports Network,https://tvsen6.aynascope.net/MarqueeSportsNetwork/index.m3u8?e=1770276610&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=7f347b1b62b4a72924f944d801c5f9df
 SHARJHA SPORTS TV,https://fifabangladesh.site/?id=3c332dd0-4b54-417a-a310-75d5b70a16c5
-Star Sport Select 1,https://tvsen6.aynascope.net/spsel1/index.m3u8?e=1770276610&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=57c083f2bde1b90d81b4b01859e0b33e
-Sports Grid,https://tvsen6.aynascope.net/SportsGrid/index.m3u8?e=1770276610&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=c960a07622e2f1733356ba95db1e3d3d
 Swerve Sports,https://fifabangladesh.site/?id=0c961fa9-e3ff-435a-b6d1-c32185485daa
 Xtream Sports,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
-Bloomberg TV,https://tvsen6.aynascope.net/bloombergtv/index.m3u8?e=1770276611&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=98e9adb03003d47c673bdfe4c6fdce90
 Abu Dhabi Sports 1,https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_1/abudhabi_sports_1_hls_nd/index.m3u8
 Abu Dhabi Sports 2,https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_2/abudhabi_sports_2_hls_nd/index.m3u8
 Bahrain Sports 1,https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 CBS Sports Network USA,https://fifabangladesh.site/?id=c3b46ebd-871b-48e6-9d7c-cbf562a925e5
 Dubai Sports 2,https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-Willow HD TV,https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1770276611&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=f6ec593802234e357416997141287b7f
-NFL Network,https://tvsen6.aynascope.net/nfl/index.m3u8?e=1770276612&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=f6d76f1e1d75e07fe9b21a66496ab909
-BT Sport 1,https://tvsen6.aynascope.net/btSport1/index.m3u8?e=1770276612&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=cf848a133754e3145b6e5c6bcf6b69f6
-Fox Sports 1,https://tvsen7.aynascope.net/foxsports1/index.m3u8?e=1770276612&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=3d30e53afffc1e9ab69d55043f4dcfc9
-TSN 1,https://tvsen7.aynascope.net/tsn1/index.m3u8?e=1770276612&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=b136436777c8a3bd72baeeccdb85a2c1
-TSN 3,https://tvsen7.aynascope.net/tsn3/index.m3u8?e=1770276612&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=8008cd5894c51a9126fad087ee338990
 TNT SPORTS 1 HD,https://fifabangladesh.site/?id=29d2a2b8-a7f2-4ca1-b09a-c55b60dcea3a
 SUPER SPORTS PSL,https://fifabangladesh.site/?id=9498e53f-cba5-4525-8538-46cf54900da7
 Sky Sports GOLF,https://fifabangladesh.site/?id=b2d5d52b-a280-41da-b95c-8a53bef2fc1b
 Super Cricket HD 1,https://fifabangladesh.site/?id=058490dc-acc7-4c54-9ca6-66f1f89cd556
 Super Laliga HD,https://fifabangladesh.site/?id=a9abe815-1164-4cd0-9438-16a0e2561588
 DD Sports,https://cdn-6.pishow.tv/live/13/master.m3u8
-Bahrain Sports 2,https://tvsen6.aynascope.net/BahrainSports2/index.m3u8?e=1770276613&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=e79e062404e5d5e7ec78a74285b8f0d5
 Dubai Sports 3,https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
 FanDuel Sports Network,https://fifabangladesh.site/?id=54d1a43e-e26f-4a03-96b2-5911148617ae
 NBC Sports,https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 Sharjah Sports TV,https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8
-STAR SPORTS 2 HD,https://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8?e=1770276614&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=dcd150924c8296035edc40a5f3e09940
 Sports TV,https://fifabangladesh.site/?id=6669abd2-841b-4f76-8641-5ff355da7b8c
 OAN Sports,https://fifabangladesh.site/?id=3905a25f-3d40-43a7-a6e9-62a2739ebe86
 WOF 1,https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8
@@ -4696,37 +4626,15 @@ Oman Sports TV,https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil
 Antena Sports,https://fifabangladesh.site/?id=d4ccf1ce-494f-4775-8017-c68107aa7c0c
 Auto Motor Sports,https://fifabangladesh.site/?id=04d16b1a-2542-4566-80a5-0dcfc22588fe
 BKP,https://fifabangladesh.site/?id=3d0db49c-0199-4ee3-afcf-2dcb9be8c5a8
-Tsport 7,https://tvsen6.aynascope.net/tsport7/index.m3u8?e=1770276619&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=d32c4b09f8f65434ef2d55a52c2b3631
 Dubai Sports,https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8
-Aakaash Bangla TV,https://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8?e=1770276658&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=d8d37b3cce1498b3b459f21648564735
-R Plus,https://tvsen6.aynascope.net/Rplus/index.m3u8?e=1770276658&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=ad5b9a1aedc87e7f1ab7670dbec64bcf
-R Plus Gold,https://tvsen6.aynascope.net/RplusGold/index.m3u8?e=1770276658&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=f3e15ef267ced26ef22aa66ed5e07cc5
-Rupshi Bangla,https://tvsen6.aynascope.net/RupshiBangla/index.m3u8?e=1770276658&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=2c3a7d47acf66ba41b3600426f167f35
 Sangeet Bangla,https://cdn-4.pishow.tv/live/1143/master.m3u8
-News Time Bangla,https://tvsen6.aynascope.net/NewsTime/index.m3u8?e=1770276658&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=cb49d38b8124e16a88a69f7a3b3d6e4b
-Republic Bangla,https://tvsen5.aynascope.net/R_Bangla/index.m3u8?e=1770276659&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=edceec198d6cd9327fecb6f72f256451
 TV 9 Bangla,https://fifabangladesh.site/?id=f6bbc77e-574c-4bb1-b1d5-44aae24ac5d6
-Zee 24 Ghanta,https://tvsen6.aynascope.net/zee24/index.m3u8?e=1770276659&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=ff7a04ddbda58547dbeef2e1876603d2
-News India 24x7,https://tvsen5.aynascope.net/NewsIndia24x7/index.m3u8?e=1770276659&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=bd3df101528888a3a39ac810be9c4469
-kolkata TV,https://tvsen6.aynascope.net/kolkatatv/index.m3u8?e=1770276659&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=2b51bd249d99783144dc95d3532a5a7e
-NTV Europe,https://tvsen7.aynascope.net/ntveurope/index.m3u8?e=1770276659&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=cee75e2a88a7b43d9fbb1ff57446faad
-Millennium TV,https://tvsen7.aynascope.net/millenniumtv/index.m3u8?e=1770276659&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=262ff54e644d391e47870c2b44ff17cb
-Movie Bangla,https://tvsen7.aynascope.net/moviebangla/index.m3u8?e=1770276660&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=913edf32d4a62a942373cdc8c647be52
 ATN Bangla UK,https://fifabangladesh.site/?id=85a33fa5-d82b-47d9-ae05-9efe20ae8330
-Peace TV,https://tvsen5.aynascope.net/peacetv/index.m3u8?e=1770276660&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=69072f6a5e1b0cbc866d5b22a26c9ef4
 Goal TV,https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
-Discovery Science,https://tvsen6.aynascope.net/discovery_science/index.m3u8?e=1770276660&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=1b70c8e1f73545a98b4a19117d919ace
-ASPARK TV,https://tvsen6.aynascope.net/aspark/index.m3u8?e=1770276660&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=5881a521975886c37c923cad26efd131
-pix 11,https://tvsen6.aynascope.net/pix11/index.m3u8?e=1770276661&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=a74e6b3b0d1e023a96979cd085721239
-AMC TV,https://tvsen6.aynascope.net/amc/index.m3u8?e=1770276661&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=317b141c4e2699eb58d6842ba2a0c46a
-AXS,https://tvsen6.aynascope.net/axs/index.m3u8?e=1770276661&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=883de490104963af85cb43c0500323e8
-VTV USA,https://tvsen7.aynascope.net/vtvusa/index.m3u8?e=1770276661&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=570176446c7189fb0b93feb3c0b792f2
 Axn HD,https://fifabangladesh.site/?id=e222a465-ce68-43df-881d-7d4901cf8ca1
 Star Life HD,https://fifabangladesh.site/?id=e84dc0fa-25fb-4a56-a8e1-e1b0087af728
 TBS,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-Revolt,https://tvsen6.aynascope.net/revolt/index.m3u8?e=1770276662&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=4d8c3ba069acd850573ed75c1ce8c9d3
 Live ...,https://fifabangladesh.site/?id=71d85138-3dd6-4a6a-ac39-f47aa018a00a
-Discovery HD,https://tvsen6.aynascope.net/discovery_hd/index.m3u8?e=1770276662&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=834f6047a12e14571b8bafbdfeee1c71
 4k Travel TV,https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
 Kids TV,http://origin5.mediacdn.ru/live/kidstv/index.m3u8
 InTravel,https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
@@ -4750,42 +4658,9 @@ Halchal TV,https://fifabangladesh.site/?id=9148c031-53d0-4e7d-adba-b2382d4e8988
 CMAC TV,https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-2/live.m3u8
 4 Afganistan,https://4afghls.persiana.live/hls/stream.m3u8
 Dubai TV,https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8
-Islam TV,https://tvsen6.aynascope.net/islam/index.m3u8?e=1770276643&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=308e830a1fe3db5ea364fa69d28482b0
 Global Socil TV,https://fifabangladesh.site/?id=7b485392-fa4e-4756-a88c-0df044f835e6
-RDS Social TV,https://tvsen6.aynascope.net/RDSSocialTV/index.m3u8?e=1770276643&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=89235ef9c81e0209e4ac63072e850880
 Afroturk TV,https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8
-HBO,https://tvsen5.aynascope.net/hbo/index.m3u8?e=1770276643&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=3f5166e3efdea30a16aaaab0233effd8
-History,https://tvsen5.aynascope.net/historyen/index.m3u8?e=1770276644&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=e41e0bcae8b89abd3ac6ad0fb12b9103
-CGTN Docu,https://tvsen6.aynascope.net/cgtnDocumentary/index.m3u8?e=1770276644&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=086738cd67be5fdda6dc1d56116ecb53
-Discovery Turbo,https://tvsen6.aynascope.net/discovery_turbo/index.m3u8?e=1770276644&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=edea635852f7bd76b3ab8578dc775491
-Fox business,https://tvsen6.aynascope.net/foxbusiness/index.m3u8?e=1770276644&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=f5645ddda7aa13aedd97537c97b02fa8
-Fox 5,https://tvsen6.aynascope.net/fox5/index.m3u8?e=1770276644&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=c056daef7f0ba61587183a7fa6277bfe
-Discovery Family,https://tvsen5.aynascope.net/discoveryfamily/index.m3u8?e=1770276644&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=54898a47f5a61a963834a4b9cc2e8da1
-Animal Planet HD,https://tvsen6.aynascope.net/animal_planet_hd/index.m3u8?e=1770276645&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=ca4929e8b66fcd0cb664fabf887ebe38
-BRAVO,https://tvsen7.aynascope.net/bravo/index.m3u8?e=1770276645&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=0b0d74423da65bef2e0a9447fcc405ff
-COMEDY CENTRAL,https://tvsen7.aynascope.net/comedycentral/index.m3u8?e=1770276645&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=ce2e0139327d2b5137aeb67080bc2cb3
-COOKING TV,https://tvsen7.aynascope.net/cooking/index.m3u8?e=1770276645&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=280fec47a70b1100d903b0bc3ac75787
-EPIX TV,https://tvsen7.aynascope.net/epix/index.m3u8?e=1770276645&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=b2a607e8b3f311b69bad878bbcde2954
-FX TV,https://tvsen7.aynascope.net/fx/index.m3u8?e=1770276645&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=5ca7958a0d6f019e7489cacb4f662179
-Food Network,https://tvsen6.aynascope.net/foodnetwork/index.m3u8?e=1770276645&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=192fb8dc93cdb731857ca619605129c4
-HBO 2,https://tvsen7.aynascope.net/hbo2/index.m3u8?e=1770276646&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=452ea2f2fe9e4e1fd52e6d6fac9daf7b
-HGTV,https://tvsen7.aynascope.net/hgtv/index.m3u8?e=1770276646&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=a19d20f2aed98bef5e73764c09e6d8a6
-LAFF TV,https://tvsen7.aynascope.net/laff/index.m3u8?e=1770276646&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=e00c110b751b4af8085b902955053124
-LIFE TIME,https://tvsen7.aynascope.net/lifetime/index.m3u8?e=1770276646&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=6619007adc03d630802db7b165735dd6
-Nat Geo TV,https://tvsen6.aynascope.net/natgeo/index.m3u8?e=1770276646&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=4dc6a852c23fda9b2a9f293c9f25f2fa
-SKY CINEMA ANIMATION,https://tvsen7.aynascope.net/skycinemanimation/index.m3u8?e=1770276646&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=70e252310e62828b1dcb5e34e1deb30e
-SYFY TV,https://tvsen7.aynascope.net/syfy/index.m3u8?e=1770276647&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=c7ba5e9284a1cf3d459b829820e42514
-TLC HD,https://tvsen6.aynascope.net/tlc_hd/index.m3u8?e=1770276647&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=e4f77d216a650e6c74e4ac920db8a357
 TNT TV,https://fifabangladesh.site/?id=b158f4d7-ca43-4c1c-9a5c-fd2cf2a78132
-Travel Channel,https://tvsen6.aynascope.net/travelxp/index.m3u8?e=1770276647&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=36f553a4abd356b1dec27192c376d4b0
-IBTV USA,https://tvsen7.aynascope.net/ibtvusa/index.m3u8?e=1770276647&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=87b1912a6ddc1a82b4bc16ed52e3703e
-WEATHER CHANNEL,https://tvsen6.aynascope.net/TheWeatherChannel/index.m3u8?e=1770276647&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=e6f3cc191c736c031a4af366332552e0
-CNBC TV,https://tvsen6.aynascope.net/cnbc/index.m3u8?e=1770276648&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=bc17b4ef463cb4aeee14d6de2a69eb54
-CBS TV,https://tvsen7.aynascope.net/cbs/index.m3u8?e=1770276648&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=af38e40fb174d62359529f78a0aae947
-CP 24,https://tvsen6.aynascope.net/cp24/index.m3u8?e=1770276648&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=5d25e78b7a83d06a15dbfa4bafc14838
-MTV,https://tvsen6.aynascope.net/mtv/index.m3u8?e=1770276649&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=0df8d19d76fe7096039901711f5e1e55
-   	 USA TV,https://tvsen6.aynascope.net/usa/index.m3u8?e=1770276649&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=79ae1a46270a35dfcbf411c522de73c1
-MSNBC News,https://tvsen6.aynascope.net/msnbc/index.m3u8?e=1770276649&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=7a062190436e6176a484dffac009501d
 ifood,https://fifabangladesh.site/?id=3fb56953-9eb8-4972-becd-d2f117c18c5b
 BBC Travel,https://fifabangladesh.site/?id=f1b42e9e-0f82-41ae-a30b-c3f90d18f96b
 Action Hollywood Movies,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
@@ -4793,37 +4668,14 @@ Court TV,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-cour
 Dubai One,https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
 BBC Lifestyle Asia,https://fifabangladesh.site/?id=a0593bfc-5a16-43f6-9cfc-92c4e816ac1e
 B4u Music,https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
-B4U Hitz,https://tvsen5.aynascope.net/B4UHitz/index.m3u8?e=1770276634&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=4cf5f4dcd16a9c3625cb8cbda23fefea
 B4U Movies India,https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
-Goldmines,https://tvsen6.aynascope.net/Goldmines/index.m3u8?e=1770276635&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=a0a994c316c0ece9c6db1ab82fb91a29
 Goldmines Bollywood,https://tvsen6.aynaott.com/GoldminesBollywood/index.m3u8
-Goldmines Movies,https://tvsen6.aynascope.net/GoldminesMovies/index.m3u8?e=1770276635&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=3f9c3c6bf6936234e6fabde593a5a141
 B4U Kadak,https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
-Assam Talks,https://tvsen7.aynascope.net/AssamTalks/index.m3u8?e=1770276635&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=90b18dcab8af5567c790a3a8f5e321b0
-Taaza TV,https://tvsen7.aynascope.net/TaazaTV/index.m3u8?e=1770276636&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=20513cde7689c156dbfcd304c7582701
-Dangal 2,https://tvsen6.aynascope.net/Dangal2/index.m3u8?e=1770276636&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=ac467315eae448e035d8bdad3e7718fb
-Dangal,https://tvsen6.aynascope.net/Dangal/index.m3u8?e=1770276636&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=e4a2779388867ea6b864417819354351
-TheQ,https://tvsen6.aynascope.net/TheQ/index.m3u8?e=1770276636&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=cc888f1e92986cc62c245d6a500dfa62
 ShemarooTV,https://cdn-3.pishow.tv/live/230/master.m3u8
-Dhamaal,https://tvsen6.aynascope.net/Dhamaal/index.m3u8?e=1770276636&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=d762d2eaf839c1e2c4187d6af3ec6183
-Dabangg,https://tvsen6.aynascope.net/Dabangg/index.m3u8?e=1770276637&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=821747f88461e2e86e2b691561e872f6
-Hi Dost,https://tvsen6.aynascope.net/HiDost/index.m3u8?e=1770276637&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=da273e766779f81f0a7c66ec60ab586c
-9x Jhakaas,https://tvsen6.aynascope.net/9X_Jhakaas/index.m3u8?e=1770276637&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=1a79b97cf2518893e23173331bbb0052
-9XM,https://tvsen6.aynascope.net/9xm/index.m3u8?e=1770276637&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=e0b9559460fedd64936f0aba9eb1e96d
-Manoranjan Movies,https://tvsen6.aynascope.net/ManoranjanMovies/index.m3u8?e=1770276637&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=cc5a508186dd49f350bdad49e262fc4c
-Mastiii Music,https://tvsen6.aynascope.net/mastimusic/index.m3u8?e=1770276637&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=41e284d0a59097cb854583507365f9da
 Music India,https://cdn-2.pishow.tv/live/226/master.m3u8
-9x Jalwa,https://tvsen6.aynascope.net/9xjalwa/index.m3u8?e=1770276638&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=fea63c0d7a8d84cd80b312abeebce3e7
-9X Tashan,https://tvsen6.aynascope.net/9X_Tashan/index.m3u8?e=1770276638&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=1586a2f3769d6898a6e4f6810b98c7d7
-Dhinchaak,https://tvsen6.aynascope.net/Dhinchaak/index.m3u8?e=1770276638&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=28e26dc8779818b88d9738804bf18def
 Khushboo,https://cdn-4.pishow.tv/live/1473/master.m3u8
-Manoranjan TV,https://tvsen6.aynascope.net/ManoranjanTV/index.m3u8?e=1770276638&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=95201c9a7d59678da9191fba152ad702
-Network 10,https://tvsen6.aynascope.net/Network10/index.m3u8?e=1770276639&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=00681d8fdfde2bed4b6b43594d692208
-Republic TV Bharat,https://tvsen6.aynascope.net/RepublicTVBharat/index.m3u8?e=1770276639&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=749ea7140f878ab7fab09878a083e48b
 Rongeen TV,https://fifabangladesh.site/?id=d7541d99-14a5-4775-b90f-8681070ba80a
 Movie Today,https://fifabangladesh.site/?id=3c57401b-76ef-486e-8c7b-b3eff2f3e0e6
-Dhamaka Movies,https://tvsen7.aynascope.net/DhamakaMovies/index.m3u8?e=1770276639&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=f0e22b5b77669df7db67ebcea8a6afc3
-Sony TV HD,https://tvsen5.aynascope.net/Wfn4bVp3dLgA/index.m3u8?e=1770276639&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=34b3784bc54f280d40b0220093de0ca0
 And Flix HD,https://fifabangladesh.site/?id=e6084a77-7e9c-457f-88e9-31d2254d2f61
 Sony SAB,https://fifabangladesh.site/?id=22f09081-19f6-4d52-a525-29045a6fa25c
 Sony BBC,https://fifabangladesh.site/?id=6fe8cee1-f638-4f9e-bb55-c28784799da3
@@ -4834,43 +4686,24 @@ Sony AATH,https://fifabangladesh.site/?id=6e3b1ff7-bd93-4925-bba1-800d5ab0730c
 Sony MAX,https://fifabangladesh.site/?id=06e5c2bd-6981-4110-9b3c-3686b3087d89
 Sony PIX,https://fifabangladesh.site/?id=2f8edbf3-9856-426c-a17f-174bb41f67f4
 Sony TEN 1,https://fifabangladesh.site/?id=b04b3742-e2a1-4d56-8b3e-2b2154766ada
-Sony TEN2,https://tvsen3.aynascope.net/HsatAP9H/index.m3u8
 Zee Cinema,https://fifabangladesh.site/?id=82e2a77e-38f9-438b-80de-da3aa7e5cf61
 Zee Action,https://fifabangladesh.site/?id=42cbbb02-3573-4d3c-b4c3-34b4bda4115f
 Zee Bollywood,https://fifabangladesh.site/?id=ae006a57-1f88-4436-9acc-dd86bc0339a7
-& Pictures,https://tvsen6.aynascope.net/andpictureshd/index.m3u8?e=1770276642&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=80b355a27dc03dac5f4874e7d3c19045
 & TV,https://fifabangladesh.site/?id=0e168ab9-1a05-4030-8b18-e7ff2342f7da
 Zee TV,https://fifabangladesh.site/?id=3d238aba-0b7f-4516-a6d6-c563e5814dbd
 Zoom TV,https://live.zoomnews.info/live/Zoom_playlist.m3u8
 Hindi Movie Classic 24,https://vods2.aynaott.com/hindimovies/index.m3u8
 &TV,https://fifabangladesh.site/?id=97bad0e5-0210-4380-802c-12ce3b01f775
 Awaaz India,http://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
-Zee Bangla International,https://tvsen5.aynascope.net/PNEb3v2q6GBk/index.m3u8?e=1770276654&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=e9db809e3b4d5b6abc4cc4266207bd9e
-Zee Bangla Cinema,https://tvsen6.aynascope.net/ZeeBanglaCinema/index.m3u8?e=1770276654&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=03c062a5ed85b7ce5c6c49b9f92df42e
 DD Bangla,https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
 Enter 10 Bangla,https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 Baby TV,https://fifabangladesh.site/?id=5c62ff81-0efc-42eb-9dbe-65402fa54afb
-Cartoon Network,https://tvsen5.aynascope.net/cartoonnetwork/index.m3u8?e=1770276631&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=ed9fe4becb43fe5a830cee5204801a2d
 PBS Kids,https://fifabangladesh.site/?id=d6d46db7-a14a-45ad-b576-b40c80406134
-Disney JR,https://tvsen7.aynascope.net/disneyjr/index.m3u8?e=1770276631&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=c595ffe3a0d6f1e97266d959f82d07a4
-Nicktoons,https://tvsen5.aynascope.net/nicktoons/index.m3u8?e=1770276631&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=5aad29e1c8247305a6d2ab7d639cff23
-Nickjr,https://tvsen5.aynascope.net/nickjr/index.m3u8?e=1770276631&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=65a1081c6d55e8f49371d54af0e40003
-3ABN Kids,https://tvsen6.aynascope.net/3abnkids/index.m3u8?e=1770276631&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=bf577b2ebe51644651c69ea7b4a3b5a3
 Dios Te Ve Kids,https://s.emisoras.tv:8081/diostevekids/index.m3u8
-Forever Kids,https://tvsen6.aynascope.net/ForeverKids/index.m3u8?e=1770276632&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=3ae4a19d5f49b6e12a07acd0ae553d4b
 kids Cartoon Movies,https://fifabangladesh.site/?id=210c516d-b1d2-4e76-9402-b1ba3e44440a
 Kids Pang TV,https://newidco-kidspangtv-1-us.roku.wurl.tv/playlist.m3u8
-M NET Kids,https://tvsen6.aynascope.net/MNetKids/index.m3u8?e=1770276632&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=7c76491d77d972a0f0a912862116f1c4
-Moonbug Kids,https://tvsen6.aynascope.net/MoonbugKids/index.m3u8?e=1770276632&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=888be4434f95f7a7e9c029e2ec3c8d8a
 Pluto TV Kids Animation,https://fifabangladesh.site/?id=92719d66-9061-470f-9a7f-1ddf112720c1
-TVC Arabic Kids,https://tvsen6.aynascope.net/TVCArabicKids/index.m3u8?e=1770276633&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=696aab5523cc8b05dfdf46376698e760
-Disney Channel,https://tvsen7.aynascope.net/disney/index.m3u8?e=1770276633&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=9d23b812559bc58af8944b97aa45e16b
-Disney XD,https://tvsen5.aynascope.net/disneyxd/index.m3u8?e=1770276633&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=5317fc5a5eca8a77adafb7f4791b2132
-Family JR,https://tvsen5.aynascope.net/familyjr/index.m3u8?e=1770276633&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=b98d13effacb776faef3a882f12377c0
-Nickelodeon,https://tvsen7.aynascope.net/nicklodean/index.m3u8?e=1770276633&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=fb33835e870f85d3056dc668fe362550
-Teen Nick,https://tvsen7.aynascope.net/teennick/index.m3u8?e=1770276634&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=9c700a4ef8727ebed3b84c95bb9b2481
 Universal Kids,https://fifabangladesh.site/?id=db46c74d-d2d2-4044-bc04-173f15a23864
-YTV,https://tvsen6.aynascope.net/ytv/index.m3u8?e=1770276634&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=c2935b3017a8bde33fad1a84e83e35ca
 4 Kids TV,https://fifabangladesh.site/?id=4cb37b51-8326-48ef-9daf-689f7ff75e92
 TVCARiB Kids & Teens,https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8
 BBC Lifestyle Asia,https://fifabangladesh.site/?id=a0593bfc-5a16-43f6-9cfc-92c4e816ac1e
@@ -4884,29 +4717,16 @@ Hadi TV,https://live.ishiacloud.com/haditv.co.uk/haditv1.m3u8
 ABN,https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
 Court TV,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
 RTV Islam,https://protokolldns.xyz/rtvislamweb554/index.m3u8
-Al-Zahar TV Turkic,https://tvsen6.aynascope.net/AlZaharTVTurkic/index.m3u8?e=1770276650&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=a47d169f2a657ed33915e86b597f458b
-Iqra Bangla,https://tvsen5.aynascope.net/iqrabangla/index.m3u8?e=1770276650&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=888870fdec5dc9c63e724cb1c4b61d52
-TV ONE,https://tvsen5.aynascope.net/tvone/index.m3u8?e=1770276650&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=f8ea47636c9b4b9a54107004586ddce7
-Peace TV Urdu HD,https://tvsen6.aynascope.net/PeaceTVUrduHD/index.m3u8?e=1770276651&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=836178a5900ac200b737f27e63ec9abd
 Channel Win,https://cdn-4.pishow.tv/live/229/master.m3u8
-Deen TV,https://tvsen7.aynascope.net/deen/index.m3u8?e=1770276651&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=b3d499234b4096c8b471a71ea63c43b2
-Eman Channel,https://tvsen6.aynascope.net/eman/index.m3u8?e=1770276651&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=573bd91cb76c3024ae6b7d612fac4088
 Quran,https://fifabangladesh.site/?id=202995ff-6d89-4f7e-9bcb-ab36cf530a17
 SUNNAH,https://fifabangladesh.site/?id=feb40b2a-e10d-45d2-9e89-786f7d29ab2c
-TAQBEER,https://tvsen7.aynascope.net/takbeer/index.m3u8?e=1770276652&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=c635e5dc5475d77c69b6165706e51da3
-MADANI TV,https://tvsen7.aynascope.net/MadaniTV/index.m3u8?e=1770276652&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=01cd6db960b07b09af94e03d2562099a
 Hadi TV,https://live.ishiacloud.com/haditv.co.uk/haditv1.m3u8
 Geo ENT,https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
-Dream Turk,https://tvsen6.aynascope.net/DreamTurk/index.m3u8?e=1770276652&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=3ba685e454c4a3100e432844461968e7
-Ekin Turk,https://tvsen6.aynascope.net/EkinTurk/index.m3u8?e=1770276652&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=638f54d4e601962ae77e7d44724bcb8c
 NR1,https://fifabangladesh.site/?id=ce1252de-2d9b-4f2f-b601-2ee995a13371
 Power Turk,https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
-Dhoom Music Bangla,https://tvsen6.aynascope.net/dhoom/index.m3u8?e=1770276653&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=2c8246dcb8bd22681ba5ec2ece082978
 World Muzzik,https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
 Sochi Live HD,https://fifabangladesh.site/?id=3b0c8ed6-af02-479c-9135-1609e891e40e
 Adventure Earth,https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
-Star Jalsha HD,https://tvsen7.aynascope.net/sjhdbd/index.m3u8?e=1770276655&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=e70bad523cea08f2af4714a645ef7da1
-Star Plus HD,https://tvsen7.aynascope.net/sphdbd/index.m3u8?e=1770276655&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=1c7d8f690381b69da30f071f5b205cbb
 Persiana Kore,https://korhls.persiana.live/hls/stream.m3u8
 ABN,https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
 Yüksek Sosyete,https://fifabangladesh.site/?id=ad3d7b22-47d4-40e2-9b9f-753039e5a1ab
