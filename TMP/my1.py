@@ -115,7 +115,6 @@ class TVSourceProcessor:
             # "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/斯瑪特直播源1",
             "https://txt.gt.tc/users/HKTV.txt?i=1",
             "https://live.hacks.tools/tv/iptv4.txt",
-            "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/bbxx.txt",
         ]
         print(f"源URL: {len(urls)}个")
         
