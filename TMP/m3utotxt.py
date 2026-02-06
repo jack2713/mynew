@@ -84,6 +84,7 @@ if __name__ == "__main__":
     # 替换为你需要处理的M3U URL列表
     m3u_urls = [
         "https://raw.githubusercontent.com/Cnmajun/IptvSync/refs/heads/main/Judy/combined-playlist.m3u",
+        "https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/litv.m3u",
         #"http://example.com/playlist2.m3u"
     ]
     
