@@ -20,7 +20,6 @@ class TVSourceProcessor:
         chrome_options.add_argument("--no-sandbox")
         chrome_options.add_argument("--disable-dev-shm-usage")
         chrome_options.add_argument("--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
-        
         self.driver = webdriver.Chrome(options=chrome_options)
 
     def fetch_url_content(self, url: str):
@@ -28,15 +27,14 @@ class TVSourceProcessor:
         try:
             print(f"获取: {url}")
             self.driver.get(url)
-            
             # 等待页面加载完成
             WebDriverWait(self.driver, 30).until(
                 EC.presence_of_element_located((By.TAG_NAME, "pre"))
             )
-            
             # 获取页面内容
             content = self.driver.find_element(By.TAG_NAME, "pre").text
-            
+            # 确保内容是UTF-8编码
+            content = content.encode('utf-8', 'ignore').decode('utf-8')
             # 清理并分割行
             lines = [line.strip() for line in content.splitlines() if line.strip()]
             print(f" 成功: {len(lines)} 行")
@@ -113,31 +111,27 @@ class TVSourceProcessor:
         # 只使用指定的URL
         urls = [
             # "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/斯瑪特直播源1",
-            "https://txt.gt.tc/users/HKTV.txt?i=1",
+            #"https://txt.gt.tc/users/HKTV.txt?i=1",
             "https://live.hacks.tools/tv/iptv4.txt",
         ]
         print(f"源URL: {len(urls)}个")
-        
         # 1. 获取内容
         if not self.fetch_multiple_urls(urls):
             print("无内容可处理")
             self.driver.quit()
             return False
-        
         # 2. 排除处理
         filtered = self.remove_excluded_sections()
         if not filtered:
             print("排除后无内容")
             self.driver.quit()
             return False
-        
         # 3. 去重处理
         final = self.remove_genre_lines_and_deduplicate(filtered)
         if not final:
             print("去重后无内容")
             self.driver.quit()
             return False
-        
         # 4. 保存文件
         if self.save_to_file(final, "my1.txt", "smt,#genre#"):
             print("处理完成")
@@ -151,7 +145,6 @@ def main():
     """主函数"""
     processor = TVSourceProcessor()
     success = processor.process()
-    
     # 退出状态码
     if success and os.path.exists("my1.txt"):
         print(f"文件位置: {os.path.abspath('my1.txt')}")
