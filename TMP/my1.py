@@ -1,6 +1,7 @@
 import re
 import os
 import sys
+import chardet
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
@@ -32,9 +33,26 @@ class TVSourceProcessor:
                 EC.presence_of_element_located((By.TAG_NAME, "pre"))
             )
             # 获取页面内容
-            content = self.driver.find_element(By.TAG_NAME, "pre").text
+            element = self.driver.find_element(By.TAG_NAME, "pre")
+            # 尝试获取原始HTML内容
+            html_content = element.get_attribute('outerHTML')
+            # 检测编码
+            encoding_result = chardet.detect(html_content.encode())
+            encoding = encoding_result['encoding'] or 'utf-8'
+            print(f" 检测到编码: {encoding}")
+            # 尝试多种方式获取内容
+            try:
+                content = element.text
+            except:
+                # 如果text属性获取失败，尝试获取innerHTML
+                content = element.get_attribute('innerHTML')
+                # 替换HTML实体
+                content = content.replace('&lt;', '<').replace('&gt;', '>').replace('&amp;', '&')
             # 确保内容是UTF-8编码
-            content = content.encode('utf-8', 'ignore').decode('utf-8')
+            try:
+                content = content.encode(encoding, 'ignore').decode('utf-8')
+            except:
+                content = content.encode('utf-8', 'ignore').decode('utf-8')
             # 清理并分割行
             lines = [line.strip() for line in content.splitlines() if line.strip()]
             print(f" 成功: {len(lines)} 行")
@@ -96,6 +114,8 @@ class TVSourceProcessor:
         """保存到文件"""
         try:
             content = [first_line] + lines
+            # 确保所有行都是UTF-8编码
+            content = [line.encode('utf-8', 'ignore').decode('utf-8') for line in content]
             with open(filename, 'w', encoding='utf-8') as f:
                 f.write('\n'.join(content))
             file_size = os.path.getsize(filename)
