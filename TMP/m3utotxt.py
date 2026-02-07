@@ -1,7 +1,7 @@
 import requests
 from urllib.parse import urlparse
 
-def convert_m3u_to_txt(urls, exclude_chars=None, output_file="TMP/zb.txt"):
+def convert_m3u_to_txt(urls, exclude_chars=None, output_file="TMP/temp.txt"):
     """
     将指定URL列表中的M3U内容转换为TXT格式并保存到文件
     
