@@ -139,7 +139,6 @@ class TVSourceProcessor:
         print("开始处理直播源")
         # 使用指定的URL
         urls = [
-            "https://txt.gt.tc/users/HKTV.txt?i=1",
             "https://live.hacks.tools/tv/iptv4.txt",
         ]
         print(f"源URL: {len(urls)}个")
