@@ -1,7 +1,7 @@
 import requests
 from urllib.parse import urlparse
 
-def convert_m3u_to_txt(urls, exclude_chars=None, output_file="TMP/hw.txt"):
+def convert_m3u_to_txt(urls, exclude_chars=None, output_file="TMP/zb.txt"):
     """
     将指定URL列表中的M3U内容转换为TXT格式并保存到文件
     
@@ -83,8 +83,7 @@ def convert_m3u_to_txt(urls, exclude_chars=None, output_file="TMP/hw.txt"):
 if __name__ == "__main__":
     # 替换为你需要处理的M3U URL列表
     m3u_urls = [
-        "https://raw.githubusercontent.com/Cnmajun/IptvSync/refs/heads/main/Judy/combined-playlist.m3u",
-        "https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/litv.m3u",
+        "https://raw.githubusercontent.com/TK-code-max/zby/refs/heads/main/%E5%9B%BD%E5%86%85%E7%94%B5%E8%A7%86%E5%8F%B02026.m3u",   
         #"http://example.com/playlist2.m3u"
     ]
     
