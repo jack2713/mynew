@@ -55,7 +55,7 @@ jobs:
     # 8. 提交并推送文件到项目仓库
     - name: Commit and Push changes
       run: |
-        git add $(pwd)/TMP/hw.txt  # 使用绝对路径确保路径正确
+        git add $(pwd)/TMP/s.txt  # 使用绝对路径确保路径正确
         git commit -m "Update TMP with new streams" --allow-empty
         git push origin HEAD:main  # 如果使用的是其他分支，请修改
 
@@ -63,5 +63,5 @@ jobs:
     - name: Upload streams file
       uses: actions/upload-artifact@v4
       with:
-        name: hw
-        path: TMP/hw.txt
+        name: s
+        path: TMP/s.txt
