@@ -1,3 +1,11 @@
+#!/usr/bin/env python3
+"""
+网页内容提取与过滤工具
+功能：从指定URL列表获取内容，支持两种过滤模式：
+1. 段过滤：排除包含指定关键词的#genren#段
+2. 行过滤：排除包含指定关键词的行
+"""
+
 import os
 import re
 import requests
@@ -78,10 +86,20 @@ class WebContentFilter:
                 filtered_content = self.filter_lines(filtered_content, exclude_line_words)
                 all_content.append(filtered_content)
                 
+        # 合并所有内容
+        final_content = '\n'.join(all_content)
+        
+        # 移除所有#genre#行
+        lines = final_content.split('\n')
+        filtered_lines = [line for line in lines if '#genre#' not in line]
+        
+        # 添加指定第一行
+        filtered_lines.insert(0, "hycg#genre#")
+        
         # 保存结果
         output_path = os.path.join(self.tmp_dir, output_file)
         with open(output_path, 'w', encoding='utf-8') as f:
-            f.write('\n'.join(all_content))
+            f.write('\n'.join(filtered_lines))
             
         print(f"处理完成，结果已保存到: {output_path}")
 
@@ -93,10 +111,10 @@ if __name__ == "__main__":
     ]
     
     # 过滤包含IPTV或直播的#genren#段
-    exclude_segment_words = ["IPTV"]
+    exclude_segment_words = ["IPTV", "直播"]
     
     # 过滤包含sss的行
-    exclude_line_words = ["PLTV","體育"]
+    exclude_line_words = ["PLTV"]
     
     # 创建过滤器实例
     filter = WebContentFilter()
