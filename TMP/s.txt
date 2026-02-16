@@ -1,4 +1,4 @@
-㊗️新春快乐 虎年大K,#genre#
+hycg#genre#
 黄金华剧,http://pull-vivek.speedws.com/live/aaahjhj.flv
 翡翠4K,http://o11.163189.xyz/stream/tvb/fct4k/
 河北电视4K,http://106.53.99.30/tv/api.php?id=hebtv4k
@@ -7,7 +7,6 @@
 广州南国都市4K,http://tencentplaygsm.gztv.com/live/nanguodushi.m3u8
 CCTV-8K超高清,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 CCTV4K,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
-CCTV,#genre#
 央视|CCTV-16,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 央视|CCTV-17,http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
 央视|CCTV-4K超高清,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
@@ -45,7 +44,6 @@ CGTN法语,https://0472.org/hls/cgtnf.m3u8
 CGTN记录,https://0472.org/hls/cgtnd.m3u8
 CGTN西语,https://0472.org/hls/cgtnx.m3u8
 CGTN阿语,https://0472.org/hls/cgtna.m3u8
-卫视,#genre#
 凤凰卫视中文,http://cdn6.163189.xyz/163189/fhzw
 凤凰卫视资讯,http://cdn6.163189.xyz/163189/fhzx
 欧洲华文卫视,http://oh.eztv.vip/live/eztv1.m3u8
@@ -57,7 +55,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 厦门,http://110.80.17.38:9999/tsfile/live/0128_1.m3u8
 兵团,https://live-pc.xuexi.cn/merged/bttv_merge_cqhd.m3u8?auth_key=1769092133-0-17690933342055524-46274080b3b7a6c8a24862a0db3014a0&yid=17690933342055524
 延边,https://srs.iyb983.cn/video/CYS/index.m3u8
-轮播,#genre#
 轮播|成龙电影,http://38.75.136.137:98/gslb/dsdqpub/lbcl.m3u8?auth=testpub
 轮播|林正英影院,http://38.75.136.137:98/gslb/dsdqpub/lblzy.m3u8?auth=testpub
 轮播|邵氏电影,http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
@@ -67,7 +64,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 轮播|周润发电影,http://38.75.136.137:98/gslb/dsdqpub/lbzrf.m3u8?auth=testpub
 轮播|周星驰电影,http://38.75.136.137:98/gslb/dsdqpub/lbzxc.m3u8?auth=testpub
 e/bfgd/4200000149.m3u8
-北京地方,#genre#
 CETV1,http://49.232.181.26:6000/rtp/225.1.8.32:8152
 CETV2,http://49.232.181.26:6000/rtp/225.1.8.193:4120
 CETV4,http://49.232.181.26:6000/rtp/225.1.8.195:4120
@@ -120,7 +116,6 @@ IPTV好学生,http://49.232.181.26:6000/rtp/225.1.8.241:4120
 IPTV国学,http://49.232.181.26:6000/rtp/225.1.8.237:4120
 IPTV美人,http://49.232.181.26:6000/rtp/225.1.8.233:4120
 
-吉林地区,#genre#
 延边综合,https://srs.iyb983.cn/video/ybtv1/index.m3u8
 延边汉语,https://srs.iyb983.cn/video/ybtv2/index.m3u8
 延边朝语,https://srs.iyb983.cn/video/ybtv1/index.m3u8
@@ -157,7 +152,6 @@ IPTV美人,http://49.232.181.26:6000/rtp/225.1.8.233:4120
 辉南综合,http://stream5.jlntv.cn/hn/playlist.m3u8
 柳河综合,http://stream5.jlntv.cn/lh/playlist.m3u8
 通化县综合,http://stream5.jlntv.cn/thx/playlist.m3u8
-江苏地区,#genre#
 江阴新闻,http://221.228.70.101:8080/live/xinwen.m3u8
 无锡教育,https://tv.wxjy.com.cn:9001/tvwebstream/tv_channel_1359/index.m3u8
 无锡江阴新闻,http://221.228.70.101:8080/live/xinwen.m3u8
@@ -287,7 +281,6 @@ IPTV美人,http://49.232.181.26:6000/rtp/225.1.8.233:4120
 镇江综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8?wsSession=a263bdc5a26cd01b57a80359-170493712215358&wsIPSercert=f56bd6194d219a5172dbed60eca6e9b0
 淮安公共,http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd
 淮安无线,http://live1.habctv.com/ysylsl/sd/live.m3u8?zjiangsd
-黑龙江地区,#genre#
 黑龙江安达综合,https://masterpull.hljtv.com/live/FsGxlDZQ.m3u8
 黑龙江巴彦综合,https://masterpull.hljtv.com/live/vAtZi96R.m3u8
 黑龙江宝清综合,https://masterpull.hljtv.com/live/HBp9MLoA.m3u8
@@ -356,7 +349,6 @@ IPTV美人,http://49.232.181.26:6000/rtp/225.1.8.233:4120
 黑龙江肇东综合[854*480],https://masterpull.hljtv.com/live/G84ZsUTP.m3u8
 黑龙江肇源综合,https://masterpull.hljtv.com/live/XkQg7QSI.m3u8
 黑龙江肇州综合,https://masterpull.hljtv.com/live/imOHYJ77.m3u8
-河南地方,#genre#
 河南开封新闻综合,http://tvpull.dxhmt.cn:9081/tv/10200-2.m3u8?zhend
 河南开封文化旅游,http://tvpull.dxhmt.cn:9081/tv/10200-3.m3u8?zhend
 河南济源电视一套,http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8?zhend
@@ -395,7 +387,6 @@ IPTV美人,http://49.232.181.26:6000/rtp/225.1.8.233:4120
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=439b0fd2cf766b363c93a59cbcbe1370&txTime=18d00acf488
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 广州影视,https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret
-浙江地方,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 钱江频道,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 经济生活,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
@@ -533,7 +524,6 @@ IPTV美人,http://49.232.181.26:6000/rtp/225.1.8.233:4120
 洞头综合频道,http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8?zzhed
 武义综合,http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8
 上虞频道,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
-四川地区,#genre#
 峨眉电影,http://118.122.144.115:8888/newlive/live/hls/32/live.m3u8
 电影,http://118.122.144.115:8888/newlive/live/hls/38/live.m3u8
 百事通,http://118.122.144.115:8888/newlive/live/hls/39/live.m3u8
@@ -614,7 +604,6 @@ IPTV美人,http://49.232.181.26:6000/rtp/225.1.8.233:4120
 四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 四川文化旅游,http://183.221.92.176:50080/hls/19/index.m3u8
 四川乡村,http://scxclivepull.sctvcloud.com/live/c0b8c1c3018e1000e51198d100000000/playlist.m3u8?wsSecret=b627c9d9b2cdf4afed08253b6125fe1f&wsTime=2019657600
-重庆地区,#genre#
 重庆|重庆文体娱
 铜梁综合,http://183.64.174.171:40123/ch1.m3u8
 璧山综合频道,http://222.179.42.129:8181/hls1.m3u8
@@ -641,9 +630,7 @@ IPTV美人,http://49.232.181.26:6000/rtp/225.1.8.233:4120
 永川综合,https://yypull.cbg.cn/applive/yctv01/playlist.m3u8
 酉阳综合,https://yypull.cbg.cn/applive/youytv01/playlist.m3u8
 忠县综合,https://yypull.cbg.cn/applive/zxtv2/playlist.m3u8
-河南IPTV,#genre#
 陕西卫视
-港澳,#genre#
 凤凰香港http://tv.groupshare.com.cn/fhtv?id=hk	
 凤凰中文,http://tv.groupshare.com.cn/fhtv?id=cn
 凤凰资讯,http://tv.groupshare.com.cn/fhtv?id=info
@@ -723,7 +710,6 @@ HBO,http://208.87.242.79/livehttpplay?channel_id=20093
 娱乐新闻台,http://208.87.242.79/livehttpplay?channel_id=13006
 HBO家庭电影,http://208.87.242.79/livehttpplay?channel_id=20092
 华纳WBTV,http://208.87.242.79/livehttpplay?channel_id=20112
-台湾,#genre#
 愛爾達綜合,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUROubjtkj6w5Ur6zxa5XTgtw6ECtzCRwKyer50DCchy_LjTAfjylHK8iu2gOneuvdrTJLMxprmnVApN4GvKuo4HdOmTFA3WTIWdkBu6cFyBs-hgJ4x4fM47ptvGlfAq1NfZ13dAgR5vyr7ug1IABd6kHxxnyOvJ3KTcDa86BprLiaXfa1W574Rp_xQ2xfMEnE5oXRJezfk9t5eUmxzzXERQ.m3u8?u=1756878715
 愛爾達影劇,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUROubjtkj6w5Ur6zxa5XTgiRGF7HQNlR0a58XFxBLkyM2ZIr-OffsOr_3XaKmabC1DpeaUi00YNFlD9pEHBjx4q_6wlzUsFxT8xL-iDp9jV1AtVokIOMMl5hx54NBJhlcTLT49hEV6xCWoVSaDifhLFLgwtl5MRYd5K4QZKWd8jN9hI5UdP8LpnBHcAA5EwStqGJqfdu8ZV2JKrUHHO9lgQ.m3u8?u=1756878715
 愛爾達生活英語,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUGoAizwDX2ugIXbPbDhCigEdL9A6ZXxVj6cC2slA65Y1H9rvyoxhgKap5FKSs9HkV3io1GadgMRomnniezHmBfpGTIiACmNAkvEn5lZLfYpr6DntrCSv6HS41ZthGPi_Oue7eD0aP52v8zoCAEppRaaSrOPF06cJlfBUpH0ta5N48bkx4dX_UTx_xIALNPU50HzjnshKY5dGzXD_9xiO8o4j8AwQdY-FXLCTltkFyPM4.m3u8?u=1756878715
@@ -830,7 +816,6 @@ JET综合,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqph
 MOMTV,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUQcKJgqGv1BzPFE67m_1RccfZWsPJCz5uWJXol3gNR2qRDzijvbb49spqWR3Cn3VJavuX3nU7kZPTYlJIubAFXq3Q_olbndHq8hWWAwLOnsLlhj4h6l78SCtmgHV6nwR3AUQF0BMuby_uDG8msfvcxt-vvlgkZdxBFAbCsv5HtfcilCbSxVatqgGYLLtXeABmwymF1NBfFq1Xl6QN-nsqjg.m3u8?u=1756878715
 MOMO亲子台HD,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaB2MBpZJIecyktt2dzKZQilus2mhB7CZQWmsJegaJnG32pbnSytfXmRgLfPrqSEGYXBndhumyNOiG6HxxumMZkf4PYabTHrz_LWE6OGFnlF7IjTt3T9tRkyhQf0VssHnW-uA0i0C9uxYGegFesrzpDHKRol0qA3sDpjMB0aPCMwMegx3Xu_c0ldCHTcbOKsz3rw1kW7crn96N-VmXYLKJQ.m3u8?u=1756878715
 
-电影,#genre#
 美亞電影(HK),http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUvaoH1tVvTVFB-LNSroC3TB4e-G4J0_FskZShxUWMyH9uJYaRIwHRL6wYYZgzP4oYzUwM9mAAb43rbcE6A101tSdQTvpkab3j4Rfqs5AJmVEZpyj3hn468_CHMpi85T1NLENmAikRcKWC1Jgov5RzFUviWRejdWA8Kb1M1t4kYy-GDX1UpfEsgVho2wBWM3k__5QVLPIkO8g-v0fMV8I04g.m3u8?u=1756878715
 龙祥时代,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaB2MBpZJIecyktt2dzKZQsilXP7R7vrttApoprEBxK2-CCx_u1xjj4vEJ8zFIkwHWUDaVl2dKP5coSwjRk2Y-UHVP8HVJ_37hr3se-l9pUXT1E-Rj5DOMkWvBgV5HGgZMOpuktjWCvborJtzZ5C2ccHGjN_1l0VlRsmcywUJAIKeXTQNekOltALBSsQjKzAQ7TvR7aXxqJDmVHYdAkaLhg.m3u8?u=1756878715
 好莱坞電影,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUvKU-Aw4PFwAvIn8K7Du4mDkrkxKAnKwIzb1AVpQElSxrJTXogKLSEoS0FbIeFwnm1Jc359utC2S7-ILqiObeeiOPbb5y-hAhyWCRu3GyGDo5vkg9bX6qKVUkmqlTUfgmiY_w65YJ37OPLFHYBJpxIDFGvMQVUTO2v3wwt6c6yC91RCqf7UX9LRtHvilvB2CYeaNMR0yZecNKHDIRe7ov0w.m3u8?u=1756878715
@@ -848,7 +833,6 @@ CATCHPLAY电影台,http://208.87.242.79/livehttpplay?channel_id=10127
 龍華动画,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUnx1SdKGszEQ77eUPMh3Ehc4D7lV_Qmc3KMo0VSlcjId_8mOn2C_RQsXvci7QjAZMo7XS1n16EWH-TPX16KrWLLbHbPsFexrHZCgu5qZIiuC4ZgRRgv8E2kv4wi-VNTMmLjGMv398XPmtqAwyl0lnYYGYCVFpQ6rbyFIbq-D6Bao5wQ4MccJtJkH2XhxgbXgvJK_38530pO_Su0VSakZkvg.m3u8?u=1756878715
 龍華动画,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUnx1SdKGszEQ77eUPMh3Ehc4D7lV_Qmc3KMo0VSlcjId_8mOn2C_RQsXvci7QjAZMo7XS1n16EWH-TPX16KrWLLbHbPsFexrHZCgu5qZIiuC4ZgRRgv8E2kv4wi-VNTMmLjGMv398XPmtqAwyl0lnYYGYCVFpQ6rbyFIbq-D6Bao5wQ4MccJtJkH2XhxgbXgvJK_38530pO_Su0VSakZkvg.m3u8?u=1756878715
 
-越南,#genre#
 ANNINHTV,https://livevlisctcdnw.seenow.vn/mean/ANNINHTV/manifest.mpd
 QPTV,https://livevlisctcdnw.seenow.vn/mean/QPTV/manifest.mpd
 VTV1_,https://livevlisctcdnw.seenow.vn/livesnv2/VTV1_HD/manifest.mpd
