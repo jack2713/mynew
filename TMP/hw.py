@@ -83,12 +83,11 @@ def convert_m3u_to_txt(urls, exclude_chars=None, output_file="TMP/hw.txt"):
 if __name__ == "__main__":
     # 替换为你需要处理的M3U URL列表
     m3u_urls = [
-        "https://raw.githubusercontent.com/Cnmajun/IptvSync/refs/heads/main/Judy/combined-playlist.m3u",
-        "https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/litv.m3u",
+        "https://raw.githubusercontent.com/bj123sd/IPTV/refs/heads/main/hycg.txt",
         #"http://example.com/playlist2.m3u"
     ]
     
     # 需要排除的字符列表
-    exclude_chars = ["aynascope.net", "udptv.xyz", "wns.live","cloudfront.net","stevosure123","visionplus.id"]
+    exclude_chars = ["PLTV", "udptv.xyz", "wns.live","cloudfront.net","stevosure123","visionplus.id"]
     
     convert_m3u_to_txt(m3u_urls, exclude_chars)
