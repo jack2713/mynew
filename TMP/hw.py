@@ -96,7 +96,7 @@ if __name__ == "__main__":
     exclude_segment_words = ["IPTV"]
     
     # 过滤包含sss的行
-    exclude_line_words = ["PLTV"]
+    exclude_line_words = ["PLTV","體育"]
     
     # 创建过滤器实例
     filter = WebContentFilter()
