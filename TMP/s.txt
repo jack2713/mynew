@@ -766,8 +766,8 @@ MOMTV,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqx
 MOMO亲子台HD,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaB2MBpZJIecyktt2dzKZQilus2mhB7CZQWmsJegaJnG32pbnSytfXmRgLfPrqSEGYXBndhumyNOiG6HxxumMZkf4PYabTHrz_LWE6OGFnlF7IjTt3T9tRkyhQf0VssHnW-uA0i0C9uxYGegFesrzpDHKRol0qA3sDpjMB0aPCMwMegx3Xu_c0ldCHTcbOKsz3rw1kW7crn96N-VmXYLKJQ.m3u8?u=1756878715
 
 翡翠台,http://hls-pull-betconstruct.speedws.com/live/CL7gYJcMM5BXZvyamZly3XZnyMmRJrojFap12oP6KkG1PhQWJK.flv
-TVBJ1,http://hls-pull-betconstruct.speedws.com/live/xU3SHbh8rojFaCEoP4aRvogZf7Onz4VphQKpce5vuUHrwYauhG.flv
-TVB1,http://hls-pull-betconstruct.speedws.com/live/9nWoj6aYLHQtkV1fXQa0tN6c00jq5FxEqzfqZ6OBBrojFaePqp.flv
+TVBJ1,http://cdn6.veryfast.filegear-sg.me/live/j1/stream.m3u8
+TVB1,http://v2h.veryfast.filegear-sg.me/live/tvb1/stream.m3u8
 千禧经典台,http://hls-pull-betconstruct.speedws.com/live/dExItrojFaRV3yeH33cbhn443lvbm4nz1qEI9Rfs1Slf1STsjz.flv
 76,http://pull-vivek.speedws.com/live/aaahoy76.flv
 77,http://pull-vivek.speedws.com/live/aaahoy77.flv
