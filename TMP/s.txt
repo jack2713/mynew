@@ -481,10 +481,13 @@ CETV4,http://49.232.181.26:6000/rtp/225.1.8.195:4120
 武义综合,http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8
 上虞频道,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
 峨眉电影,http://118.122.144.115:8888/newlive/live/hls/32/live.m3u8
+峨眉电影,http://183.223.157.33:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 电影,http://118.122.144.115:8888/newlive/live/hls/38/live.m3u8
 百事通,http://118.122.144.115:8888/newlive/live/hls/39/live.m3u8
 文化旅游,http://118.122.144.115:8888/newlive/live/hls/35/live.m3u8
+四川新闻,http://183.223.157.33:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 四川文化旅游,http://118.122.144.115:8888/newlive/live/hls/34/live.m3u8
+四川科教,http://183.223.157.33:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 成都高新电视,https://livepgc.chinamcache.com/pgc/d849e3b837e34409b46124c267a8a1cf.m3u8?auth_key=1719565624-0-0-c80453df5f2edc88776ce766e497b52b
 威远综合,http://wy-live-pull.thecover.cn/rmtlive/fmzb1710746907096.m3u8
 峨眉山综合,https://embl.emsyd.jrem.cn/dsfdsfdsfdsfsfdshfgj/wwdsfdgd.m3u8?auth_key=1718610605-0-0-23887de4a278cb108ba8936de20eb854
@@ -592,14 +595,13 @@ CETV4,http://49.232.181.26:6000/rtp/225.1.8.195:4120
 凤凰资讯,http://tv.groupshare.com.cn/fhtv?id=info
 港臺電視31,http://rihou.cc:555/tv/[Cx]RTHK-31
 港臺電視32,http://rihou.cc:555/tv/[PL]RTHK-32
-ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+ViuTV,http://hls.168.us.kg/u/99/master.m3u8
 ViuTV6,http://hls.168.us.kg/u/96/master.m3u8
 天映经典,https://o11.163189.xyz/stream/live/ccm/
 天映频道,https://o11.163189.xyz/stream/live/typd/
 HKN星影臺,http://rihou.cc:555/tv/[Us]Now星影
 HKN爆谷臺,http://208.87.242.79/livehttpplay?channel_id=13002
 美亞電影台,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
-POPC,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUW2lLbPLxX5K0GlafuBk91fb6hLkGFAJPYiYrDXIrSl8ZyInN2caScK9k4uBb2hHU3QcOVpDZM6zPF0dTtxJ-FRU-WN63JuPdzB1jDNuzYgq8ItCn0oyeLbculDTGln6CZncWyLIMRFyzJC5tPPSihqLc7JXbovD25D3K0ksPgdGkfeQOUMLZWEIyJC8XjGFRIdBq7YawVgToVlAwc89_C7SHItK8rTjqLStjnSCnEhE.m3u8?u=1756878715
 CATCHPLAY電影台,http://208.87.242.79/livehttpplay?channel_id=10127
 國家地理,http://208.87.242.79/livehttpplay?channel_id=20037
 動物星球,http://208.87.242.79/livehttpplay?channel_id=20106
@@ -617,7 +619,8 @@ Now财经,http://rihou.cc:555/tv/[Mt]Now财经
 TVB翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
 TVB明珠台,https://o11.163189.xyz/stream/tvb/mzt/
 TVB PLUS,https://o11.163189.xyz/stream/tvb/tvbp/
-TVBJ1,http://rihou.cc:555/tv/[PL]无线北美
+TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
+TVBJ,http://iptv.4666888.xyz/iptv2A.php?id=25
 TVB功夫台(国 测试),http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OG9eGeUql4Pu4nd0YKNVZwrTjPD9FhpUUMM4y0wcMyEGvOkQLaG_EnKjTa0Qq0I4qxTaiuRONXqcHybJia2r-T068DnHUCFdOM1D83-ffhIa5wSsLVF74xPzOhKi4Ig3S0-EyC2H_pSGqWDQgGUtLXZR6xcA5dJcXMNRFraLzIZBcomYOKkxdNI1eOsORR254ycJ7Yt5o3iEe-vxvxgLEJuCbtm2ISzoQE6Bv9FTnlSLQ.m3u8?u=1757123819
 TVB亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
@@ -632,6 +635,7 @@ TVB亞洲劇臺,http://208.87.242.79/livehttpplay?channel_id=13022
 TVB華語劇臺,http://208.87.242.79:2347/livehttpplay?channel_id=13023
 TVB黃金翡翠台,http://208.87.242.79/livehttpplay?channel_id=13027
 TVB Jade,http://fm1077.serv00.net/Smart.php?id=Tvbjade
+TVBDRAMA,https://6.cdn.loc.cc/163189.php?id=tvbd
 TVBS新聞,http://208.87.242.79/livehttpplay?channel_id=20165
 TVBS綜合,http://208.87.242.79/livehttpplay?channel_id=20085
 新加坡8臺,http://208.87.242.79/livehttpplay?channel_id=10132
@@ -685,7 +689,6 @@ Thrill h265 ,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiW
 东森幼幼,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LysOrUJOi8rbct2UuQ7ucPFtWzXy_FGBM5p2vfxvHKohBHjpNu1ugRQGQd6C3Uxu5im65IWxGSIcvFJDpVj-p21dQ4WGmDazsrXLvGmJaTIYlgMK_wCE-_wpQx3tgmGneNkOZDpC-Nhkz6L1V9OOXHHGDJJmC01JNenj-XBGoYXmnpvVzNcInbsmTg8gp0ToMiQ.m3u8?u=1756878715
 东森综合,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LyqP7JL5zoJwS4YNNznemr_YdtSKhh6NNAwR9PzzP461sjhlssLp3lK6UJ8-tnuwG8CbBxKI1dg3OfG2PGsVIQaseJXA6DBTaS0MuVPFR_aOdPVW3LH5YhV9dtBSNyWyJZiz6NyMdgyeWK4kjvnkBH2wPAT52wt91Db438hm8mDpNXQRutSpHIsBlvrQktzdyMg.m3u8?u=1756878715
 东森财经,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0Lyld6S8JfeqymuL3OFtfMczq1GZqATmZbcNH-MmCs22e9zRCdHwwW1gcG9s7xBGdRHE94yoikMHOe2swLWR7UoGQbuu8V1wjUajJxqWE_lq6msUCd3Qme5AQky-4TUaRLnum64bAahmPto5JgvuxuiYYT085MZ_GTwTL8mAV4DEHH7fKYKF80d4NdW4y5o732WXFmKM1NHEWpzb9fCBgVKCM.m3u8?u=1756878715
-TVBDRAMA,https://6.cdn.loc.cc/163189.php?id=tvbd
 好消息,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUrjtaa4Sm6Zqst6X8-oz1Y7-zaxbyAc6MQqYmrpUDLEqzWNnF7SOC89I7zwap6gbfSqNfa9eBbpd5wxyEJJkfjsPhFkQ1h39XbTYm3gjCBzchVpRcsNGU1r0ud8Tz4koZCGcmP2b6fkrevEXXcwMRtB-JzaXAfVMpL5U63pvExxqSNaJwwXmHlC33XRrfUGtZYyYGaKEHS0hqbFvm19u7kg.m3u8?u=1756878715
 好消息2,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUrjtaa4Sm6Zqst6X8-oz1Y2P5kyoQQNzx04LvwK_lGXeAX5bbBkFHqTs-NEmioG3SIqGJuioPTUcHORdpQq4YX1Dv0kt_FlAFr_XVBUeS8KwQZMMxdf9DNn9fZoNGBv7A6zHk07zgjy8loO5cPS3Gc6g6o13jOKAomAeRbTrEQ1RbslJLbzTl-Eek8IoR5SXdh657p0D4MM1PKumvKK8L3w.m3u8?u=1756878715
 华艺中文台,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUTrMyCqMXKCgK30HhBPyAK39DsnI5JTX1-7C80IK10I6u_7aMkjPPFWjpKggfC3QWTbapvSQJ8BVSZSN-ehUQBdAEgATxG4nHF_Jai14TyBhTLtuFq7aeka7DUg979zxHrnVJkM92qZbPyPI_6ZSeAdG126znKHtKcHJcx_liWuzLuGE4hakGfeLyH9BdWHB46rf4-eRA2ygKk37FY_tqBA.m3u8?u=1756878715
@@ -732,6 +735,7 @@ TVBDRAMA,https://6.cdn.loc.cc/163189.php?id=tvbd
 原住民台,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUozysOx_iOGf0oPhoCFv92v2rN0b3btwx8ud0bNdbn68PU0FKtybHN2qQxpvlF4nZNGmtyORiLfURmXQSBBth5CxX2035r4evMmihuH-7eRvACXmHRD8KEyenNi-qQFS2Um2MhyXouZ3r7k6N8SjN0ANninhB2u0VDVMpuu-xZgzN_U0PtWZEujCvUWhBlx5GyhdxwzilJmLqQhWD3sGsRQ.m3u8?u=1756878715
 重温经典(新版),http://openwrt.guidang.net:1688/udp/225.1.8.39:8002
 重温经典,http://8.138.7.223/tv/cwjd.php
+
 ANNINHTV,https://livevlisctcdnw.seenow.vn/mean/ANNINHTV/manifest.mpd
 QPTV,https://livevlisctcdnw.seenow.vn/mean/QPTV/manifest.mpd
 VTV1_,https://livevlisctcdnw.seenow.vn/livesnv2/VTV1_HD/manifest.mpd
