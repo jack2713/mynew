@@ -83,8 +83,8 @@ def convert_m3u_to_txt(urls, exclude_chars=None, output_file="TMP/temp.txt"):
 if __name__ == "__main__":
     # 替换为你需要处理的M3U URL列表
     m3u_urls = [
-        "https://raw.githubusercontent.com/TK-code-max/zby/refs/heads/main/%E5%9B%BD%E5%86%85%E7%94%B5%E8%A7%86%E5%8F%B02026.m3u",   
-        "https://raw.githubusercontent.com/chentieli/my_iptv/refs/heads/main/20260209.m3u",
+        #"https://raw.githubusercontent.com/TK-code-max/zby/refs/heads/main/%E5%9B%BD%E5%86%85%E7%94%B5%E8%A7%86%E5%8F%B02026.m3u",   
+        "https://xoxo.cn.mt/Lonely.m3u",
     ]
     
     # 需要排除的字符列表
