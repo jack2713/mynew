@@ -601,15 +601,15 @@ ViuTV6,http://hls.168.us.kg/u/96/master.m3u8
 天映频道,https://o11.163189.xyz/stream/live/typd/
 HKN星影臺,http://rihou.cc:555/tv/[Us]Now星影
 HKN爆谷臺,http://208.87.242.79/livehttpplay?channel_id=13002
-美亞電影台,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+美亞電影台,https://100.061833.xyz/stream/mytv/null-5/stream.m3u8?uid=1424015633&u=vip10098&p=f2060c05c9558875f19c1b02dafbeffd4e092f6b3c717f3038d1caa6c71faca4
 CATCHPLAY電影台,http://208.87.242.79/livehttpplay?channel_id=10127
 國家地理,http://208.87.242.79/livehttpplay?channel_id=20037
 動物星球,http://208.87.242.79/livehttpplay?channel_id=20106
 好莱坞电影,http://208.87.242.79/livehttpplay?channel_id=20062
 华纳WBTV,http://208.87.242.79/livehttpplay?channel_id=20112
 MUTV,http://208.87.242.79/livehttpplay?channel_id=13025
+popc,https://100.061833.xyz/stream/mytv/popc/stream.m3u8?uid=90950444&u=vip10098&p=f2060c05c9558875f19c1b02dafbeffd4e092f6b3c717f3038d1caa6c71faca4
 香港賽馬臺,http://208.87.242.79/livehttpplay?channel_id=13005
-有线赛讯,http://rihou.cc:555/tv/[Mt]有线赛讯
 Now Sports 精選,http://hls.168.us.kg/u/630/master.m3u8
 NOW新闻台,https://cdn.163189.xyz/163189/now
 NOW財經,http://hls.168.us.kg/u/333/master.m3u8
@@ -627,7 +627,7 @@ TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
 
 TVB无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
+千禧经典台,https://o11.163189.xyz/stream/live/tvbc/#http://iptv.4666888.xyz/iptv2A.php?id=22
 TVB戲曲臺,http://208.87.242.79/livehttpplay?channel_id=13026
 TVB經典臺,http://208.87.242.79/livehttpplay?channel_id=13024
 TVB粵語片臺,http://208.87.242.79/livehttpplay?channel_id=13021
@@ -664,13 +664,16 @@ HOY78,http://hls.168.us.kg/u/78/master.m3u8
 China Mov h265 ,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OG2LV-Fr8y86yPX-J4JG9ZPn4Dr7tcnTXET7O0emdC1htlY3FarnHVRs35E47gmF_r5zKD0j-8Y_CkO7XaOrUHRMryBKv5V6GW8oVOAMhWC-c3YnqRMpzBwqW3uA7HL4mw99NaKloXHQnaFZXBrOL1MG5QsLODMr8CzkJwhwp58-dZ5ZVR2jr3gd10FyLCe6tSERm6stBobky1mSG_FET95YPbIwtCur0hhHywpbziT7Q.m3u8?u=1757123819
 Discovery (C),http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGS8njv2ZJPsDbpeTxgWtpVvZ3venyVpXfiHKbATNtLoXAjq-4RW6XYhakg6KZnxKCGoiLnL-7i65eJeavlCRqY94xFsSo0HiYVMwzKnzsSNmqjNZPHSvU0ajbJVXu_gJr0OLfOlUIRLhIVH-agj8HyAWuhCLir-2A3QThISCS_jpqg536jgH7Gr28qZq-xyCu7VNd3vePH51Q2MGTuaWG1g.m3u8?u=1757123819
 Discovery Asia (C),http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGfdH6k_qt8KBsJdLXVrt6ZJIhM8ENTwRu68wHZrycfHhQQLf1hx00ymwk3t9dNhOMl-y_XXJ-SSDltUHMTGeCCN-2_7RRR5U_MmOxxR1bcVIrRjbTOP1h3NHLrPbtvWFJvQD2otGOQ9T8dDGKBwSKyS3VEXeis-rySogcdm3xn4IzUK6v747rgOsMFNCPvBBQroGSrOqIfb7BR-_WZN5TLOYcX7bOCnrKydevYpKFDuk.m3u8?u=1757123819
+澳门莲花,http://cdn6.163189.xyz/163189/amlh
 澳门体育,http://rihou.cc:555/tv/[Pd]澳门体育
 澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
 澳门综艺,http://rihou.cc:555/tv/[Pd]澳门综艺
 澳门MaC,http://rihou.cc:555/tv/[PL]澳门MaC
 momo亲子台,http://208.87.242.79/livehttpplay?channel_id=16085
+MoMoTV,rtmp://f13h.mine.nu/sat/tv761
 DAZN2DAZN2,http://208.87.242.79/livehttpplay?channel_id=10105
 DAZN,1http://208.87.242.79/livehttpplay?channel_id=10104
+燿才财经台,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 非凡新聞,http://208.87.242.79/livehttpplay?channel_id=20034
 年代新聞,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGlX51QXT6Zxyxc1Pxn1MRyQGoMlw1JnYst1UuU5jZ4sUmFMD33FWQnve1ozv9fDbXmsEFdv7-dsph-nrehTbelhQAkX-hhAABQ-4LN3k2_jdgiadP4K0ijKDUEmFEWJ_cz3cHAacD7o3c_OEBMrnGSm5Tqcyw5Qzk8H1ql_Mjk-bg-e1ChiAu6NRKv-BdGNDB2V3NAJ6bXUmGsdWXdOUJWA.m3u8?u=1757123819
 HBO高清,http://208.87.242.79/livehttpplay?channel_id=20093
@@ -697,17 +700,25 @@ Thrill h265 ,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiW
 壹電視新聞台,http://208.87.242.79/livehttpplay?channel_id=20028
 壹电影,http://208.87.242.79/livehttpplay?channel_id=20108
 台视,http://211.72.174.95:8112/0.ts
+台视,rtmp://f13h.mine.nu/sat/tv071
 民视,http://iptv.fr.to/test/Fmtv.php?id=FTVHD 
+民视,rtmp://f13h.mine.nu/sat/tv051
+民视综艺,http://hls-pull-betconstruct.speedws.com/live/B7nYQGwPYRIqqXXJgXWP1gjAmfzcnR7j1Esvo9FdVssKd8VgDS.flv
+民视影剧,http://hls-pull-betconstruct.speedws.com/live/z0Vp6Rj91d9fVMBBepN5tL45yIvw87nYQGOTgHyml5y7Sy7uhf.flv
 民視新聞,http://208.87.242.79/livehttpplay?channel_id=20097
-华视,http://iptv.fr.to/test/Fmtv.php?id=CTSHD 
+华视,http://iptv.fr.to/test/Fmtv.php?id=CTSHD
+华视,rtmp://f13h.mine.nu/sat/tv111
 中視,http://208.87.242.79/livehttpplay?channel_id=20088
+中視,rtmp://f13h.mine.nu/sat/tv091
 中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
 中视经典,http://74.91.26.218:82/live/ctvjd.m3u8
 中视菁采,http://74.91.26.218:82/live/ctvjc.m3u8
 中天新闻,http://208.87.242.79/livehttpplay?channel_id=20163
 中天娱乐,http://208.87.242.79/livehttpplay?channel_id=20079
 中天综合,http://208.87.242.79/livehttpplay?channel_id=20064
-公視,http://208.87.242.79/livehttpplay?channel_id=20087 
+中旺电视,http://38.64.72.148:80/hls/modn/list/4010/chunklist1.m3u8
+公视,http://208.87.242.79/livehttpplay?channel_id=20087
+公视,rtmp://f13h.mine.nu/sat/tv771
 小公视,http://74.91.26.218:82/live/ptsse.m3u8
 八大第一台,http://208.87.242.79/livehttpplay?channel_id=20073
 八大综合台,http://208.87.242.79/livehttpplay?channel_id=20068
@@ -715,7 +726,9 @@ Thrill h265 ,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiW
 纬来电影,http://208.87.242.79/livehttpplay?channel_id=20199
 纬来电影,http://iptv.fr.to/test/Fmtv.php?id=wldy
 纬来体育,http://208.87.242.79/livehttpplay?channel_id=20120
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来育乐,http://iptv.fr.to/test/Fmtv.php?id=wlyl
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 緯來日本,http://208.87.242.79/livehttpplay?channel_id=20303
 爱尔达綜合台,http://208.87.242.79/livehttpplay?channel_id=16076
 靖天歡樂,http://208.87.242.79/livehttpplay?channel_id=30021
