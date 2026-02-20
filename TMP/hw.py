@@ -94,7 +94,7 @@ class WebContentFilter:
         filtered_lines = [line for line in lines if '#genre#' not in line]
         
         # 添加指定第一行
-        filtered_lines.insert(0, "hycg#genre#")
+        filtered_lines.insert(0, "hycg,#genre#")
         
         # 保存结果
         output_path = os.path.join(self.tmp_dir, output_file)
