@@ -599,8 +599,8 @@ ViuTV,http://hls.168.us.kg/u/99/master.m3u8
 ViuTV6,http://hls.168.us.kg/u/96/master.m3u8
 天映经典,https://o11.163189.xyz/stream/live/ccm/
 天映频道,https://o11.163189.xyz/stream/live/typd/
-HKN星影臺,http://rihou.cc:555/tv/[Us]Now星影
-HKN爆谷臺,http://208.87.242.79/livehttpplay?channel_id=13002
+Now爆谷,http://rihou.cc:555/tv/[Hv]Now爆谷
+Now星影,http://rihou.cc:555/tv/[Hv]Now星影
 美亞電影台,https://100.061833.xyz/stream/mytv/null-5/stream.m3u8?uid=1424015633&u=vip10098&p=f2060c05c9558875f19c1b02dafbeffd4e092f6b3c717f3038d1caa6c71faca4
 CATCHPLAY電影台,http://208.87.242.79/livehttpplay?channel_id=10127
 國家地理,http://208.87.242.79/livehttpplay?channel_id=20037
