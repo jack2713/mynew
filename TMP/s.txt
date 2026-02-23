@@ -784,64 +784,71 @@ CETV4,http://49.232.181.26:6000/rtp/225.1.8.195:4120
 酉阳综合,https://yypull.cbg.cn/applive/youytv01/playlist.m3u8
 忠县综合,https://yypull.cbg.cn/applive/zxtv2/playlist.m3u8
 陕西卫视
-凤凰香港,http://tv.groupshare.com.cn/fhtv?id=hk
-凤凰中文,http://tv.groupshare.com.cn/fhtv?id=cn
-凤凰资讯,http://tv.groupshare.com.cn/fhtv?id=info
+凤凰中文,http://pull-vivek.speedws.com/live/aaafhzw.flv
+凤凰资讯,http://pull-vivek.speedws.com/live/aaafhzx.flv
+凤凰香港,http://pull-vivek.speedws.com/live/aaafhxg.flv
+HOY 76,http://pull-vivek.speedws.com/live/aaahoy76.flv
+HOY 77,http://pull-vivek.speedws.com/live/aaahoy77.flv
+HOY 78,http://pull-vivek.speedws.com/live/aaahoy78.flv
+VIUTV,http://pull-vivek.speedws.com/live/aaaviutv.flv
+VIUTV6,http://pull-vivek.speedws.com/live/aaaviutv6.flv
+无线新闻，http://pull-vivek.speedws.com/live/aaawxxw.flv
+明珠台,http://pull-vivek.speedws.com/live/aaamingzhu.flv
+翡翠台,http://pull-vivek.speedws.com/live/aaajade.flv
+TVB PLUS,http://pull-vivek.speedws.com/live/aaaplus.flv
+TVB娱乐新闻台,http://pull-vivek.speedws.com/live/aaaylxw.flv
+MYTV SUPER 1，http://pull-vivek.speedws.com/live/aaamqxjd.flv
+MYTV SUPER 2 粤语片台,http://pull-vivek.speedws.com/live/aaahjfc.flv
+MYTV SUPER 3 亚洲剧台,http://pull-vivek.speedws.com/live/aaayzjt.flv
+MYTV SUPER 4 华语剧台,http://pull-vivek.speedws.com/live/aaahyjt.flv
+MYTV SUPER 7 戏曲台,http://pull-vivek.speedws.com/live/aaaxqt.flv
+MYTV SUPER 8 黄金翡翠,http://pull-vivek.speedws.com/live/aaahjfc.flv
+MYTV SUPER 9 黄金华剧台,http://pull-vivek.speedws.com/live/aaahjhj.flv
+MYTV SUPERFREE，http://pull-vivek.speedws.com/live/aaaSUPERFREE.flv
+美亚电影,http://pull-vivek.speedws.com/live/aaamydy.flv
+天映经典,http://pull-vivek.speedws.com/live/aaatyjd.flv
+天映频道,http://pull-vivek.speedws.com/live/aaatypd.flv
+POP C,http://pull-vivek.speedws.com/live/aaapopc.flv
+法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 港臺電視31,http://rihou.cc:555/tv/[Cx]RTHK-31
 港臺電視32,http://rihou.cc:555/tv/[PL]RTHK-32
 ViuTV,http://hls.168.us.kg/u/99/master.m3u8
 ViuTV6,http://hls.168.us.kg/u/96/master.m3u8
 天映经典,https://o11.163189.xyz/stream/live/ccm/
 天映频道,https://o11.163189.xyz/stream/live/typd/
-Now爆谷,http://rihou.cc:555/tv/[Hv]Now爆谷
-Now星影,http://rihou.cc:555/tv/[Hv]Now星影
 美亞電影台,https://100.061833.xyz/stream/mytv/null-5/stream.m3u8?uid=1424015633&u=vip10098&p=f2060c05c9558875f19c1b02dafbeffd4e092f6b3c717f3038d1caa6c71faca4
-CATCHPLAY電影台,http://208.87.242.79/livehttpplay?channel_id=10127
-國家地理,http://208.87.242.79/livehttpplay?channel_id=20037
-動物星球,http://208.87.242.79/livehttpplay?channel_id=20106
-好莱坞电影,http://208.87.242.79/livehttpplay?channel_id=20062
-华纳WBTV,http://208.87.242.79/livehttpplay?channel_id=20112
-MUTV,http://208.87.242.79/livehttpplay?channel_id=13025
+美亞電影台,https://smt.1678520.xyz/smt3.2.3.php?id=meiyamovie_twn
 popc,https://100.061833.xyz/stream/mytv/popc/stream.m3u8?uid=90950444&u=vip10098&p=f2060c05c9558875f19c1b02dafbeffd4e092f6b3c717f3038d1caa6c71faca4
-香港賽馬臺,http://208.87.242.79/livehttpplay?channel_id=13005
 Now Sports 精選,http://hls.168.us.kg/u/630/master.m3u8
 NOW新闻台,https://cdn.163189.xyz/163189/now
 NOW財經,http://hls.168.us.kg/u/333/master.m3u8
 Now体育,http://rihou.cc:555/tv/[Mt]Now体育
 Now直播,http://rihou.cc:555/tv/[Mt]Now直播
 Now财经,http://rihou.cc:555/tv/[Mt]Now财经
-TVB翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
 TVB明珠台,https://o11.163189.xyz/stream/tvb/mzt/
 TVB PLUS,https://o11.163189.xyz/stream/tvb/tvbp/
 TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
 TVBJ,http://iptv.4666888.xyz/iptv2A.php?id=25
-TVB功夫台(国 测试),http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OG9eGeUql4Pu4nd0YKNVZwrTjPD9FhpUUMM4y0wcMyEGvOkQLaG_EnKjTa0Qq0I4qxTaiuRONXqcHybJia2r-T068DnHUCFdOM1D83-ffhIa5wSsLVF74xPzOhKi4Ig3S0-EyC2H_pSGqWDQgGUtLXZR6xcA5dJcXMNRFraLzIZBcomYOKkxdNI1eOsORR254ycJ7Yt5o3iEe-vxvxgLEJuCbtm2ISzoQE6Bv9FTnlSLQ.m3u8?u=1757123819
 TVB亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
-
-TVB无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-千禧经典台,https://o11.163189.xyz/stream/live/tvbc/#http://iptv.4666888.xyz/iptv2A.php?id=22
-TVB戲曲臺,http://208.87.242.79/livehttpplay?channel_id=13026
-TVB經典臺,http://208.87.242.79/livehttpplay?channel_id=13024
-TVB粵語片臺,http://208.87.242.79/livehttpplay?channel_id=13021
-TVB亞洲劇臺,http://208.87.242.79/livehttpplay?channel_id=13022
-TVB華語劇臺,http://208.87.242.79:2347/livehttpplay?channel_id=13023
-TVB黃金翡翠台,http://208.87.242.79/livehttpplay?channel_id=13027
-TVB Jade,http://fm1077.serv00.net/Smart.php?id=Tvbjade
+千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
+千禧经典台,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbclassic
 TVBDRAMA,https://6.cdn.loc.cc/163189.php?id=tvbd
-TVBS新聞,http://208.87.242.79/livehttpplay?channel_id=20165
-TVBS綜合,http://208.87.242.79/livehttpplay?channel_id=20085
-新加坡8臺,http://208.87.242.79/livehttpplay?channel_id=10132
 8TV,http://rihou.cc:555/tv/[Pd]八度空间
 CH8,http://rihou.cc:555/tv/[Pd]CH8综合
 CHU,http://rihou.cc:555/tv/[Pd]CHU综合
 CH5,http://rihou.cc:555/tv/[Pd]CH5综合
-Astro AOD,https://o11.163189.xyz/stream/live/aod/
-Astro AEC,https://o11.163189.xyz/stream/live/aec/
-Astro QJ,http://208.87.242.79:2347/livehttpplay?channel_id=20704
-Astro 欢喜台,http://208.87.242.79:2347/livehttpplay?channel_id=20705
-爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
+Astro AOD，http://o11.163189.xyz/stream/live/aod/
+Astro AOD，http://php.jdshipin.com/smt.php?id=Aodhd
+Astro AEC，http://o11.163189.xyz/stream/live/aec/
+Astro AEC，http://php.jdshipin.com/smt.php?id=AEC
+Astro QJ，http://o11.163189.xyz/stream/live/qj/
+Astro QJ，http://php.jdshipin.com/smt.php?id=Quanjia
+Astro欢喜台,http://o11.163189.xyz/stream/live/hxt/
+Astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
+Astro欢喜台,http://smt.1678520.xyz/smt3.2.1.php?id=Huahee
+爱奇艺，http://o11.163189.xyz/stream/live/iqiyi/
+爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
 HOY76,http://hls.168.us.kg/u/76/master.m3u8
 HOY77,http://hls.168.us.kg/u/77/master.m3u8
 HOY78,http://hls.168.us.kg/u/78/master.m3u8
@@ -855,93 +862,40 @@ HOY78,http://hls.168.us.kg/u/78/master.m3u8
 邵氏动作,http://rihou.cc:555/tv/[FY]邵氏动作
 爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
 (国)天映电影,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUpZ57DWtawgDqgk9ACxtn4vc8tNib6vhl1tbTES2mBo7rzvlORZklfQoDf3IGAtc5S_NfcG_zouZVVY8S5UHcY0b2GzpO7Zlu9qXMQaZfiaaR1v4S52JJFHiNyFA2IL-K5KiW5pFkk5A4y2BkyI7t0cwiURlEP2GBA_0ozzKqEiC92DRXWRt5juxuSxGQZo44tsZQ11v9BFq_bQ9NH72Bsw.m3u8?u=1756878715
-China Mov h265 ,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OG2LV-Fr8y86yPX-J4JG9ZPn4Dr7tcnTXET7O0emdC1htlY3FarnHVRs35E47gmF_r5zKD0j-8Y_CkO7XaOrUHRMryBKv5V6GW8oVOAMhWC-c3YnqRMpzBwqW3uA7HL4mw99NaKloXHQnaFZXBrOL1MG5QsLODMr8CzkJwhwp58-dZ5ZVR2jr3gd10FyLCe6tSERm6stBobky1mSG_FET95YPbIwtCur0hhHywpbziT7Q.m3u8?u=1757123819
-Discovery (C),http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGS8njv2ZJPsDbpeTxgWtpVvZ3venyVpXfiHKbATNtLoXAjq-4RW6XYhakg6KZnxKCGoiLnL-7i65eJeavlCRqY94xFsSo0HiYVMwzKnzsSNmqjNZPHSvU0ajbJVXu_gJr0OLfOlUIRLhIVH-agj8HyAWuhCLir-2A3QThISCS_jpqg536jgH7Gr28qZq-xyCu7VNd3vePH51Q2MGTuaWG1g.m3u8?u=1757123819
-Discovery Asia (C),http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGfdH6k_qt8KBsJdLXVrt6ZJIhM8ENTwRu68wHZrycfHhQQLf1hx00ymwk3t9dNhOMl-y_XXJ-SSDltUHMTGeCCN-2_7RRR5U_MmOxxR1bcVIrRjbTOP1h3NHLrPbtvWFJvQD2otGOQ9T8dDGKBwSKyS3VEXeis-rySogcdm3xn4IzUK6v747rgOsMFNCPvBBQroGSrOqIfb7BR-_WZN5TLOYcX7bOCnrKydevYpKFDuk.m3u8?u=1757123819
 澳门莲花,http://cdn6.163189.xyz/163189/amlh
 澳门体育,http://rihou.cc:555/tv/[Pd]澳门体育
-澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
 澳门综艺,http://rihou.cc:555/tv/[Pd]澳门综艺
-澳门MaC,http://rihou.cc:555/tv/[PL]澳门MaC
-momo亲子台,http://208.87.242.79/livehttpplay?channel_id=16085
-MoMoTV,rtmp://f13h.mine.nu/sat/tv761
-DAZN2DAZN2,http://208.87.242.79/livehttpplay?channel_id=10105
-DAZN,1http://208.87.242.79/livehttpplay?channel_id=10104
 燿才财经台,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
-非凡新聞,http://208.87.242.79/livehttpplay?channel_id=20034
-年代新聞,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGlX51QXT6Zxyxc1Pxn1MRyQGoMlw1JnYst1UuU5jZ4sUmFMD33FWQnve1ozv9fDbXmsEFdv7-dsph-nrehTbelhQAkX-hhAABQ-4LN3k2_jdgiadP4K0ijKDUEmFEWJ_cz3cHAacD7o3c_OEBMrnGSm5Tqcyw5Qzk8H1ql_Mjk-bg-e1ChiAu6NRKv-BdGNDB2V3NAJ6bXUmGsdWXdOUJWA.m3u8?u=1757123819
-HBO高清,http://208.87.242.79/livehttpplay?channel_id=20093
-HBO family MOVIES,http://208.87.242.79/livehttpplay?channel_id=20092
-HBO Signature HD,http://208.87.242.79/livehttpplay?channel_id=20314
-HBO Signature HD,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGTDg6B3YnzkzPdKTKOv2LvtCBAG9uZ1dyLb79x5qZjUU4b8dMfF6PtBydxXS-cijr_U4wO1Rpzn7wImf66mdkfv0AC3sjC1EAm9ZCYeKNzC24K5REDp8qzI8OVDrpUjO3lmv5eA10xJfTI7FpqQmZZ89s08njTkZsHdXzZvCKf2O-VKKRLmvptyQy4_FJkBAVDSu5fBDFnnE5bLJctjEW3rQ4-wePX_cwMwzU2u9u8SU.m3u8?u=1757123819
 JET综合,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUTrMyCqMXKCgK30HhBPyAKxPrehHyovEjSATPmqVYmi_55P6_ClppJeyrbzjYf24my5E1aQFwy3TVlhBr5ZUdk6nMwZpsUqt80MqAp2JJeTAVwBkXNVGDV2DOPpDGzglj707bXwtdewSJcVI8rBkbPoZOIz-eP2EnO957G73l0lherkXi7uYhhbKR5hAi2BMJDtovWHEcaZm58US4U7735w.m3u8?u=1756878715
-ONHD(C),http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU1wJaIpLKloJpLmTqtuJ0kwR0LfRA6ebA9xa06i2mKq82fhQzg72UCJS_BDqiYpZD4yMXy02v8BUPAf52ehmXhvmsCUjPFkCEwweQdty_qwdocEswusjpt9NxFBk425EAGhMAnRpxTOA7C_2KvB72fpGa9ZEBrnvE_04P0SkkG-62gyV-J-zklwCG-f9zqhQVbyb47aRlj0-2sJ4pLwcVEg.m3u8?u=1756878715
-Thrill h265 ,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OG6kDbWyRZP9FOUIL8wXnE4qawkmnn_-CJ6MfdByoHgeJFHHfHxFYaJsNAeLyvzszL6Ildu7VnTgMzmtx591ZXoCfllTpi8IeTIXoWp-Ki_9-wUCkrskVg70C65GDGZlSFMAT5yU1LZyqWPPcUD7u8_3_nUCBoIHHsz5WY808F3aFF6N40rnJuVSI9Vz4-9xnKQkyyfA6GwKMS6vyQUEtoQhal8mwapP8WXiiX1Sp0RfQ.m3u8?u=1757123819
-东风37,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUQcKJgqGv1BzPFE67m_1RcT1PSJKP4I-UoyllK4Gqi4f88n9xlF-NFtX12j5BxMLisFFiQ7qj_9HQuId8ewu6N5iL5q6P20QNY-h-u-yQzp6xHs3jmwasNkpunTwMEh6LaPQ4XGcnA9nZ-IoH93NvZzdPwL_iGYHNTgKZnN-C8-_MkAn7zXEihIq3Scyj-4Vx1ig930UD7yLs13iqCLtz4A.m3u8?u=1756878715
-东森新闻,http://208.87.242.79/livehttpplay?channel_id=20082
-东森电影,http://208.87.242.79/livehttpplay?channel_id=20077
-东森洋片,http://208.87.242.79/livehttpplay?channel_id=20080#http://iptv.fr.to/test/Fmtv.php?id=dsyp
 东森超视,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0Lylo8KUJQTw1XM1IsXqjJnCxGXLXhrak82yhR8-9Wjyp9Jv3dZZvl6rvdTktEA2MYUd10pSrYSPnc8hHXs4J-aTh66eb712HSAUMkxcK0pUyO3bxG7rVxjU34m9a8Hm_FIYUYPNK8SbDa6K25k5-H2esS87XxkHjgfg9u2-1NH6z-rAXzr38rHUrVSVVJaT81Cg.m3u8?u=1756878715
-东森戏剧,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LyrJr0JpJ4YG-0D2dlO03Xx9kE5_TelraDakln8Fybn2hnwUt6dVS2agyGKeywcmE986yBp3VcHnmGrdm-4Yv7AM18p8CncJ2JJdCtCmHj2al_kmi_yaVKmJLnzf-HENeJysMzBP9NGsL5OAMn_sZ3GX73iz7c7su3PBgE7ATDc1l5D2dTM3oGoMCaPHscvkQJg.m3u8?u=1756878715
-东森幼幼,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LysOrUJOi8rbct2UuQ7ucPFtWzXy_FGBM5p2vfxvHKohBHjpNu1ugRQGQd6C3Uxu5im65IWxGSIcvFJDpVj-p21dQ4WGmDazsrXLvGmJaTIYlgMK_wCE-_wpQx3tgmGneNkOZDpC-Nhkz6L1V9OOXHHGDJJmC01JNenj-XBGoYXmnpvVzNcInbsmTg8gp0ToMiQ.m3u8?u=1756878715
 东森综合,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LyqP7JL5zoJwS4YNNznemr_YdtSKhh6NNAwR9PzzP461sjhlssLp3lK6UJ8-tnuwG8CbBxKI1dg3OfG2PGsVIQaseJXA6DBTaS0MuVPFR_aOdPVW3LH5YhV9dtBSNyWyJZiz6NyMdgyeWK4kjvnkBH2wPAT52wt91Db438hm8mDpNXQRutSpHIsBlvrQktzdyMg.m3u8?u=1756878715
 东森财经,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0Lyld6S8JfeqymuL3OFtfMczq1GZqATmZbcNH-MmCs22e9zRCdHwwW1gcG9s7xBGdRHE94yoikMHOe2swLWR7UoGQbuu8V1wjUajJxqWE_lq6msUCd3Qme5AQky-4TUaRLnum64bAahmPto5JgvuxuiYYT085MZ_GTwTL8mAV4DEHH7fKYKF80d4NdW4y5o732WXFmKM1NHEWpzb9fCBgVKCM.m3u8?u=1756878715
-好消息,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUrjtaa4Sm6Zqst6X8-oz1Y7-zaxbyAc6MQqYmrpUDLEqzWNnF7SOC89I7zwap6gbfSqNfa9eBbpd5wxyEJJkfjsPhFkQ1h39XbTYm3gjCBzchVpRcsNGU1r0ud8Tz4koZCGcmP2b6fkrevEXXcwMRtB-JzaXAfVMpL5U63pvExxqSNaJwwXmHlC33XRrfUGtZYyYGaKEHS0hqbFvm19u7kg.m3u8?u=1756878715
-好消息2,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUrjtaa4Sm6Zqst6X8-oz1Y2P5kyoQQNzx04LvwK_lGXeAX5bbBkFHqTs-NEmioG3SIqGJuioPTUcHORdpQq4YX1Dv0kt_FlAFr_XVBUeS8KwQZMMxdf9DNn9fZoNGBv7A6zHk07zgjy8loO5cPS3Gc6g6o13jOKAomAeRbTrEQ1RbslJLbzTl-Eek8IoR5SXdh657p0D4MM1PKumvKK8L3w.m3u8?u=1756878715
 华艺中文台,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUTrMyCqMXKCgK30HhBPyAK39DsnI5JTX1-7C80IK10I6u_7aMkjPPFWjpKggfC3QWTbapvSQJ8BVSZSN-ehUQBdAEgATxG4nHF_Jai14TyBhTLtuFq7aeka7DUg979zxHrnVJkM92qZbPyPI_6ZSeAdG126znKHtKcHJcx_liWuzLuGE4hakGfeLyH9BdWHB46rf4-eRA2ygKk37FY_tqBA.m3u8?u=1756878715
-寰宇新闻,http://208.87.242.79/livehttpplay?channel_id=20109
-寰宇新闻台湾台,http://208.87.242.79/livehttpplay?channel_id=20196
-壹電視新聞台,http://208.87.242.79/livehttpplay?channel_id=20028
-壹电影,http://208.87.242.79/livehttpplay?channel_id=20108
-台视,http://211.72.174.95:8112/0.ts
-台视,rtmp://f13h.mine.nu/sat/tv071
-民视,http://iptv.fr.to/test/Fmtv.php?id=FTVHD 
-民视,rtmp://f13h.mine.nu/sat/tv051
-民视综艺,http://hls-pull-betconstruct.speedws.com/live/B7nYQGwPYRIqqXXJgXWP1gjAmfzcnR7j1Esvo9FdVssKd8VgDS.flv
-民视影剧,http://hls-pull-betconstruct.speedws.com/live/z0Vp6Rj91d9fVMBBepN5tL45yIvw87nYQGOTgHyml5y7Sy7uhf.flv
-民視新聞,http://208.87.242.79/livehttpplay?channel_id=20097
-华视,http://iptv.fr.to/test/Fmtv.php?id=CTSHD
-华视,rtmp://f13h.mine.nu/sat/tv111
-中視,http://208.87.242.79/livehttpplay?channel_id=20088
-中視,rtmp://f13h.mine.nu/sat/tv091
-中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
 中视经典,http://74.91.26.218:82/live/ctvjd.m3u8
 中视菁采,http://74.91.26.218:82/live/ctvjc.m3u8
-中天新闻,http://208.87.242.79/livehttpplay?channel_id=20163
-中天娱乐,http://208.87.242.79/livehttpplay?channel_id=20079
-中天综合,http://208.87.242.79/livehttpplay?channel_id=20064
-中旺电视,http://38.64.72.148:80/hls/modn/list/4010/chunklist1.m3u8
-公视,http://208.87.242.79/livehttpplay?channel_id=20087
-公视,rtmp://f13h.mine.nu/sat/tv771
-小公视,http://74.91.26.218:82/live/ptsse.m3u8
-八大第一台,http://208.87.242.79/livehttpplay?channel_id=20073
-八大综合台,http://208.87.242.79/livehttpplay?channel_id=20068
-八大戏剧台,http://208.87.242.79/livehttpplay?channel_id=20071
-纬来电影,http://208.87.242.79/livehttpplay?channel_id=20199
-纬来电影,http://iptv.fr.to/test/Fmtv.php?id=wldy
-纬来体育,http://208.87.242.79/livehttpplay?channel_id=20120
-纬来体育,rtmp://f13h.mine.nu/sat/tv721
-纬来育乐,http://iptv.fr.to/test/Fmtv.php?id=wlyl
-纬来育乐,rtmp://f13h.mine.nu/sat/tv701
-緯來日本,http://208.87.242.79/livehttpplay?channel_id=20303
-爱尔达綜合台,http://208.87.242.79/livehttpplay?channel_id=16076
-靖天歡樂,http://208.87.242.79/livehttpplay?channel_id=30021
-靖天戏剧台,http://208.87.242.79/livehttpplay?channel_id=16070
-靖天电影,http://iptv.fr.to/test/Fmtv.php?id=jtdy
-靖天资讯,http://iptv.fr.to/test/Fmtv.php?id=jtzx
-靖天國際,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGhmNjaDKTPHJI2oYRw-odAYGaOzk2REzrrf-zQFdJfZ4lyJpmEdo5MUZQveoImHHtlb6FVLzzeY57mfzLp0tFO6Rr3I7L9wdlmq5g6UAgouqRV6ki37leOq8dohQYJWQ4AUWD1zErrw6zvKNjARygTJJxNsEzn_hbUVMd2sqFjimM2KyaQzs6yxAYFugHLYnGkw9hcupblbgvkn1KXz77yg.m3u8?u=1757123819
-靖天歡樂,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGh1bM360XW2g1OqhjjkuJ7mtypgW2-EFisaMpjn8w9NJC5Uo9BFTBBlCGMaiDPgEAZcaHuYqsyWC69dLt86Mn7-vnVWkpYSZzBxZzf1xrdIzlED5hFDIKxtXXzCtyImktaCo4UP-ztt27Rmt9UQcEsxXvdvFhO5_fSVh9_NMQFtDjFmXWZ1ICS0UURmQCvnbd28Ax-GbQTAR5Sh8eKKhM-Q.m3u8?u=1757123819
-靖天綜合,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGU0_N2QcyGkuDJJUw4OAFBxVNHfoBrtdNMyLyro3L3SjPHhNo1SToMpWIfD5BbPnY8n82X_5hhnaz87-hEKYf3PlN2jWeNSPKoc3L01zrj7U2vUxUIn11E79q02RKWkDt713gPrV20nSXuY25D2VrT1HZWPD-yjK93c9L_O_EStwO_i9PtWKSyYpy_OJIwSSoWgvKAv6saJ0VClbsku8bQg.m3u8?u=1757123819
 客家电视台,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU9DpOBmkbH162q-wAgaUuzL63L-fa6G8-yp7PsrDTTMK7zemwJXtPlLCjmqlqNmsk0uhs5lesHcsNrGMmH8V4PHbjpuIFrpmGXu09oxqEyr1EuxTtjnJfYcXH6_NCu5UERf1w3N6CH8fSL7-qrC8oA6lBXfM8bm0zc1W4L0k7MgvqxfN8-yCaQibpNEXcigWKLyv_PiAVgx90lNXmJTpmXA.m3u8?u=1756878715
 霹雳台湾,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU-PTrevW4Nb5kml8ZMd3at9Wv8wNhpIxgbsVxz0HN103_VaLQE_XjJbdn6axtEnrRI3njbvyoqr0i6ULwXTAsirhZ9VNB_Vpte5UQ5pG1tqdOd3LL2dT5EbpvgK0lgNKXVM7lraYZqp-QFYPDqPsJUJhofA6Zs49DxHQApID1TRm2cmUO9GZ5g9ky-6BwirBCDi9m_WLBt6TgSyNL0OjwuA.m3u8?u=1756878715
-三立新闻,http://208.87.242.79/livehttpplay?channel_id=10126
-三立戏剧台,http://208.87.242.79/livehttpplay?channel_id=10125
-三立台湾台,http://208.87.242.79/livehttpplay?channel_id=16074
-三立都会,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0Lyhe8D9-CeEZQOFp7zCqF24LuwRx6fPqGc9nVvRCSe8pURtD_rOyCY6te_lShE5e2UFnSlpJaPU9DnssY8P3sF0i-MGMgUUcjuPGzZVw7xPTPtxPe_0wca7LHPCUozbRcdFbsDj6-AD8DwPLxqTPhE-H3p6MpbpgmNwqIJjSMOxe7JembWOda5yJwdZG8QtJHRw.m3u8?u=1756878715
-影迷数位电影台,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUdt63uRz89giBm7SDjL0rv_KIdlQpdfaweHkEsMjRcTyWTkmAIamofG98HLLqS4XBWxsniylZYS7fe6pFNArqo0f0J-Kj1AlMRca1-YhPCzr681fFSeWw3K7yUsq83pV0eQ8BGMO5u504Gx0F3i0idCNTAEgDMieA4qfFwX_KNxMlhj8nMzbVmMu_7fV8ErhRdhVn3_mV68JYghmp1pXq_oUrHHWxJP6NqDWale926w8.m3u8?u=1756878715
 原住民台,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUozysOx_iOGf0oPhoCFv92v2rN0b3btwx8ud0bNdbn68PU0FKtybHN2qQxpvlF4nZNGmtyORiLfURmXQSBBth5CxX2035r4evMmihuH-7eRvACXmHRD8KEyenNi-qQFS2Um2MhyXouZ3r7k6N8SjN0ANninhB2u0VDVMpuu-xZgzN_U0PtWZEujCvUWhBlx5GyhdxwzilJmLqQhWD3sGsRQ.m3u8?u=1756878715
 重温经典(新版),http://openwrt.guidang.net:1688/udp/225.1.8.39:8002
 重温经典,http://8.138.7.223/tv/cwjd.php
+台视闽南,http://rihou.cc:555/tv/[mn]台视闽南
+台视新闻,http://rihou.cc:555/tv/[mn]台视新闻
+台视综合,http://rihou.cc:555/tv/[mn]台视综合
+台视财经,http://rihou.cc:555/tv/[mn]台视财经
+民视闽南,http://rihou.cc:555/tv/[mn]民视闽南
+民视新闻,http://rihou.cc:555/tv/[mn]民视新闻
+民视第一,http://rihou.cc:555/tv/[mn]民视第一
+中视闽南,http://rihou.cc:555/tv/[mn]中视闽南
+中视新闻,http://rihou.cc:555/tv/[mn]中视新闻
+中视经典,http://rihou.cc:555/tv/[mn]中视经典
+中视菁采,http://rihou.cc:555/tv/[mn]中视菁采
+华视闽南,http://rihou.cc:555/tv/[mn]华视闽南
+华视新闻,http://rihou.cc:555/tv/[mn]华视新闻
+华视教育,http://rihou.cc:555/tv/[mn]华视教育
+公视闽南,http://rihou.cc:555/tv/[mn]公视闽南
+公视综合,http://rihou.cc:555/tv/[mn]公视综合
+镜新闻,http://rihou.cc:555/tv/[Hk]闽镜新闻
+靖天电影,https://hls2.quiciptv.com/live/jtdy/index.m3u8
 
 ANNINHTV,https://livevlisctcdnw.seenow.vn/mean/ANNINHTV/manifest.mpd
 QPTV,https://livevlisctcdnw.seenow.vn/mean/QPTV/manifest.mpd
