@@ -550,8 +550,11 @@ CCTV4K,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
 忠县综合,https://yypull.cbg.cn/applive/zxtv2/playlist.m3u8
 陕西卫视
 凤凰中文,http://pull-vivek.speedws.com/live/aaafhzw.flv
+凤凰中文,https://cdn6.163189.xyz/163189/fhzw
 凤凰资讯,http://pull-vivek.speedws.com/live/aaafhzx.flv
+凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
 凤凰香港,http://pull-vivek.speedws.com/live/aaafhxg.flv
+凤凰香港,https://cdn6.163189.xyz/163189/fhhk
 HOY 76,http://pull-vivek.speedws.com/live/aaahoy76.flv
 HOY 77,http://pull-vivek.speedws.com/live/aaahoy77.flv
 HOY 78,http://pull-vivek.speedws.com/live/aaahoy78.flv
@@ -561,7 +564,14 @@ VIUTV6,http://pull-vivek.speedws.com/live/aaaviutv6.flv
 明珠台,http://pull-vivek.speedws.com/live/aaamingzhu.flv
 翡翠台,http://pull-vivek.speedws.com/live/aaajade.flv
 TVB PLUS,http://pull-vivek.speedws.com/live/aaaplus.flv
-TVB娱乐新闻台,http://pull-vivek.speedws.com/live/aaaylxw.flv
+娱乐新闻,http://pull-vivek.speedws.com/live/aaaylxw.flv
+娱乐新闻,https://cdn6.163189.xyz/163189/ylxw
+亚洲武侠,https://cdn6.163189.xyz/163189/yzwx
+TVB1,https://6.cdn.loc.cc/163189.php?id=tvb1
+TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
+TVBJ1,https://6.cdn.loc.cc/163189.php?id=j1
+TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
+TVBJ1,https://6.cdn.loc.cc/163189.php?id=j1
 MYTV SUPER 1，http://pull-vivek.speedws.com/live/aaamqxjd.flv
 MYTV SUPER 2 粤语片台,http://pull-vivek.speedws.com/live/aaahjfc.flv
 MYTV SUPER 3 亚洲剧台,http://pull-vivek.speedws.com/live/aaayzjt.flv
@@ -691,6 +701,23 @@ CINEMAXHD,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqph
 NOW爆谷台,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaFBmz2P45zHSyAqfwWcUpn7Lrhdbt8W042CxwTlNwHQBHxAorPl6WG505axByLsqm_6uwwf1TFr09ekS-WoJxI9O52n-XjCSzld0iXNILyGsupIIoJAwHj6sU5fRMWkT8lXOjk8dzTjEAFkg7T7lkFrggmhPUEnMV8uzxJHoqLE4Z9kmjzi7bsfb2fGQXfcylFnj-ccOYGV6y8bKDUuf22WZ575UidyzCiYfIdoV-yo.m3u8?u=1756878715
 NOW星影台,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaFBmz2P45zHSyAqfwWcUprjpez8QnvR52--XWU48weWe0I3SmTbrbzekJV6nKQXuFhSMZJXCKkqcgT8VSsSpkJEqCHtVmseSJOblTmm0CQc8dK14Jv-HtuAHiSRX2j-ui-0TyrXUGAonYnIkoTpg8KN7QJCBU5Yk3Ra04uVhpWYxxlwSEhOTR36AQJfcgETeH5KWYFyvA1Qn7_NKyiNzUFFYGlDBCddNHT6P99LoHiU.m3u8?u=1756878715
 NOW星影台,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaFBmz2P45zHSyAqfwWcUprjpez8QnvR52--XWU48weWe0I3SmTbrbzekJV6nKQXuFhSMZJXCKkqcgT8VSsSpkJEqCHtVmseSJOblTmm0CQc8dK14Jv-HtuAHiSRX2j-ui-0TyrXUGAonYnIkoTpg8KN7QJCBU5Yk3Ra04uVhpWYxxlwSEhOTR36AQJfcgETeH5KWYFyvA1Qn7_NKyiNzUFFYGlDBCddNHT6P99LoHiU.m3u8?u=1756878715
+翡翠台,https://hls.iill.top/api/TVB-Jade/index.m3u8
+無綫新聞台,https://hls.iill.top/api/TVB-News/index.m3u8
+TVBPlus,https://hls.iill.top/api/TVB-Plus/index.m3u8
+BBCEarth,https://hls.iill.top/api/BBC-Earth/index.m3u8
+BBCLifestyle,https://hls.iill.top/api/BBC-Lifestyle/index.m3u8
+Discovery,https://hls.iill.top/api/Discovery/index.m3u8
+HBO,https://hls.iill.top/api/HBO/index.m3u8
+HBOHits,https://hls.iill.top/api/HBO-Hits/index.m3u8
+HBOFamily,https://hls.iill.top/api/HBO-Family/index.m3u8
+HBOSignature,https://hls.iill.top/api/HBO-Signature/index.m3u8
+動物星球,https://hls.iill.top/api/dwxq/index.m3u8
+緯來日本,https://hls.iill.top/api/wlrb/index.m3u8
+緯來電影,https://hls.iill.top/api/wldy/index.m3u8
+東森電影,https://hls.iill.top/api/dsdy/index.m3u8
+東森洋片,https://hls.iill.top/api/dsyp/index.m3u8
+龍祥時代,https://hls.iill.top/api/lxsd/index.m3u8
+
 ANNINHTV,https://livevlisctcdnw.seenow.vn/mean/ANNINHTV/manifest.mpd
 QPTV,https://livevlisctcdnw.seenow.vn/mean/QPTV/manifest.mpd
 VTV1_,https://livevlisctcdnw.seenow.vn/livesnv2/VTV1_HD/manifest.mpd
@@ -742,3 +769,12 @@ NGHEANTV,https://liveh12.vtvprime.vn/hls/NGHEANTV/03.m3u8
 PHUTHOTV,https://liveh34.vtvprime.vn/hls/PHUTHOTV/03.m3u8
 DANANGTV,https://liveh12.vtvprime.vn/hls/DANANGTV/03.m3u8
 DANANG2,https://liveh34.vtvprime.vn/hls/DANANG2/04.m3u8
+驚艷台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
+驚艷台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
+潘朵拉,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
+松视1,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
+松视2,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
+松視3,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
+24×7东京热,http://1tv41.icu:8080/LaLa34@yahoo.com/LaLa7678/159976
+24×7日本道,http://1tv41.icu:8080/LaLa34@yahoo.com/LaLa7678/159958
+24x7啪啪啪,http://7707bo.trustdeveloppment.com/live/cx_15642.flv
