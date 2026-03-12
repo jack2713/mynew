@@ -1,152 +1,179 @@
-#!/usr/bin/env python3
-import os
 import re
-import requests
-from typing import List, Optional
-from datetime import datetime
+import os
+import sys
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.by import By
 
-class WebContentFilter:
-    def __init__(self, tmp_dir: str = "TMP"):
-        # 获取脚本所在目录的父目录作为基础目录
-        script_dir = os.path.dirname(os.path.abspath(__file__))
-        base_dir = os.path.dirname(script_dir)
-        
-        # 设置TMP目录为根目录下的TMP
-        self.tmp_dir = os.path.join(base_dir, tmp_dir)
-        
-        # 如果目录不存在则创建
-        if not os.path.exists(self.tmp_dir):
-            os.makedirs(self.tmp_dir)
-            
-        print(f"当前工作目录: {os.getcwd()}")
-        print(f"脚本所在目录: {script_dir}")
-        print(f"基础目录: {base_dir}")
-        print(f"TMP目录路径: {self.tmp_dir}")
+# 全局排除关键词定义（用于分类排除）
+EXCLUDE_KEYWORDS = ["移动", "联通","私密","少儿","体育","记录","听书","老年","解说","监控","DJ","加入","(内)","韩剧","专用","动漫","非诚","向前冲","百分百","集结号","好野","行不行","更新"]
 
+# 新增：行内容过滤关键词（只要行中包含任意一个关键词，该行即被过滤）
+CONTENT_FILTER_KEYWORDS = ["ottiptv","盗源","DJ","P2p","shorturl","更新"]  # 请根据实际需求修改
+
+class TVSourceProcessor:
+    def __init__(self):
+        self.all_lines = []
+        # 配置 Chrome 无头模式
+        chrome_options = Options()
+        chrome_options.add_argument("--headless=new")
+        chrome_options.add_argument("--disable-gpu")
+        chrome_options.add_argument("--no-sandbox")
+        chrome_options.add_argument("--disable-dev-shm-usage")
+        chrome_options.add_argument("--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
         
-    def fetch_url_content(self, url: str) -> Optional[str]:
-        """获取单个URL的内容"""
+        self.driver = webdriver.Chrome(options=chrome_options)
+
+    def fetch_url_content(self, url: str):
+        """使用 Selenium 获取URL内容"""
         try:
-            response = requests.get(url, timeout=10)
-            response.raise_for_status()
-            response.encoding = response.apparent_encoding
-            return response.text
+            print(f"获取: {url}")
+            self.driver.get(url)
+            
+            # 等待页面加载完成
+            WebDriverWait(self.driver, 30).until(
+                EC.presence_of_element_located((By.TAG_NAME, "pre"))
+            )
+            
+            # 获取页面内容
+            content = self.driver.find_element(By.TAG_NAME, "pre").text
+            
+            # 清理并分割行
+            lines = [line.strip() for line in content.splitlines() if line.strip()]
+            print(f" 成功: {len(lines)} 行")
+            return lines
         except Exception as e:
-            print(f"获取URL {url} 失败: {e}")
-            return None
-    
-    def filter_segments(self, content: str, exclude_words: List[str]) -> str:
-        """过滤包含指定关键词的#genren#段"""
-        if not exclude_words:
-            return content
-            
-        # 分割成#genren#段
-        segments = re.split(r'(#genren#)', content)
-        filtered_segments = []
-        
-        i = 0
-        while i < len(segments):
-            if segments[i] == '#genren#' and i + 1 < len(segments):
-                segment_content = segments[i+1]
-                # 检查是否包含排除关键词
-                exclude_segment = any(word in segment_content for word in exclude_words)
-                if not exclude_segment:
-                    filtered_segments.append('#genren#')
-                    filtered_segments.append(segment_content)
-                i += 2
-            else:
-                filtered_segments.append(segments[i])
-                i += 1
-                
-        return ''.join(filtered_segments)
-    
-    def filter_lines(self, content: str, exclude_words: List[str]) -> str:
-        """过滤包含指定关键词的行"""
-        if not exclude_words:
-            return content
-            
-        lines = content.split('\n')
-        filtered_lines = []
-        
-        for line in lines:
-            if not any(word in line for word in exclude_words):
-                filtered_lines.append(line)
-                
-        return '\n'.join(filtered_lines)
-    
-    def process_urls(self, urls: List[str], 
-                     exclude_segment_words: List[str] = None,
-                     exclude_line_words: List[str] = None,
-                     output_file: str = "ttest.txt") -> None:
-        """处理URL列表并保存结果"""
-        exclude_segment_words = exclude_segment_words or []
-        exclude_line_words = exclude_line_words or []
-        
-        all_content = []
-        success_count = 0
-        
+            print(f" 失败: {e}")
+            return []
+
+    def fetch_multiple_urls(self, urls: list):
+        """获取多个URL内容"""
+        self.all_lines = []
         for url in urls:
-            print(f"正在处理: {url}")
-            content = self.fetch_url_content(url)
-            if content:
-                # 先过滤段
-                filtered_content = self.filter_segments(content, exclude_segment_words)
-                # 再过滤行
-                filtered_content = self.filter_lines(filtered_content, exclude_line_words)
-                all_content.append(filtered_content)
-                success_count += 1
-        
-        print(f"成功获取 {success_count}/{len(urls)} 个URL的内容")
-        
-        # 合并所有内容
-        final_content = '\n'.join(all_content)
-        
-        # 移除所有#genre#行
-        lines = final_content.split('\n')
-        filtered_lines = [line for line in lines if '#genre#' not in line]
-        
-        # 只保留原来的第一行
-        result_lines = ["test,#genre#"] + filtered_lines
-        
-        # 保存结果
-        output_path = os.path.join(self.tmp_dir, output_file)
-        try:
-            with open(output_path, 'w', encoding='utf-8') as f:
-                f.write('\n'.join(result_lines))
-            
-            # 验证文件写入
-            if os.path.exists(output_path):
-                file_size = os.path.getsize(output_path)
-                print(f"✓ 处理完成，结果已保存到: {output_path}")
-                print(f"✓ 文件大小: {file_size} 字节")
-            else:
-                print("✗ 文件生成失败")
-                raise Exception("文件未成功生成")
-                
-        except Exception as e:
-            print(f"✗ 保存文件失败: {e}")
-            raise
+            lines = self.fetch_url_content(url)
+            if lines:
+                self.all_lines.extend(lines)
+        print(f"总计: {len(self.all_lines)} 行")
+        return len(self.all_lines) > 0
 
-if __name__ == "__main__":
-    # 示例配置
-    urls = [
+    def remove_excluded_sections(self):
+        """排除指定区域"""
+        if not self.all_lines:
+            return []
+        result = []
+        in_excluded_section = False
+        for line in self.all_lines:
+            if "#genre#" in line:
+                if any(keyword in line for keyword in EXCLUDE_KEYWORDS):
+                    in_excluded_section = True
+                else:
+                    in_excluded_section = False
+                result.append(line)
+            elif not in_excluded_section:
+                result.append(line)
+        print(f"排除后: {len(result)} 行")
+        return result
+
+    def remove_genre_lines_and_deduplicate(self, lines: list):
+        """
+        删除genre行，并按URL去重。
+        同时根据 CONTENT_FILTER_KEYWORDS 过滤掉包含指定关键词的行。
+        """
+        result = []
+        seen_urls = set()
+        filtered_count = 0
+        for line in lines:
+            if "#genre#" in line:
+                continue
+            if not line.strip():
+                continue
+            
+            # 新增：内容过滤（不区分大小写）
+            line_lower = line.lower()
+            if any(keyword.lower() in line_lower for keyword in CONTENT_FILTER_KEYWORDS):
+                filtered_count += 1
+                continue  # 过滤掉该行
+            
+            # 提取URL去重
+            url_match = re.search(r'(https?://[^\s,]+)', line)
+            if url_match:
+                url = url_match.group(1)
+                if url not in seen_urls:
+                    seen_urls.add(url)
+                    result.append(line)
+            else:
+                result.append(line)
+        print(f"内容过滤: {filtered_count} 行被过滤")
+        print(f"去重后: {len(result)} 行")
+        return result
+
+    def save_to_file(self, lines: list, filename: str, first_line: str):
+        """保存到文件"""
+        try:
+            content = [first_line] + lines
+            with open(filename, 'w', encoding='utf-8') as f:
+                f.write('\n'.join(content))
+            file_size = os.path.getsize(filename)
+            print(f"保存: {filename} ({len(content)}行, {file_size}字节)")
+            return True
+        except Exception as e:
+            print(f"保存失败: {e}")
+            return False
+
+    def process(self):
+        """主处理流程"""
+        print("开始处理直播源")
+        # 只使用指定的URL
+        urls = [
         "https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1",
         "https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
         "https://raw.githubusercontent.com/zxmlxw520/5566/refs/heads/main/cjdszb.txt",
-    ]
+        ]
+        print(f"源URL: {len(urls)}个")
+        
+        # 1. 获取内容
+        if not self.fetch_multiple_urls(urls):
+            print("无内容可处理")
+            self.driver.quit()
+            return False
+        
+        # 2. 排除处理
+        filtered = self.remove_excluded_sections()
+        if not filtered:
+            print("排除后无内容")
+            self.driver.quit()
+            return False
+        
+        # 3. 去重及内容过滤处理
+        final = self.remove_genre_lines_and_deduplicate(filtered)
+        if not final:
+            print("去重后无内容")
+            self.driver.quit()
+            return False
+        
+        # 4. 保存文件
+        if self.save_to_file(final, "ttest.txt", "test,#genre#"):
+            print("处理完成")
+            self.driver.quit()
+            return True
+        else:
+            self.driver.quit()
+            return False
+
+def main():
+    """主函数"""
+    processor = TVSourceProcessor()
+    success = processor.process()
     
-    # 过滤包含特定关键词的#genren#段
-    exclude_segment_words = ["移动", "联通","私密","少儿","体育","记录","听书","老年","解说","监控","DJ","加入","(内)","韩剧","专用","动漫","非诚","向前冲","百分百","集结号","好野","行不行","更新"]
-    
-    # 过滤包含特定关键词的行
-    exclude_line_words = ["ottiptv","盗源","DJ","P2p","shorturl"]
-    
-    # 创建过滤器实例
-    filter = WebContentFilter()
-    
-    # 处理URL
-    filter.process_urls(
-        urls=urls,
-        exclude_segment_words=exclude_segment_words,
-        exclude_line_words=exclude_line_words
-    )
+    # 退出状态码
+    if success and os.path.exists("ttest.txt"): 
+        print(f"文件位置: {os.path.abspath('ttest.txt')}")
+        sys.exit(0)
+    else:
+        print("处理失败")
+        sys.exit(1)
+
+if __name__ == "__main__":
+    main()
