@@ -1,4 +1,4 @@
-name: new
+name: test
 
 # 触发条件
 on:
