@@ -1,19 +1,17 @@
 name: ttest
 
-# 触发条件
 on:
   schedule:
     # 每 3 小时运行一次（UTC 时间 0,3,6,9,12,15,18,21）
     - cron: '0 0/3 * * *'
-  workflow_dispatch:   # 允许手动触发
+  workflow_dispatch:  # 允许手动触发
 
 permissions:
-  contents: write      # 授予 GITHUB_TOKEN 写入权限
+  contents: write  # 授予 GITHUB_TOKEN 写入权限
 
 jobs:
   fetch_streams:
     runs-on: ubuntu-latest
-
     steps:
       # 1. 检出仓库代码
       - name: Checkout repository
@@ -48,20 +46,22 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-      # 7. 添加文件到暂存区，若有变化则提交
-      - name: Commit if changes
-        id: commit
+      # 7. 强制提交文件（无论内容是否有变化）
+      - name: Force commit
         run: |
+          # 添加文件到暂存区
           git add TMP/ttest.txt
+          
+          # 先尝试正常提交
           if git diff --staged --quiet; then
-            echo "文件内容无变化，跳过提交。"
-            echo "has_changes=false" >> $GITHUB_OUTPUT
+            echo "文件内容无变化，使用 --allow-empty 强制提交"
+            git commit --allow-empty -m "Force update TMP/ttest.txt via GitHub Actions - $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
           else
-            git commit -m "Update TMP/ttest.txt via GitHub Actions"
-            echo "has_changes=true" >> $GITHUB_OUTPUT
+            echo "文件内容有变化，正常提交"
+            git commit -m "Update TMP/ttest.txt via GitHub Actions - $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
           fi
 
-      # 8. 推送到远程仓库（无论是否有新提交，均执行推送）
+      # 8. 推送到远程仓库
       - name: Push changes
         run: |
           BRANCH_NAME="${GITHUB_REF#refs/heads/}"
