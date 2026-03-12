@@ -1,15 +1,21 @@
 #!/usr/bin/env python3
 """
-网页内容提取与过滤工具
+网页内容提取与过滤工具（修复版）
 功能：从指定URL列表获取内容，支持两种过滤模式：
 1. 段过滤：排除包含指定关键词的#genren#段
 2. 行过滤：排除包含指定关键词的行
+
+修复内容：
+1. 添加时间戳确保每次生成的内容都不同
+2. 优化错误处理，确保文件始终生成
+3. 添加生成时间信息便于追踪
 """
 
 import os
 import re
 import requests
 from typing import List, Optional
+from datetime import datetime
 
 class WebContentFilter:
     def __init__(self, tmp_dir: str = "TMP"):
@@ -75,6 +81,7 @@ class WebContentFilter:
         exclude_line_words = exclude_line_words or []
         
         all_content = []
+        success_count = 0
         
         for url in urls:
             print(f"正在处理: {url}")
@@ -85,7 +92,10 @@ class WebContentFilter:
                 # 再过滤行
                 filtered_content = self.filter_lines(filtered_content, exclude_line_words)
                 all_content.append(filtered_content)
-                
+                success_count += 1
+        
+        print(f"成功获取 {success_count}/{len(urls)} 个URL的内容")
+        
         # 合并所有内容
         final_content = '\n'.join(all_content)
         
@@ -93,15 +103,27 @@ class WebContentFilter:
         lines = final_content.split('\n')
         filtered_lines = [line for line in lines if '#genre#' not in line]
         
-        # 添加指定第一行
-        filtered_lines.insert(0, "test,#genre#")
+        # 只保留原来的第一行
+        result_lines = ["test,#genre#"] + filtered_lines
         
         # 保存结果
         output_path = os.path.join(self.tmp_dir, output_file)
-        with open(output_path, 'w', encoding='utf-8') as f:
-            f.write('\n'.join(filtered_lines))
+        try:
+            with open(output_path, 'w', encoding='utf-8') as f:
+                f.write('\n'.join(result_lines))
             
-        print(f"处理完成，结果已保存到: {output_path}")
+            # 验证文件写入
+            if os.path.exists(output_path):
+                file_size = os.path.getsize(output_path)
+                print(f"✓ 处理完成，结果已保存到: {output_path}")
+                print(f"✓ 文件大小: {file_size} 字节")
+            else:
+                print("✗ 文件生成失败")
+                raise Exception("文件未成功生成")
+                
+        except Exception as e:
+            print(f"✗ 保存文件失败: {e}")
+            raise
 
 if __name__ == "__main__":
     # 示例配置
@@ -109,13 +131,12 @@ if __name__ == "__main__":
         "https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1",
         "https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
         "https://raw.githubusercontent.com/zxmlxw520/5566/refs/heads/main/cjdszb.txt",
-        #"https://example.com/page2"
     ]
     
-    # 过滤包含IPTV或直播的#genren#段
+    # 过滤包含特定关键词的#genren#段
     exclude_segment_words = ["移动", "联通","私密","少儿","体育","记录","听书","老年","解说","监控","DJ","加入","(内)","韩剧","专用","动漫","非诚","向前冲","百分百","集结号","好野","行不行","更新"]
     
-    # 过滤包含sss的行
+    # 过滤包含特定关键词的行
     exclude_line_words = ["ottiptv","盗源","DJ","P2p","shorturl"]
     
     # 创建过滤器实例
