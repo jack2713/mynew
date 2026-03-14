@@ -13,10 +13,14 @@ EXCLUDE_KEYWORDS = ["移动", "联通", "私密", "少儿", "体育", "记录", 
                      "监控", "DJ", "加入", "(内)", "韩剧", "专用", "动漫", "非诚", "向前冲", 
                      "百分百", "集结号", "好野", "行不行", "更新", "国际影院"]
 
-# 新增：行内容过滤关键词（只要行中包含任意一个关键词，该行即被过滤）
+# 行内容过滤关键词
 CONTENT_FILTER_KEYWORDS = ["ottiptv", "盗源", "DJ", "P2p", "shorturl", "更新", "group"]
 
-# 请根据实际需求修改
+# 已知包含无效 base-64 的参数名称列表（这些参数经常出现且通常无效）
+BAD_BASE64_PARAM_NAMES = {
+    'usign', 'accesstoken', 'playtoken', 'play_token', 
+    'secret', 'key', 'token', 'sign', 'auth'
+}
 
 
 class TVSourceProcessor:
@@ -86,101 +90,128 @@ class TVSourceProcessor:
         print(f"排除后: {len(result)} 行")
         return result
     
-    def is_valid_base64(self, s: str) -> bool:
-        """
-        检查字符串是否为有效的 base-64 编码
-        
-        Args:
-            s: 要检查的字符串
-            
-        Returns:
-            bool: True 表示是有效的 base-64，False 表示无效
-        """
+    def _looks_like_base64(self, s: str) -> bool:
+        """判断字符串是否可能被误认为 base-64"""
         s = s.strip()
         
-        # 空字符串或太短
-        if len(s) < 1:
+        # 只包含 base-64 字符
+        if not re.match(r'^[A-Za-z0-9+/=]+$', s):
             return False
         
-        # 只包含 base-64 字符（A-Z, a-z, 0-9, +, /, =）
-        base64_pattern = re.compile(r'^[A-Za-z0-9+/=]+$')
-        if not base64_pattern.match(s):
+        # 排除明显的非 base-64：纯数字
+        if re.match(r'^\d+$', s):
+            return False
+        
+        # 排除短小的纯字母（可能是 ID）
+        if re.match(r'^[a-zA-Z]+$', s) and len(s) < 16:
+            return False
+        
+        # 排除常见的十六进制（只包含数字和小写字母 a-f）
+        if re.match(r'^[0-9a-f]+$', s) and len(s) < 32:
+            return False
+        
+        return True
+    
+    def _is_valid_base64(self, s: str) -> bool:
+        """严格验证 base-64"""
+        s = s.strip()
+        
+        if len(s) < 4:
             return False
         
         # 长度必须是 4 的倍数
         if len(s) % 4 != 0:
             return False
         
-        # 检查填充字符 = 的数量（最多 2 个）
+        # 检查填充字符
         pad_count = s.count('=')
         if pad_count > 2:
             return False
         
-        # 填充字符必须在末尾
-        if '=' in s and not s.endswith('=') and not s.endswith('=='):
-            return False
+        # 填充字符必须在末尾且连续
+        if '=' in s:
+            eq_index = s.index('=')
+            remaining = s[eq_index:]
+            if not re.match(r'^=+$', remaining):
+                return False
         
-        # 尝试解码验证
         try:
             base64.b64decode(s, validate=True)
             return True
         except Exception:
             return False
     
-    def check_base64_in_line(self, line: str) -> tuple:
+    def check_line_for_bad_base64(self, line: str) -> tuple:
         """
         检查行中是否包含无效的 base-64 编码
-        
-        Args:
-            line: 要检查的行内容
-            
-        Returns:
-            tuple: (has_bad_base64, reason)
-                   has_bad_base64: True 表示包含无效 base-64
-                   reason: 错误原因描述
+        采用更全面的检查策略，模拟 TVBox 的行为
         """
+        reasons = []
+        
         # 提取 URL
         url_match = re.search(r'https?://[^\s,]+', line)
         if not url_match:
-            return (False, "")
+            return (False, [])
         
         url = url_match.group(0)
         
-        # 检查 URL 参数中的 base-64 字符串
-        # 匹配参数值：= 后面的值（可能是 base-64）
-        param_matches = re.findall(r'[?&]([a-zA-Z_]+)=([A-Za-z0-9+/=]{16,})', url)
-        
-        for param_name, param_value in param_matches:
-            # 跳过明显不是 base-64 的参数（如纯数字）
-            if re.match(r'^\d+$', param_value):
-                continue
+        # 1. 检查所有参数值
+        all_params = re.findall(r'[?&]([^=]+)=([^&\s]+)', url)
+        for param_name, param_value in all_params:
+            # 策略1：如果参数名在黑名单中，且值看起来像 base-64 但无效，直接过滤
+            param_name_lower = param_name.lower()
+            if param_name_lower in BAD_BASE64_PARAM_NAMES:
+                if self._looks_like_base64(param_value) and len(param_value) >= 8:
+                    if not self._is_valid_base64(param_value):
+                        reasons.append(f"黑名单参数 {param_name} 无效 (长度:{len(param_value)})")
+                        continue
             
-            # 检查是否是有效的 base-64
-            if not self.is_valid_base64(param_value):
-                return (True, f"参数 {param_name} 无效: 长度={len(param_value)}, 值={param_value[:50]}...")
+            # 策略2：对所有长度>=16且看起来像 base-64 的参数值进行严格检查
+            if len(param_value) >= 16 and self._looks_like_base64(param_value):
+                if not self._is_valid_base64(param_value):
+                    reasons.append(f"参数 {param_name} 无效 (长度:{len(param_value)})")
         
-        # 检查 URL 路径中的长字符串（可能是 base-64）
-        # 匹配路径段中长度 >= 32 且只包含 base-64 字符的字符串
-        path_without_domain = re.sub(r'^https?://[^/]+', '', url)
-        path_segments = re.findall(r'/([A-Za-z0-9+/=]{32,})', path_without_domain)
+        # 2. 检查 URL 路径段（长度>=32的可能是 base-64）
+        path_match = re.search(r'https?://[^/]+(/[^?\s]*)?', url)
+        if path_match and path_match.group(1):
+            path = path_match.group(1)
+            path_segments = [seg for seg in path.split('/') if seg]
+            for seg in path_segments:
+                if len(seg) >= 32 and self._looks_like_base64(seg):
+                    if not self._is_valid_base64(seg):
+                        reasons.append(f"路径段无效 (长度:{len(seg)})")
+                        break  # 路径段有问题通常整个 URL 都有问题
         
-        for path_segment in path_segments:
-            if not self.is_valid_base64(path_segment):
-                return (True, f"路径段无效: 长度={len(path_segment)}, 值={path_segment[:50]}...")
+        # 3. 检查特殊分隔符后的内容（$、|）
+        for sep_pattern in [r'\$([^&\s]+)', r'\|([^&\s]+)']:
+            matches = re.findall(sep_pattern, url)
+            for match in matches:
+                if len(match) >= 8 and self._looks_like_base64(match):
+                    if not self._is_valid_base64(match):
+                        reasons.append(f"特殊分隔符后内容无效 (长度:{len(match)})")
         
-        return (False, "")
+        # 4. 检查逗号分隔的第三部分及之后的内容（可能是组名或其他信息）
+        comma_parts = [p.strip() for p in line.split(',')]
+        if len(comma_parts) >= 3:
+            for i, part in enumerate(comma_parts[2:], 2):
+                if len(part) >= 16 and self._looks_like_base64(part):
+                    if not self._is_valid_base64(part):
+                        reasons.append(f"第{i}部分无效 (长度:{len(part)})")
+        
+        return (len(reasons) > 0, reasons)
     
     def remove_genre_lines_and_deduplicate(self, lines: list):
         """
         删除genre行，并按URL去重。
         同时根据 CONTENT_FILTER_KEYWORDS 过滤掉包含指定关键词的行。
-        新增：过滤掉包含无效 base-64 编码的行。
+        过滤掉包含无效 base-64 编码的行。
         """
         result = []
         seen_urls = set()
         
         filtered_count = 0
         bad_base64_count = 0
+        bad_base64_examples = []
         
         for line in lines:
             # 跳过 genre 行
@@ -195,15 +226,18 @@ class TVSourceProcessor:
             line_lower = line.lower()
             if any(keyword.lower() in line_lower for keyword in CONTENT_FILTER_KEYWORDS):
                 filtered_count += 1
-                continue  # 过滤掉该行
+                continue
             
-            # 新增：检查是否包含无效的 base-64 编码
-            has_bad_base64, bad_reason = self.check_base64_in_line(line)
-            if has_bad_base64:
+            # 检查是否包含无效的 base-64 编码
+            has_bad, reasons = self.check_line_for_bad_base64(line)
+            if has_bad:
                 bad_base64_count += 1
-                if bad_base64_count <= 10:  # 只打印前10个
-                    print(f"  过滤 bad base-64: {line[:80]}...")
-                    print(f"    原因: {bad_reason}")
+                if bad_base64_count <= 10:
+                    line_preview = line[:80]
+                    bad_base64_examples.append({
+                        'line': line_preview,
+                        'reasons': reasons
+                    })
                 continue
             
             # 提取URL去重
@@ -218,8 +252,14 @@ class TVSourceProcessor:
         
         print(f"内容过滤: {filtered_count} 行被过滤")
         print(f"Bad base-64 过滤: {bad_base64_count} 行被过滤")
-        if bad_base64_count > 10:
-            print(f"  (仅显示前10个错误详情)")
+        
+        if bad_base64_examples:
+            print("\n  被过滤的示例:")
+            for ex in bad_base64_examples:
+                print(f"    {ex['line']}...")
+                for r in ex['reasons']:
+                    print(f"      - {r}")
+        
         print(f"去重后: {len(result)} 行")
         
         return result
@@ -263,7 +303,7 @@ class TVSourceProcessor:
             self.driver.quit()
             return False
         
-        # 3. 去重及内容过滤处理（新增 bad base-64 过滤）
+        # 3. 去重及内容过滤处理（全面 bad base-64 过滤）
         final = self.remove_genre_lines_and_deduplicate(filtered)
         if not final:
             print("去重后无内容")
