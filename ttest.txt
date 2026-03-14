@@ -2603,8 +2603,6 @@ Tele Pavia,http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
 KoreaTV,https://mlive.ktv.go.kr/live/klive_m.stream/playlist.m3u8
 MBC,http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
 Music Reload,http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
-███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
-███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
 SPOTIFY音乐欣赏,http://61.221.215.25:8800/hls/58/index.m3u8
 钢琴音乐,http://61.221.215.25:8800/hls/49/index.m3u8
 节目暂停1,http://61.221.215.25:8800/hls/40/index.m3u8
