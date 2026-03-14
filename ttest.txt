@@ -283,6 +283,7 @@ POPC,http://tl.061833.xyz/tl/popc
 🇮🇳印度INDIA TODAY,https://feeds.intoday.in/hltapps/api/master.m3u8
 🇮🇳印度NDTV India,https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
 🇮🇳印度NDTV 24x7,https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+test1,#genre#
 邵氏电影,http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
 邵氏武侠,http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
 邵氏动作,http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
@@ -500,6 +501,7 @@ A6少女团,https://videodowntx.9xiuzb.com/9xiu/123371127.m3u8
 天才大熊猫啊,http://222.186.39.21:35466/douyu/10646699
 长庚旧梦,http://222.186.39.21:35466/douyu/11288935
 绘说篮球C,http://222.186.39.21:35466/douyu/9401305
+test2,#genre#
 🔄韩国歌曲[刷新就是新内容],https://xn--vusr00g.v.nxog.top/m/tv/xjj.php?id=0
 🔄网络热曲[刷新就是新内容],https://188sp.711888.xyz/188/video.php
 🔄4K视频[刷新就是新内容],http://xjj1.716888.xyz/fenlei/4k/4k.php
@@ -1001,6 +1003,7 @@ Play,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000ca5nc43c77u
 I'll Do It,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000ch9m0jjc77u31dq1i4b0&ratio=720p&line=0
 touch,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cmhn50rc77ucfc970np0&ratio=720p&line=0
 closer,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000c6c60frc77u7j9o2ecs0&ratio=720p&line=0
+test3,#genre#
 翡翠台,http://o11.163189.xyz/stream/tvb/fct/
 翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
 翡翠台4K,http://o11.163189.xyz/stream/tvb/fct4k/
@@ -1735,6 +1738,7 @@ DV现场,https://live.iill.top/douyin/gdtvdvxc
 央视财经,https://live.iill.top/douyin/yscjxmt
 财联社,https://live.iill.top/douyin/clscccaijing
 小强热线浙江教科,https://live.iill.top/douyin/ZTV4
+test4,#genre#
 大湾区卫视,http://119.123.76.217:8086/hls/29/index.m3u8
 广东民生,http://119.123.76.217:8086/hls/39/index.m3u8
 广东少儿,http://119.123.76.217:8086/hls/40/index.m3u8
@@ -2844,6 +2848,7 @@ CETV4,http://www.ikan.cc.cd:1234/923287339
 中华特产,http://www.ikan.cc.cd:1234/959986618
 环球旅游,http://www.ikan.cc.cd:1234/958475356
 茶,http://www.ikan.cc.cd:1234/961930369
+test5,#genre#
 CCTV1,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMS9pbmRleC5tM3U4
 CCTV1,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvNDAvaW5kZXgubTN1OA==
 CCTV2,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMi9pbmRleC5tM3U4
@@ -3371,6 +3376,7 @@ CGTN,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42N
 辽宁卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzEyNC4yMjUuMzUuNTI6NTk5MDEvdHNmaWxlL2xpdmUvMDEyMV8xLm0zdTg/a2V5PXR4aXB0dg==
 三沙卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzEyNC4yMjUuMzUuNTI6NTk5MDEvdHNmaWxlL2xpdmUvMTAwOV8xLm0zdTg/a2V5PXR4aXB0dg==
 江西卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzEyNC4yMjUuMzUuNTI6NTk5MDEvdHNmaWxlL2xpdmUvMDEzOF8xLm0zdTg/a2V5PXR4aXB0dg==
+test6,#genre#
 北京IPTV淘剧场,http://otangtang.com:38848/udp/239.3.1.95:8001
 北京IPTV淘娱乐,http://otangtang.com:38848/udp/239.3.1.100:8001
 北京IPTV萌宠,http://otangtang.com:38848/udp/239.3.1.102:8001
@@ -5308,6 +5314,7 @@ YUKI雨淇,https://live.iill.top/yy/1382735545
 传奇之王-影视剧,https://live.iill.top/yy/1354926735
 章子怡主演-浮生如梦,https://live.iill.top/yy/1382735566
 带你领略四季的变化,https://live.iill.top/yy/1354930816
+test7,#genre#
 女团直播1,http://lxajh.top/tv/douyu.php?id=40471
 女团直播2,http://lxajh.top/tv/douyu.php?id=8189873
 女团直播3,http://lxajh.top/tv/douyu.php?id=17732
@@ -5435,7 +5442,7 @@ CCTV15-音乐,http://36.136.38.87:9901/tsfile/live/0015_1.m3u8?key=txiptv&playli
 金鹰卡通,http://36.136.38.87:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 卡酷卡通,http://36.136.38.87:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 佳佳卡通,http://36.136.38.87:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-📀
+test8,#genre#
 CCTV16,http://go.bkpcp.top/mg/cctv16
 cct4欧洲,http://go.bkpcp.top/mg/cctv4o
 cct4美洲,http://go.bkpcp.top/mg/cctv4m
@@ -6427,7 +6434,7 @@ G60新桥收费口,https://play-a2.quklive.com/live/1732441115629264.m3u8
 1|刘三姐轮播,rtmp://live.gxxw.cn/hls/lsj
 经典电影轮播,rtmp://live.gxrb.com.cn/pull/red_movies_0501
 经典电影轮播,rtmp://live.gxxw.cn/pull/red_movies_0501
-\
+test9,#genre#
 江苏无锡新闻综合,http://stream.thmz.com/wxtv1/sd/live.m3u8?zjiangsd
 江苏无锡新闻综合,http://stream.thmz.com/wxtv1/playlist.m3u8
 江苏无锡都市资讯,http://stream.thmz.com/wxtv3/sd/live.m3u8?zjiangsd
@@ -7034,6 +7041,7 @@ G60新桥收费口,https://play-a2.quklive.com/live/1732441115629264.m3u8
 海口-1|/,https://live2.hkbtv.cn/live/tv2501.m3u8
 海口-2|/,https://live2.hkbtv.cn/live/tv2502.m3u8
 海口-3,https://live2.hkbtv.cn/live/tv2503.m3u8
+test10,#genre#
 环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 亚洲卫视,https://fenghuang.tv12.xyz/173.m3u8
 重温经典,http://8.138.7.223/tv/cwjd.php#http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
@@ -7457,7 +7465,7 @@ YMG未来频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
 纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721
 东森超视,rtmp://f13h.mine.nu:1935/sat/tv331
 Mo综合,rtmp://f13h.mine.nu:1935/sat/tv761
-/
+test11,#genre#
 探索频道,http://61.221.215.25:8800/hls/1/index.m3u8
 探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
 八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
@@ -7576,6 +7584,7 @@ SPOTIFY音乐欣赏,http://61.221.215.25:8800/hls/58/index.m3u8
 养生堂,http://gdctyuncdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1032_720P_t10/c60_fast_1032_720P_t10.m3u8?d
 健康大问诊,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1035_720P_t10/c60_fast_1035_720P_t10.m3u8?d
 健康养生,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c59_fast_1046_720P_t10/c59_fast_1046_720P_t10.m3u8?d
+test12,#genre#
 橙記Orange丶,http://222.186.39.21:35466/douyu/4549169
 baby丶贝贝,http://222.186.39.21:35466/douyu/431460
 奇光主播,http://222.186.39.21:35466/douyu/8009547
@@ -8333,6 +8342,7 @@ LUNA-即便如此,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgxfG98AUogN6hqg
 殿堂级歌手陈慧娴,https://vd4.bdstatic.com/mda-pjsiwmdsrau9hbcs/1080p/cae_h264/1698455668088764234/mda-pjsiwmdsrau9hbcs.mp4
 台湾歌手李翊君,https://vd4.bdstatic.com/mda-pjsas5efkaebupa6/1080p/cae_h264/1698434793444943173/mda-pjsas5efkaebupa6.mp4
 殿堂级歌手邓丽君,https://vd3.bdstatic.com/mda-pjpbciiuab9jhu7p/1080p/cae_h264/1698318630312827481/mda-pjpbciiuab9jhu7p.mp4
+test13,#genre#
 韩国歌团001,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240095359203.mp4
 韩国歌团002,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239978750464.mp4
 韩国歌团003,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239858729476.mp4
@@ -9126,6 +9136,7 @@ BT8视频33,http://txmov2.a.kwimgs.com/upic/2023/07/31/07/BMjAyMzA3MzEwNzI1MjNfM
 BT8视频35,http://txmov2.a.kwimgs.com/upic/2023/05/26/19/BMjAyMzA1MjYxOTQ4NTVfMjM0Mjg1Nzg4Ml8xMDQwMDE4NjQ3MTNfMV8z_b_B9053bac3e9ef4fa4390c8c9258c631e4.mp4?tag=1-1701950790-std-1-39rs3dwsxp-17356fc17a4b0c67&clientCacheKey=3xyz96g7vgaf3p6_b.mp4&tt=b&di=529d11df&bp=12681&ali_redirect_ex_hot=66666800&ali_r
 BT8视频36,http://txmov2.a.kwimgs.com/upic/2023/10/24/00/BMjAyMzEwMjQwMDU5MjJfMTQ1OTAxMzA5OV8xMTU2NDM4MjE0OTBfMV8z_b_B808aaa5a65bc73f9fa2e99d101cf533e.mp4?tag=1-1701970342-std-1-6wwljb35qd-01e2f6577a532e20&clientCacheKey=3xsu7s632taaddc_b.mp4&tt=b&di=2b8e8c09&bp=12681&ali_redirect_ex_hot=66666800&ali_r
 BT8视频37,http://txmov2.a.kwimgs.com/upic/2023/09/21/22/BMjAyMzA5MjEyMjE1MDZfMTQ2NTA4MTM0XzExMzI3NDg3Mjg4M18yXzM=_b_Bce6942f7c0820154ff871c606af2e74a.mp4?tag=1-1699728812-std-1-zfctk3qefi-765dd7e360cdc5de&clientCacheKey=3xfwhts9wuzfx8q_b.mp4&tt=b&di=529d11df&bp=12681&ali_redirect_ex_hot=66666800&ali_r
+test14,#genre#
 DVD港台歌曲01,https://vdse.bdstatic.com//29c5da0e42cd3609198e7a0c32f5a27d.mp4
 DVD港台歌曲02,https://vdse.bdstatic.com//7868fb065a139c4047919b9ede856905.mp4
 DVD港台歌曲03,https://vdse.bdstatic.com//469ac6c143f0fc6f39bce7af16f07499.mp4
@@ -9410,6 +9421,7 @@ DVD港台歌曲29,https://vdse.bdstatic.com//b42476b56e212a02c6a9e1cc87f2c252.mp
 12道锋味专场,https://isus.cc/php/huya.php?id=30080162
 我们的客栈专场,https://isus.cc/php/huya.php?id=24609812
 变形计专场,https://isus.cc/php/huya.php?id=23903164
+test15,#genre#
 20250525期,https://v.cdnlz21.com/20250526/10545_c51d5a65/2000k/hls/mixed.m3u8
 20250518期,https://v.cdnlz21.com/20250519/10220_3ce5d8ef/2000k/hls/mixed.m3u8
 20250511期,https://v.cdnlz21.com/20250512/9872_dcf077c1/2000k/hls/mixed.m3u8
