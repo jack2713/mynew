@@ -127,8 +127,8 @@ class TVSourceProcessor:
         print("开始处理直播源")
         # 只使用指定的URL
         urls = [
-        #"https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1",
-        #"https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
+        "https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1",
+        "https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
         "https://raw.githubusercontent.com/zxmlxw520/5566/refs/heads/main/cjdszb.txt",
         ]
         print(f"源URL: {len(urls)}个")
