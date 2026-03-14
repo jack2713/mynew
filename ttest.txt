@@ -523,7 +523,6 @@ G60新桥收费口,https://play-a2.quklive.com/live/1732441115629264.m3u8
 河源综合,http://tmpstream.hyrtv.cn/xwzh/playlist.m3u8?_upt=407e01941606112151?zguangd
 潮州公共,http://vod-zjst-time.sobeylive.com/czbtv2019/czggpd.m3u8
 潮州综合,http://vod-zjst-time.sobeylive.com/czbtv2019/czzhpd.m3u8
-广州番禺新闻,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv?fbl=$超清
 广西新闻,http://36.136.38.87:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 广西综艺,http://36.136.38.87:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 广西影视,http://36.136.38.87:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
