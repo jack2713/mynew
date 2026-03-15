@@ -8,7 +8,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 
 # 全局排除关键词定义（用于分类排除）
-EXCLUDE_KEYWORDS = ["移动", "联通","私密","少儿","体育","记录","听书","老年","解说","监控","DJ","加入","(内)","韩剧","专用","动漫","非诚","向前冲","百分百","集结号","好野","行不行","更新","国际影院"]
+EXCLUDE_KEYWORDS = ["移动", "联通","私密","少儿","体育","记录","听书","老年","解说","监控","DJ","加入","(内)","韩剧","专用","动漫","非诚","向前冲","百分百","集结号","好野","行不行","更新","国际影院","专用","综合"]
 
 # 新增：行内容过滤关键词（只要行中包含任意一个关键词，该行即被过滤）
 CONTENT_FILTER_KEYWORDS = ["ottiptv","盗源","DJ","P2p","shorturl","更新","group","颜人中","打赏","购买","河南网","阜阳"]  # 请根据实际需求修改
@@ -127,9 +127,9 @@ class TVSourceProcessor:
         print("开始处理直播源")
         # 只使用指定的URL
         urls = [
-        "https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1",
-        "https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
-        #"https://raw.githubusercontent.com/zxmlxw520/5566/refs/heads/main/cjdszb.txt",
+        #"https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1",
+        #"https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
+        "https://raw.githubusercontent.com/zxmlxw520/5566/refs/heads/main/cjdszb.txt",
         ]
         print(f"源URL: {len(urls)}个")
         
