@@ -2200,6 +2200,72 @@ NGHEANTV,https://liveh12.vtvprime.vn/hls/NGHEANTV/03.m3u8
 PHUTHOTV,https://liveh34.vtvprime.vn/hls/PHUTHOTV/03.m3u8
 DANANGTV,https://liveh12.vtvprime.vn/hls/DANANGTV/03.m3u8
 DANANG2,https://liveh34.vtvprime.vn/hls/DANANG2/04.m3u8
+NHK 综合台,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=4
+NHK 教育台,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=4
+日本电视台,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03&isp=4
+TBS电视台,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=4
+富士电视台,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=4
+朝日电视台,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&isp=4
+东京电视台,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=4
+东京都会电视台,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=4
+MBS每日放送,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01&isp=4
+朝日放送电视台,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=4
+关西电视台,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03&isp=4
+读卖电视台,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04&isp=4
+大阪电视台,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05&isp=4
+NHK关西台,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=4
+SUN电视台,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&isp=4
+NHK BS台,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=4
+BS日本电视台,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&isp=4
+BS朝日电视台,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&isp=4
+BS 4台,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&isp=4
+BS 5台,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=4
+BS 6台,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&isp=4
+WOWOW台,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=4
+明星频道,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08&isp=4
+NHK BS台（备用）,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=4
+WOWOW台（备用）,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=4
+绿色频道,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=4
+BS 15台,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&isp=4
+日本体育1台,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=4
+日本体育2台,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=4
+WOWOW台（备用2）,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=4
+日本体育3台,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=4
+日本体育4台,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=4
+日本电影专门频道,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23&isp=4
+迪士尼频道,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24&isp=4
+BS钓鱼频道,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25&isp=4
+太空淋浴音乐台,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26&isp=4
+BS 31台,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31&isp=4
+SKY A台,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01&isp=4
+日テレ吉本频道,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02&isp=4
+高尔夫网络频道,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03&isp=4
+时代剧专门频道,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04&isp=4
+家庭剧频道,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05&isp=4
+日本音乐台,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&isp=4
+儿童频道,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07&isp=4
+探索频道,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08&isp=4
+历史频道,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=4
+国家地理频道,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10&isp=4
+TBS频道,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11&isp=4
+旅游频道,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12&isp=4
+歌谣流行乐频道,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13&isp=4
+电影加频道,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14&isp=4
+英国广播公司世界新闻台,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15&isp=4
+美国有线电视新闻网,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16&isp=4
+GAORA体育台,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17&isp=4
+音乐电视网,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18&isp=4
+拉拉女性频道,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19&isp=4
+家庭剧场频道,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20&isp=4
+蒙多电视台,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21&isp=4
+卫星剧场,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22&isp=4
+迪士尼频道（CS版）,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23&isp=4
+动物星球频道,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24&isp=4
+卡通频道,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25&isp=4
+富士电视台NEXT,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26&isp=4
+东映频道,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27&isp=4
+宝冢频道,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28&isp=4
+银河频道,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29&isp=4
 NHK G HD (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd01
 NHK E HD (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd02
 NTV HD (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd03
