@@ -1,4 +1,5 @@
 hycg,#genre#
+峨眉电影4k,http://api.kkhk.itv888.vip:8080/streams/0558bdb0324/index.m3u8
 翡翠4K,http://o11.163189.xyz/stream/tvb/fct4k/
 河北电视4K,http://106.53.99.30/tv/api.php?id=hebtv4k
 苏州修复4K,http://106.53.99.30/tv/api.php?id=sztv4k
@@ -33,6 +34,7 @@ CCTV16,http://223.111.150.99:2005/zhibo/ysws.php?id=CCTV16
 CCTV17,http://223.111.150.99:2005/zhibo/ysws.php?id=CCTV17
 凤凰卫视中文,http://cdn6.163189.xyz/163189/fhzw
 凤凰卫视资讯,http://cdn6.163189.xyz/163189/fhzx
+凤凰香港,https://cdn6.163189.xyz/163189/fhhk
 欧洲华文卫视,http://oh.eztv.vip/live/eztv1.m3u8
 星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 环球卫视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
