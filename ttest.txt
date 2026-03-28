@@ -1529,52 +1529,27 @@ TVBJ1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2
 中天亚洲,http://ip1.xiaomidadi.cn:8088/live/dhC7oV8LI6lLcZUT/hls.m3u8
 中天综合,http://ip1.xiaomidadi.cn:8088/live/zvYTOOMDQyw276Sd/hls.m3u8
 台视,http://ip1.xiaomidadi.cn:8088/live/dscE7IeEK7vMQFZY/hls.m3u8
-翡翠台,http://r.jdshipin.com/qrfbg
-翡翠台,http://r.jdshipin.com/62WM7
-无线新闻,http://r.jdshipin.com/CkuBd
-明珠台,http://r.jdshipin.com/ZQ4kN
-TVB Plus,http://r.jdshipin.com/ndGgS
-TVB Plus,http://r.jdshipin.com/Nr5jq
-TVB星河,http://r.jdshipin.com/sXuuD
-华丽翡翠台,http://r.jdshipin.com/thuYX
-ViuTV,http://r.jdshipin.com/vSJvl
-ViuTV,http://r.jdshipin.com/TcKr2
-凤凰中文,http://r.jdshipin.com/cCCzW
-凤凰资讯,http://r.jdshipin.com/0Rp07
-凤凰香港,http://r.jdshipin.com/yDoTN
-凤凰香港,http://r.jdshipin.com/NfC0f
-澳视澳门,http://r.jdshipin.com/n2YZI
-HOY77,http://r.jdshipin.com/sFw4S
-澳视卫星,http://r.jdshipin.com/QFhCq
-广东珠江,http://r.jdshipin.com/sE5vO
-广州综合,http://r.jdshipin.com/iR6Gq
-广州南国都市,http://r.jdshipin.com/nWaZO
-广州综合,http://r.jdshipin.com/snhya
-海峡卫视,http://r.jdshipin.com/WtYt3
-咪咕视频4K,http://r.jdshipin.com/ln4xk
-咪咕视频4K-2,http://r.jdshipin.com/Lqdwf
-TVB亞洲劇,http://67.220.71.199:2347/livehttpplay?channel_id=13022
-無線新聞台,http://67.220.71.199:2347/livehttpplay?channel_id=20123
-明珠台,http://67.220.71.199:2347/livehttpplay?channel_id=20125
-廣東體育,http://67.220.71.199:2347/livehttpplay?channel_id=20130
-ViuTV,http://67.220.71.199:2347/livehttpplay?channel_id=20131
-ViuTV6,http://67.220.71.199:2347/livehttpplay?channel_id=20132
-嶺南戲曲,http://67.220.71.199:2347/livehttpplay?channel_id=20142
-珠江臺,http://67.220.71.199:2347/livehttpplay?channel_id=20144
-HOY TV,http://67.220.71.199:2347/livehttpplay?channel_id=20152
-港臺電視31,http://67.220.71.199:2347/livehttpplay?channel_id=20203
-TVB plus,http://67.220.71.199:2347/livehttpplay?channel_id=30023
-無線新聞台,http://67.220.71.199:2347/livehttpplay?channel_id=30024
+无线新闻台,http://67.220.71.199:2347/livehttpplay?channel_id=20123
+无线新闻台,http://67.220.71.199:2347/livehttpplay?channel_id=30024
+翡翠台,http://67.220.71.199:2347/livehttpplay?channel_id=20126
 翡翠台,http://67.220.71.199:2347/livehttpplay?channel_id=30025
+明珠台,http://67.220.71.199:2347/livehttpplay?channel_id=20125
 明珠台,http://67.220.71.199:2347/livehttpplay?channel_id=30026
-港臺電視32,http://67.220.71.199:2347/livehttpplay?channel_id=30028
+TVB PLUS,http://67.220.71.199:2347/livehttpplay?channel_id=30023
+MYTV SUPER 1,http://67.220.71.199:2347/livehttpplay?channel_id=13022
+HOY 77,http://67.220.71.199:2347/livehttpplay?channel_id=20152
+VIUTV,http://67.220.71.199:2347/livehttpplay?channel_id=20131
+VIUTV,http://67.220.71.199:2347/livehttpplay?channel_id=30032
+VIUTV 6,http://67.220.71.199:2347/livehttpplay?channel_id=20132
+VIUTV 6,http://67.220.71.199:2347/livehttpplay?channel_id=30033
+RTHK 31,http://67.220.71.199:2347/livehttpplay?channel_id=30066
+RTHK 32,http://67.220.71.199:2347/livehttpplay?channel_id=20203
+RTHK 32,http://67.220.71.199:2347/livehttpplay?channel_id=30028
+RTHK 32,http://67.220.71.199:2347/livehttpplay?channel_id=30067
 CCTV 4K,http://67.220.71.199:2347/livehttpplay?channel_id=30029
-廣東體育超清,http://67.220.71.199:2347/livehttpplay?channel_id=30031
-ViuTV,http://67.220.71.199:2347/livehttpplay?channel_id=30032
-ViuTV6,http://67.220.71.199:2347/livehttpplay?channel_id=30033
-港臺電視31,http://67.220.71.199:2347/livehttpplay?channel_id=30066
-港臺電視32超清,http://67.220.71.199:2347/livehttpplay?channel_id=30067
-博斯網球,http://67.220.71.199:2347/livehttpplay?channel_id=42026
+广东珠江,http://67.220.71.199:2347/livehttpplay?channel_id=20144
+广东岭南戏曲,http://67.220.71.199:2347/livehttpplay?channel_id=20142
+博斯網球,http://67.220.71.199:2347/livehttpplay?channel_id=42026http://vipkentken.top:8080/VIP01697172669118799/80fba95604f6/34901
 无线新闻台,http://74.91.26.218:82/live/inews.m3u8
 美亚电影,http://74.91.26.218:82/live/mydy.m3u8
 中天新闻,http://74.91.26.218:82/live/ztxw.m3u8
@@ -1741,6 +1716,16 @@ TVBS,http://119.91.7.169:2026/TW.php?id=TVBS
 中天新闻台,http://119.91.7.169:2026/TW.php?id=中天新闻台
 中视新闻,http://119.91.7.169:2026/TW.php?id=中视新闻
 寰宇新闻台,http://119.91.7.169:2026/TW.php?id=寰宇新闻台
+无线新闻台,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=tvbnews
+寰宇新闻,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=globalnews
+中天新聞,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=ctinewshd
+TVBS,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=tvbshd
+TVBS新闻台,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=tvbsnewshd
+东森新闻,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=ebcnewshd
+RTHK 31,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=rthk31hd
+RTHK 32,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=rthk32hd
+RTHK 34,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=rthk34hd
+RTHK 35,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=rthk35hd
 凤凰香港,http://47.104.163.156:50/台湾.php?id=fhhk
 TVB翡翠台,http://47.104.163.156:50/台湾.php?id=tvbfc
 TVB明珠台,http://47.104.163.156:50/台湾.php?id=tvbmzt
@@ -1751,6 +1736,7 @@ TVB经典,http://47.104.163.156:50/台湾.php?id=tvbjd
 中天综合,http://47.104.163.156:50/台湾.php?id=ztzh
 中天新闻,http://47.104.163.156:50/台湾.php?id=ztxw
 中天娱乐,http://47.104.163.156:50/台湾.php?id=ztyl
+中天亚洲,http://47.104.163.156:50/台湾.php?id=ztyz
 东森综合,http://47.104.163.156:50/台湾.php?id=dszh
 东森新闻,http://47.104.163.156:50/台湾.php?id=dsxw
 东森电影,http://47.104.163.156:50/台湾.php?id=dsdy
@@ -1862,6 +1848,9 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 广州影视,http://php.jdshipin.com:8880/gztv.php?id=yingshi
 广州法治,http://php.jdshipin.com:8880/gztv.php?id=fazhi
 广州南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
+广州综合,http://r.jdshipin.com/iR6Gq
+广州南国都市,http://r.jdshipin.com/nWaZO
+广州影视,http://r.jdshipin.com/TcKr2
 东莞新闻综合,http://php.jdshipin.com:8880/0769.php?id=xwzh
 东莞生活资讯,http://php.jdshipin.com:8880/0769.php?id=shzx
 佛山综合,http://php.jdshipin.com:8880/fstv.php?id=fszh
@@ -2622,81 +2611,6 @@ CCTV-17,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv17
 青海卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=qhws
 吉林卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jlws
 黑龙江视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hljws
-CCTV1综合,http://125.94.244.92:7890/608807420
-CCTV2财经,http://125.94.244.92:7890/631780532
-CCTV3综艺,http://125.94.244.92:7890/624878271
-CCTV4中文国际,http://125.94.244.92:7890/631780421
-CCTV5体育,http://125.94.244.92:7890/641886683
-CCTV5+体育赛事,http://125.94.244.92:7890/641886773
-CCTV6电影,http://125.94.244.92:7890/624878396
-CCTV7国防军事,http://125.94.244.92:7890/673168121
-CCTV8电视剧,http://125.94.244.92:7890/624878356
-CCTV9纪录,http://125.94.244.92:7890/673168140
-CCTV10科教,http://125.94.244.92:7890/624878405
-CCTV11戏曲,http://125.94.244.92:7890/667987558
-CCTV12社会与法,http://125.94.244.92:7890/673168185
-CCTV13新闻,http://125.94.244.92:7890/608807423
-CCTV15音乐,http://125.94.244.92:7890/673168223
-CCTV17农业农村,http://125.94.244.92:7890/673168256
-CCTV4欧洲,http://125.94.244.92:7890/608807419
-CCTV4美洲,http://125.94.244.92:7890/608807416
-CGTN外语纪录,http://125.94.244.92:7890/609006487
-CGTN阿拉伯语,http://125.94.244.92:7890/609154345
-CGTN西班牙语,http://125.94.244.92:7890/609006450
-CGTN法语,http://125.94.244.92:7890/609006476
-CGTN俄语,http://125.94.244.92:7890/609006446
-老故事,http://125.94.244.92:7890/884121956
-发现之旅,http://125.94.244.92:7890/624878970
-中学生,http://125.94.244.92:7890/708869532
-CGTN,http://125.94.244.92:7890/609017205
-赛事最经典,http://125.94.244.92:7890/646596895
-体坛名栏汇,http://125.94.244.92:7890/629943305
-四海钓鱼,http://125.94.244.92:7890/637444975
-陕西体育,http://125.94.244.92:7890/956909356
-武术世界,http://125.94.244.92:7890/958475359
-快乐垂钓,http://125.94.244.92:7890/961930263
-辽宁体育,http://125.94.244.92:7890/962067526
-东方卫视,http://125.94.244.92:7890/651632648
-江苏卫视,http://125.94.244.92:7890/623899368
-广东卫视,http://125.94.244.92:7890/608831231
-北京卫视,http://125.94.244.92:7890/630287636
-辽宁卫视,http://125.94.244.92:7890/630291707
-河北卫视,http://125.94.244.92:7890/962042070
-江西卫视,http://125.94.244.92:7890/783847495
-河南卫视,http://125.94.244.92:7890/790187291
-陕西卫视,http://125.94.244.92:7890/738910838
-大湾区卫视,http://125.94.244.92:7890/608917627
-湖北卫视,http://125.94.244.92:7890/947472496
-吉林卫视,http://125.94.244.92:7890/947472500
-青海卫视,http://125.94.244.92:7890/947472506
-东南卫视,http://125.94.244.92:7890/849116810
-海南卫视,http://125.94.244.92:7890/947472502
-海峡卫视,http://125.94.244.92:7890/849119120
-中国农林卫视,http://125.94.244.92:7890/956904896
-兵团卫视,http://125.94.244.92:7890/956923145
-宁夏卫视,http://125.94.244.92:7890/738910535
-重庆卫视,http://125.94.244.92:7890/738910914
-三沙卫视,http://125.94.244.92:7890/961023778
-经典香港电影,http://125.94.244.92:7890/625703337
-抗战经典影片,http://125.94.244.92:7890/617432318
-新片放映厅,http://125.94.244.92:7890/619495952
-CHC影迷电影,http://125.94.244.92:7890/952383261
-CHC动作电影,http://125.94.244.92:7890/644368714
-CHC家庭影院,http://125.94.244.92:7890/644368373
-和美乡途轮播台,http://125.94.244.92:7890/713591450
-南方影视,http://125.94.244.92:7890/614961829
-中国天气,http://125.94.244.92:7890/959986621
-CETV1,http://125.94.244.92:7890/923287154
-CETV2,http://125.94.244.92:7890/923287211
-CETV4,http://125.94.244.92:7890/923287339
-最强综艺趴,http://125.94.244.92:7890/629942228
-嘉佳卡通,http://125.94.244.92:7890/614952364
-经典动画大集合,http://125.94.244.92:7890/629942219
-新动漫,http://125.94.244.92:7890/961930269
-新动力量创一流,http://125.94.244.92:7890/713589837
-中华特产,http://125.94.244.92:7890/959986618
-环球旅游,http://125.94.244.92:7890/958475356
-茶,http://125.94.244.92:7890/961930369
 CCTV1综合,http://129.204.241.23:1234/608807420
 CCTV2财经,http://129.204.241.23:1234/631780532
 CCTV3综艺,http://129.204.241.23:1234/624878271
@@ -4128,9 +4042,12 @@ CCTV4K,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4K-HD
 李子柒合集,https://vdept3.bdstatic.com/mda-jeprf7zwufsv7jgb/sc/mda-jeprf7zwufsv7jgb.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1774274225-0-0-f4d093e7cc01469230b3b821aec6207e&bcevod_channel=searchbox_feed&cr=2&cd=0&pd=1&pt=3&logid=3425844959&vid=6499909682345959250&klogid=3425844959&abtest=$第45集
 凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
 凤凰资讯,http://rihou.cc:555/tv/[SX]凤凰资讯
+凤凰香港,http://r.jdshipin.com/yDoTN
 凤凰香港,http://rihou.cc:555/tv/[SX]凤凰香港
+凤凰中文,http://r.jdshipin.com/cCCzW
 凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
 凤凰香港,https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn
+凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8$官网
 环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8$官网
@@ -4155,6 +4072,8 @@ Now星影,http://rihou.cc:555/tv/[Hv]Now星影
 广东珠江,http://iptv.4666888.xyz/iptv2A.php?id=19
 Astro欢喜台,https://smt.1678520.xyz/smt3.2.3.php?id=Huahee
 廣東體育4K,http://67.220.71.199:2347/livehttpplay?channel_id=12028
+廣東體育,http://67.220.71.199:2347/livehttpplay?channel_id=20130
+博斯網球,http://67.220.71.199:2347/livehttpplay?channel_id=42026
 /
 凤凰中文,http://pull-vivek.speedws.com/live/aaafhzw.flv
 凤凰资讯,http://pull-vivek.speedws.com/live/aaafhzx.flv
@@ -4202,6 +4121,20 @@ Astro QJ,https://o11.163189.xyz/stream/live/qj/
 TVB翡翠台,http://aipyou.com:8080/live/yifatv-jade01.m3u8
 无线新闻台,http://aipyou.com:8080/live/yifatv-wxxw01.m3u8
 中天新聞台,
+无线新闻,http://r.jdshipin.com/CkuBd
+明珠台,http://r.jdshipin.com/ZQ4kN
+TVB Plus,http://r.jdshipin.com/ndGgS
+TVB Plus,http://r.jdshipin.com/Nr5jq
+TVB星河,http://r.jdshipin.com/sXuuD
+华丽翡翠台,http://r.jdshipin.com/thuYX
+ViuTV,http://r.jdshipin.com/vSJvl
+凤凰香港,http://r.jdshipin.com/NfC0f
+澳视澳门,http://r.jdshipin.com/n2YZI
+HOY77,http://r.jdshipin.com/sFw4S
+澳视卫星,http://r.jdshipin.com/QFhCq
+广东珠江,http://r.jdshipin.com/sE5vO
+广州综合,http://r.jdshipin.com/snhya
+海峡卫视,http://r.jdshipin.com/WtYt3
 翡翠台北美版(TVB J1),
 靖天电影,
 龙华电影,
@@ -4209,6 +4142,8 @@ TVB翡翠台,http://aipyou.com:8080/live/yifatv-jade01.m3u8
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 TVB翡翠台,rtmp://nowast.net/live/yifatv-jade01
 无线新闻台,
+翡翠台,http://r.jdshipin.com/62WM7
+翡翠台,http://r.jdshipin.com/qrfbg
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
