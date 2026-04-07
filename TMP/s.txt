@@ -1177,6 +1177,17 @@ NewTV-精品大剧,http://111.56.90.5/000000000000/1000000004000013968/1.m3u8
 少儿动漫,http://111.56.90.5/000000000000/8145334647720731271/index.m3u8
 宝宝动画,http://111.56.90.5/000000000000/5000000011000288002/index.m3u8
 青春动漫,http://111.56.90.5/000000000000/5000000011000288008/index.m3u8
+三亚,http://9.zubo.cc.cd/handz.php?id=1064
+海南少儿 高清,http://9.zubo.cc.cd/handz.php?id=1065
+儋州台,http://9.zubo.cc.cd/handz.php?id=1017
+洋浦,http://9.zubo.cc.cd/handz.php?id=1018
+海南卫视 高清,http://9.zubo.cc.cd/handz.php?id=1020
+海南自贸 高清,http://9.zubo.cc.cd/handz.php?id=1021
+海南社会与法 高清,http://9.zubo.cc.cd/handz.php?id=1022
+海南新闻 高清,http://9.zubo.cc.cd/handz.php?id=1023
+海南文旅 高清,http://9.zubo.cc.cd/handz.php?id=1024
+三沙卫视 高清,http://9.zubo.cc.cd/handz.php?id=1025
+海口1台,http://9.zubo.cc.cd/handz.php?id=1026
 许昌襄城综合,http://live.dxhmt.cn:9081/tv/11025-1.m3u8
 西安新闻,http://xatv-yt.xiancity.cn/live/1/index.m3u8
 西安新闻,http://xatv-yt.xiancity.cn/live/1.flv
