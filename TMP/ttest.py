@@ -11,7 +11,7 @@ from selenium.webdriver.common.by import By
 EXCLUDE_KEYWORDS = ["移动", "联通","私密","少儿","体育","记录","听书","老年","解说","监控","DJ","加入","(内)","韩剧","专用","动漫","非诚","向前冲","百分百","集结号","好野","行不行","更新","国际影院","专用","上海综合","江西综合"]
 
 # 新增：行内容过滤关键词（只要行中包含任意一个关键词，该行即被过滤）
-CONTENT_FILTER_KEYWORDS = ["ottiptv","盗源","DJ","P2p","shorturl","更新","group","颜人中","打赏","购买","河南网","阜阳","野草","少儿","广东体育","\\","iill.top","111.56.90.5","47.92.252.72"]  # 请根据实际需求修改
+CONTENT_FILTER_KEYWORDS = ["ottiptv","盗源","DJ","P2p","shorturl","更新","group","颜人中","打赏","购买","河南网","阜阳","野草","少儿","广东体育","\\","iill.top","111.56.90.5","47.92.252.72","合集","rihou.cc","huya","douyu"]  # 请根据实际需求修改
 
 class TVSourceProcessor:
     def __init__(self):
