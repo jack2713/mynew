@@ -1,5 +1,5 @@
 hycg,#genre#
-巴巴多斯CBC TV8,https://1740288887.rsc.cdn77.org/1740288887/index.m3u8
+山东海洋,https://am.sohu.blog/sdlt.php?id=042
 峨眉电影4k,http://api.kkhk.itv888.vip:8080/streams/0558bdb0324/index.m3u8
 翡翠4K,http://o11.163189.xyz/stream/tvb/fct4k/
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
