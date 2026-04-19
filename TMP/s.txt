@@ -4687,6 +4687,7 @@ CCTV4K,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/ys4Kcq_20
 欢笑剧场4K,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/hxjc-4k_8000.m3u8
 凤凰中文,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/test1_4000.m3u8
 凤凰资讯,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/test2_4000.m3u8
+星空卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/XKWS-HD_4000.m3u8
 安徽卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/ahwsH265_4000.m3u8
 北京卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/bjwsH265_4000.m3u8
 兵团卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/btws_4000.m3u8
