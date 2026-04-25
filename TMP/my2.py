@@ -50,7 +50,7 @@ EXCLUDE_KEYWORDS = [
 ]
 
 # 输出文件名
-OUTPUT_FILE = "my1.txt"
+OUTPUT_FILE = "my2.txt"
 
 
 class TVBoxAPI:
