@@ -85,7 +85,7 @@ if __name__ == "__main__":
     m3u_urls = [
         #"https://raw.githubusercontent.com/xJEYDAin/iptv-scraper/refs/heads/master/output/all_merged.m3u",   
         #"https://xoxo.cn.mt/Lonely.m3u",
-        "https://raw.githubusercontent.com/joaquinito2036-rgb/iptvfast/blob/main/output/all.m3u",
+        "https://raw.githubusercontent.com/joaquinito2036-rgb/iptvfast/refs/heads/main/output/all.m3u",
     ]
     
     # 需要排除的字符列表
