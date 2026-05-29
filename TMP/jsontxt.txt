@@ -2994,3 +2994,29 @@ USA Today News,https://usatodaynews-xumo.amagi.tv/playlist.m3u8
 UStad,http://media.rtvutrecht.nl/live/rtvutrecht/ustad/index.m3u8
 UStad,https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/ustad/index.m3u8
 ÚTV,https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
+UzReport TV,https://stream8.cinerama.uz/1015/tracks-v1a1/playlist.m3u8
+Vantage Music UK,https://hls.vantagetv.co.uk/vmusicuk_stream/index.m3u8
+VB Media TV,https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
+Vegas Life TV,https://cdn.vegasplus.us/vegas/vltv/playlist.m3u8
+Vegavision Canal 18,https://fox.hostlagarto.com:8081/canal26/tracks-v1a1/mono.m3u8
+Venus Media,https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
+Veo7,http://92.176.119.180:2095/play/a1f1
+Vergina TV,https://verginanews.gr:8443/hls_live/stream1.m3u8
+Vevo 2K,https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
+Vevo 2K,https://amg00056-vevotv-vevo2kau-samsungnz-tamaq.amagi.tv/playlist/amg00056-vevotv-vevo2kau-samsungnz/playlist.m3u8
+Vevo 2K,https://d3150hggbcolbo.cloudfront.net/Vevo_2K.m3u8
+Vevo 70s,https://amg00056-vevotv-vevo70saunz-samsungau-xzszd.amagi.tv/playlist/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8
+Vevo 70s,https://amg00056-vevotv-vevo70saunz-samsungnz-lmeak.amagi.tv/playlist/amg00056-vevotv-vevo70saunz-samsungnz/playlist.m3u8
+Vevo '70s,https://d341pfs1smb2ef.cloudfront.net/Vevo_70s.m3u8
+Vevo 80s,https://amg00056-vevotv-vevo80saunz-samsungau-rp5e3.amagi.tv/playlist/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
+Vevo 80s,https://amg00056-vevotv-vevo80saunz-samsungnz-96vhe.amagi.tv/playlist/amg00056-vevotv-vevo80saunz-samsungnz/playlist.m3u8
+Vevo '80s,https://d3svsvgc81yfe1.cloudfront.net/Vevo_80s.m3u8
+Vevo 90s,https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
+Vevo 90s,https://amg00056-vevotv-vevo90saunz-samsungnz-mpus0.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungnz/playlist.m3u8
+Vevo '90s,https://d29u7uq3k6xqk0.cloudfront.net/Vevo_90s.m3u8
+Vevo Country,https://amg00056-vevotv-vevocountryau-samsungau-ktmqm.amagi.tv/playlist/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
+Vevo Country,https://amg00056-vevotv-vevocountryau-samsungnz-kcm6r.amagi.tv/playlist/amg00056-vevotv-vevocountryau-samsungnz/playlist.m3u8
+Vevo Country,https://pb-xrdbj9zdgm6ez.akamaized.net/Vevo_Country.m3u8
+Vevo Hip Hop,https://d3vgs3ro3x6v8a.cloudfront.net/Vevo_Hip_Hop.m3u8
+Vevo Latino,https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
+Vevo Latino,https://d1vgg34wqvwdqj.cloudfront.net/Vevo_Latino.m3u8
