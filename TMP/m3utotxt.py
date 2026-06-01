@@ -86,7 +86,7 @@ if __name__ == "__main__":
         #"https://raw.githubusercontent.com/xJEYDAin/iptv-scraper/refs/heads/master/output/all_merged.m3u", 
         "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/GNTV.m3u",
         "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "https://raw.githubusercontent.com/yy-niuma/live-tv/refs/heads/main/output/all_merged.m3u",
+        #"https://raw.githubusercontent.com/yy-niuma/live-tv/refs/heads/main/output/all_merged.m3u",
         #"https://xoxo.cn.mt/Lonely.m3u",
         #"https://raw.githubusercontent.com/joaquinito2036-rgb/iptvfast/refs/heads/main/output/all.m3u",
     ]
