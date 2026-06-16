@@ -7,7 +7,7 @@ import requests
 EXCLUDE_KEYWORDS = [
     "猫TV", "赛评", "赛事", "全集", "华山论剑", "三国粤", "大时代", 
     "流星花园", "还珠格格", "甄嬛", "大地恩情", "粤经典剧", 
-    "射雕英雄", "神雕侠侣", "欣赏音乐", "凡人修仙传", "轮播","频晴","频陆"
+    "射雕英雄", "神雕侠侣", "欣赏音乐", "凡人修仙传", "轮播","频晴","频陆","地区"
 ]
 
 # 行内容过滤关键词
@@ -118,7 +118,7 @@ class TVSourceProcessor:
         print("开始处理直播源")
         
         urls = [
-            #"http://119.91.7.169:35789/dszb/dszb.txt",
+            "https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interfaceTXT.txt",
             "http://rihou.cc:555/gggg.nzk"
         ]
         print(f"源URL: {len(urls)}个")
