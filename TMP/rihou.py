@@ -118,7 +118,7 @@ class TVSourceProcessor:
         print("开始处理直播源")
         
         urls = [
-            "https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interfaceTXT.txt",
+            #"https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interfaceTXT.txt",
             "http://rihou.cc:555/gggg.nzk"
         ]
         print(f"源URL: {len(urls)}个")
