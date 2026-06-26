@@ -222,6 +222,21 @@ CHC影迷电影,http://nas.jqcykj.com:30/952383261
 天津体育,http://107.150.60.122/live/tjtv5.m3u8
 天津教育,http://107.150.60.122/live/tjtv6.m3u8
 //上海
+东方卫视,http://nas.jqcykj.com:88/shanghai/?id=dfws
+东方卫视4K,http://nas.jqcykj.com:88/shanghai/?id=dfws4k
+上海卫视,http://nas.jqcykj.com:88/shanghai/?id=ash
+上海新闻综合,http://nas.jqcykj.com:88/shanghai/?id=shxwzh
+上海都市频道,http://nas.jqcykj.com:88/shanghai/?id=shds
+上海纪实人文,http://nas.jqcykj.com:88/shanghai/?id=jsxw
+纪实频道,http://nas.jqcykj.com:88/shanghai/?id=jsxt
+第一财经,http://nas.jqcykj.com:88/shanghai/?id=21
+五星体育,http://nas.jqcykj.com:88/shanghai/?id=wxty
+东方财经,http://nas.jqcykj.com:88/shanghai/?id=dfcj
+看看新闻,http://nas.jqcykj.com:88/shanghai/?id=mdy
+东方影视,http://nas.jqcykj.com:88/shanghai/?id=dfys
+ICS 外语频道,http://nas.jqcykj.com:88/shanghai/?id=ics
+上海教育,http://nas.jqcykj.com:88/shanghai/?id=shjy
+动漫秀场,http://nas.jqcykj.com:88/shanghai/?id=dmtd
 东方卫视4K,http://59.110.175.70:10001/df4k.php?id=2030
 上海新闻综合,http://59.110.175.70:10001/df4k.php?id=20
 上海都市频道,http://59.110.175.70:10001/df4k.php?id=18
