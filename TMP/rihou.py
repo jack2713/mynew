@@ -119,7 +119,7 @@ class TVSourceProcessor:
         
         urls = [
             #"https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interfaceTXT.txt",
-            ""http://wangziduoqing.com/yuan/zb.txt",
+            "http://wangziduoqing.com/yuan/zb.txt",
             "http://rihou.cc:555/gggg.nzk"
         ]
         print(f"源URL: {len(urls)}个")
