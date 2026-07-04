@@ -15,7 +15,7 @@ except ImportError:
 
 # ==================== 配置 ====================
 API_URLS = [
-    "http://wangziduoqing.com/yuan/zb.txt",
+    #"http://wangziduoqing.com/yuan/zb.txt",
     "https://ds65.tv1288.xyz",
 ]
 # 分组名含这些关键词则过滤整个分组
