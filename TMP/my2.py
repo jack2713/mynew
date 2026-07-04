@@ -15,10 +15,11 @@ except ImportError:
 
 # ==================== 配置 ====================
 API_URLS = [
+    "http://wangziduoqing.com/yuan/zb.txt",
     "https://ds65.tv1288.xyz",
 ]
 # 分组名含这些关键词则过滤整个分组
-EXCLUDE_KEYWORDS = ["音乐", "金曲", "DJ", "黄色", "激情", "私拍", "体育", "代理", "咪","广场舞","歌曲","女团","舞曲","电台","戏曲","乡村美食","更新"]
+EXCLUDE_KEYWORDS = ["音乐", "金曲", "DJ", "黄色", "激情", "私拍", "体育", "代理", "广场舞","歌曲","女团","舞曲","电台","戏曲","乡村美食","更新","轮播","测试","移动","赛事","内网","限"]
 OUTPUT_FILE = "my3.txt"
 MAX_RETRIES = 3
 FIXED_GROUP = "mengyxx,#genre#"  # 最终固定分组名称
