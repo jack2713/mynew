@@ -1,90 +1,9 @@
-flv测试,#genre#
+新兔兔,#genre#
 邵氏动作,http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
 邵氏喜剧,http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
 邵氏电影,http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
 邵氏武侠,http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
 重温经典影视,http://wonder998.x3322.net:6200/udp/239.253.254.81:8000
-TVB翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
-TVB翡翠台,https://o11.163189.xyz/stream/tvb/fct/
-TVB翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
-TVB明珠台,http://mytv.cdn.loc.cc/o12.php?id=mzt
-TVB明珠台,https://o11.163189.xyz/stream/tvb/mzt/
-TVB明珠台,http://mytv.cdn.loc.cc/o12.php?id=mzt
-TVB明珠台,https://o11.163189.xyz/stream/tvb/mzt/
-TVB翡翠台4K,https://o11.163189.xyz/stream/tvb/fct4k/
-TVB翡翠台4K,https://cdn6.163189.xyz/163189/fct4k
-TVB翡翠台4K,https://o11.163189.xyz/stream/tvb/fct4k/
-TVB PLUS,https://o11.163189.xyz/stream/tvb/tvbp/
-TVB PLUS,https://o11.163189.xyz/stream/tvb/tvbp/
-华丽翡翠台,https://o11.163189.xyz/stream/live/hlt/
-华丽翡翠台,https://o11.163189.xyz/stream/live/jade/
-华丽翡翠台,https://o11.163189.xyz/stream/live/hlt/
-华丽翡翠台,https://o11.163189.xyz/stream/live/jade/
-华丽翡翠台,https://o11.163189.xyz/stream/live/hlt/
-华丽翡翠台,https://o11.163189.xyz/stream/live/jade/
-天映经典,http://cdn10.163189.xyz/163189/ccm
-天映经典,https://o11.163189.xyz/stream/live/ccm/
-天映经典,http://cdn10.163189.xyz/163189/ccm
-天映经典,https://o11.163189.xyz/stream/live/ccm/
-龙华电影,http://cdn8.163189.xyz/163189/lhdy
-千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
-千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
-千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
-天映频道,https://o11.163189.xyz/stream/live/typd/
-天映频道,http://cdn10.163189.xyz/163189/typd
-天映频道,http://cdn10.163189.xyz/163189/typd
-天映频道,https://o11.163189.xyz/stream/live/typd/
-Astro AOD,https://o11.163189.xyz/stream/live/aod/
-Astro AOD,https://o11.163189.xyz/stream/live/aod/
-Astro AOD,https://o11.163189.xyz/stream/live/aod/
-Astro AEC,https://o11.163189.xyz/stream/live/aec/
-Astro AEC,https://o11.163189.xyz/stream/live/aec/
-Astro AEC,https://o11.163189.xyz/stream/live/aec/
-Astro QJ,https://o11.163189.xyz/stream/live/qj/
-Astro QJ,https://o11.163189.xyz/stream/live/qj/
-TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
-TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
-爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
-爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
-爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
-华丽翡翠,http://cdn10.163189.xyz/163189/jade
-TVB星河国语,http://cdn10.163189.xyz/163189/xinghe
-龙华经典,http://cdn8.163189.xyz/163189/lhjd
-龙华卡通,http://cdn8.163189.xyz/163189/lhkt
-龙华偶像,http://cdn8.163189.xyz/163189/lhox
-龙华日韩,http://cdn8.163189.xyz/163189/lhrh
-龙华戏剧,http://cdn8.163189.xyz/163189/lhxj
-龙华洋片,http://cdn8.163189.xyz/163189/lhyp
-美亚电影,http://74.91.26.218:82/live/mydy.m3u8
-无线翡翠,https://o11.163189.xyz/stream/tvb/fct/
-TVBd,https://6.cdn.loc.cc/163189.php?id=tvbd
-无线星河国语,http://cdn10.163189.xyz/163189/xinghe
-无线星河国语,http://cdn10.163189.xyz/163189/xinghe
-无线星河国语,http://cdn10.163189.xyz/163189/xinghe
-翡翠剧集台,https://6.cdn.loc.cc/163189.php?id=tvbd
-TVBplus,https://o11.163189.xyz/stream/tvb/tvbp/
-无线明珠,https://o11.163189.xyz/stream/tvb/mzt/
-台湾+,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-NOW新闻台,https://cdn.163189.xyz/163189/now
-HOY-77,http://cdn.163189.xyz/163189/hoy
-星空卫视国际,http://202.80.222.20/cdn/iptv/Tvod/001/channel2000023/1024.m3u8
-TVB翡翠台,http://r.jdshipin.com/62WM7
-华丽翡翠台,https://o11.163189.xyz/stream/live/hlt/
-AOD,https://o11.163189.xyz/stream/live/aod/
-AEC,https://o11.163189.xyz/stream/live/aec/
-爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
-千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
-龙华电影,http://cdn8.163189.xyz/163189/lhdy
-龙华经典,http://cdn8.163189.xyz/163189/lhjd
-龙华卡通,http://cdn8.163189.xyz/163189/lhkt
-龙华偶像,http://cdn8.163189.xyz/163189/lhox
-龙华日韩,http://cdn8.163189.xyz/163189/lhrh
-龙华戏剧,http://cdn8.163189.xyz/163189/lhxj
-龙华洋片,http://cdn8.veryfast.filegear-sg.me/163189/lhyp
-TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
-TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
-NOW新闻,https://cdn.163189.xyz/163189/now
-新兔兔,#genre#
 CCTV1综合,http://zmgd.zyrnet.com:8888/hls/1/index.m3u8
 CCTV2财经,http://zmgd.zyrnet.com:8888/hls/2/index.m3u8
 CCTV3综艺,http://zmgd.zyrnet.com:8888/hls/3/index.m3u8
