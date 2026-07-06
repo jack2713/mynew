@@ -190,6 +190,7 @@ class TVSourceProcessor:
             "https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1","test",
             "https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt","test",
             "https://raw.githubusercontent.com/zxmlxw520/5566/refs/heads/main/cjdszb.txt","test",
+            "https://raw.githubusercontent.com/jack2713/mynew/refs/heads/main/TMP/temp.txt","yuchen",
             "https://raw.githubusercontent.com/swhtv/1/refs/heads/main/swtvlive","swtv",
         ]
         print(f"源URL: {len(urls)}个配置项")
