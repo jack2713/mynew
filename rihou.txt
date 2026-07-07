@@ -1823,7 +1823,6 @@ TVBJ1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2
 咪咕频道,https://live.666666.zip/migu/1.m3u8
 CCTV5,https://live.666666.zip/stream/20233432.m3u8
 CCTV5,https://live.666666.zip/cctv/5.m3u8
-澳门体育,http://cdn6.163189.xyz/163189/amty
 ELTA体育1,https://live.666666.zip/stream/16697898.m3u8
 ELTA体育1,https://live.666666.zip/elta/index.m3u8
 ELTA体育2,https://live.666666.zip/stream/28361755.m3u8
@@ -6097,6 +6096,7 @@ HOY-TV,http://push.cdn1.hls123.de:8080/streams/dguce4v9b69/index.m3u8
 翡翠台,http://push.cdn1.hls123.de:8080/streams/ef5addc0849/index.m3u8
 TVB星河,http://push.cdn1.hls123.de:8080/streams/hbiwgswysds/index.m3u8
 ViuTV,http://push.cdn1.hls123.de:8080/streams/iewbjlpp9v/index.m3u8
+鳳鳳資詢,http://rihou.cc:555/tv/[Pd]凤资讯
 澳视卫星,http://push.cdn1.hls123.de:8080/streams/gese9d57376/index.m3u8
 澳门莲花,http://push.cdn1.hls123.de:8080/streams/8nsrl4s4evv/index.m3u8
 重温经典,http://push.cdn1.hls123.de:8080/streams/g0jj471jied/index.m3u8
