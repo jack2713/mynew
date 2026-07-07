@@ -1,18 +1,17 @@
 import re
 import os
 import sys
-import subprocess
 import requests
-from urllib3.util.retry import Retry
-from requests.adapters import HTTPAdapter
 
 # 全局排除关键词定义（用于分类排除）
 EXCLUDE_KEYWORDS = [
-    "猫TV", "赛评", "赛事", "全集", "华山论剑", "三国粤", "大时代",
+    "猫TV", "赛评", "赛事", "全集", "华山论剑", "三国粤", "大时代","世杯",
     "流星花园", "还珠格格", "甄嬛", "大地恩情", "粤经典剧",
-    "射雕英雄", "神雕侠侣", "欣赏音乐", "凡人修仙传", "轮播",
+    "射雕英雄", "神雕侠侣", "音乐", "凡人修仙", "轮播",
     "频晴", "频陆", "地区", "轮播", "测试", "移动", "赛事", "内网",
-    "限", "歌曲"
+    "限", "歌曲","移动", "联通","私密","少儿","体育","记录","听书","老年","解说","监控","DJ","加入","(内)","韩剧","专用",
+                    "动漫","非诚","向前冲","百分百","集结号","好野","行不行","更新","国际影院","专用","上海综合","江西综合",
+                    "虎牙","斗鱼","电台","定制","综艺","电视剧","广场舞","戏曲","风景","游戏","梯","TG","三网2","NBA","直播","四季","内网","测试"
 ]
 
 # 行内容过滤关键词
@@ -20,13 +19,15 @@ CONTENT_FILTER_KEYWORDS = [
     "盗源", "DJ", "p3p", "shorturl", "更新", "group", "颜人中",
     "打赏", "购买", "河南网", "阜阳", "野草", "少儿", "广东体育",
     "\\", "iill.top", "凡人修仙传", "woshinibaba", "cfss.cc",
-    "75.127.89.169", "HBO"
+    "75.127.89.169","ottiptv","P2p","111.56.90.5","47.92.252.72","合集","huya","douyu","iptv.852851.xyz","catvod"
 ]
 
 
 class TVSourceProcessor:
     def __init__(self):
+        # 按 (url, genre_name) 对存储，格式: [(url, genre), ...]
         self.url_genre_pairs = []
+        # 按 genre 分组存储原始行: {genre: [lines]}
         self.genre_lines = {}
         self.session = requests.Session()
         self.session.headers.update({
@@ -34,20 +35,19 @@ class TVSourceProcessor:
                           'AppleWebKit/537.36 (KHTML, like Gecko) '
                           'Chrome/120.0.0.0 Safari/537.36'
         })
-        # 配置重试策略
-        retry = Retry(total=3, backoff_factor=1,
-                      status_forcelist=[500, 502, 503, 504],
-                      allowed_methods=["GET"])
-        adapter = HTTPAdapter(max_retries=retry)
-        self.session.mount("http://", adapter)
-        self.session.mount("https://", adapter)
 
     def parse_urls_config(self, urls_config):
-        """解析 URL 配置，支持 url, 段名 交替排列"""
+        """
+        解析 URL 配置，支持两种格式：
+        1. 旧格式: ["url1", "url2", ...]
+        2. 新格式: ["url1", "段名1", "url2", "段名2", ...]
+        如果没有段名，默认使用 "default"
+        """
         pairs = []
         i = 0
         while i < len(urls_config):
             url = urls_config[i]
+            # 检查下一个元素是否是段名（非URL的字符串）
             if i + 1 < len(urls_config) and not urls_config[i + 1].startswith('http'):
                 genre = urls_config[i + 1]
                 i += 2
@@ -62,8 +62,7 @@ class TVSourceProcessor:
         return pairs
 
     def fetch_url_content(self, url: str):
-        """获取URL内容：先试requests，失败后用curl兜底"""
-        # 第一步：尝试 requests
+        """使用 requests 获取URL内容"""
         try:
             print(f"获取: {url}")
             response = self.session.get(url, timeout=30)
@@ -71,35 +70,11 @@ class TVSourceProcessor:
             response.encoding = response.apparent_encoding
             content = response.text
             lines = [line.strip() for line in content.splitlines() if line.strip()]
-            print(f"  [requests] 成功: {len(lines)} 行")
+            print(f"  成功: {len(lines)} 行")
             return lines
         except Exception as e:
-            print(f"  [requests] 失败: {e}")
-
-        # 第二步：curl 兜底
-        try:
-            print(f"  [curl] 尝试获取...")
-            result = subprocess.run(
-                ['curl', '-sL', '--max-time', '30',
-                 '-A', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
-                 '-H', 'Accept: text/html,application/xhtml+xml,*/*;q=0.8',
-                 '-H', 'Accept-Language: zh-CN,zh;q=0.9',
-                 url],
-                capture_output=True, timeout=35
-            )
-            if result.returncode == 0 and result.stdout:
-                content = result.stdout.decode('utf-8', errors='replace')
-                lines = [line.strip() for line in content.splitlines() if line.strip()]
-                if lines:
-                    print(f"  [curl] 成功: {len(lines)} 行")
-                    return lines
-            print(f"  [curl] 失败: returncode={result.returncode}")
-            if result.stderr:
-                print(f"  [curl] stderr: {result.stderr.decode('utf-8', errors='replace')[:200]}")
-        except Exception as e:
-            print(f"  [curl] 异常: {e}")
-
-        return []
+            print(f"  失败: {e}")
+            return []
 
     def fetch_multiple_urls(self, urls_config):
         """获取多个URL内容，按段名分组存储"""
@@ -116,7 +91,7 @@ class TVSourceProcessor:
         return total_lines > 0
 
     def remove_excluded_sections(self, lines: list):
-        """排除指定区域"""
+        """排除指定区域（针对单个段的行列表）"""
         if not lines:
             return []
         result = []
@@ -133,7 +108,10 @@ class TVSourceProcessor:
         return result
 
     def remove_genre_lines_and_deduplicate(self, lines: list, seen_urls: set):
-        """删除genre行，按URL全局去重，并过滤内容关键词"""
+        """
+        删除genre行，按URL全局去重，并过滤内容关键词
+        seen_urls 跨段共享，确保同一URL不会出现在多个段中
+        """
         result = []
         filtered_count = 0
         dup_count = 0
@@ -161,7 +139,7 @@ class TVSourceProcessor:
 
     def process_genre_lines(self):
         """对所有段分别处理：排除区域 → 过滤去重"""
-        seen_urls = set()
+        seen_urls = set()  # 全局去重集合，跨段共享
         processed = {}
         for genre, lines in self.genre_lines.items():
             print(f"\n处理段: {genre} ({len(lines)} 行)")
@@ -175,13 +153,17 @@ class TVSourceProcessor:
         return processed
 
     def save_to_file(self, genre_lines: dict, filename: str):
-        """按段写入文件"""
+        """
+        按段写入文件，每个段以 "段名,#genre#" 开头
+        段之间空一行分隔
+        """
         try:
             content = []
             for genre, lines in genre_lines.items():
                 content.append(f"{genre},#genre#")
                 content.extend(lines)
-                content.append("")
+                content.append("")  # 段间空行
+            # 去掉末尾多余的空行
             while content and content[-1] == "":
                 content.pop()
             with open(filename, 'w', encoding='utf-8') as f:
@@ -189,6 +171,7 @@ class TVSourceProcessor:
             file_size = os.path.getsize(filename)
             total_lines = len(content)
             print(f"\n保存: {filename} ({total_lines}行, {file_size}字节)")
+            # 打印各段统计
             for genre, lines in genre_lines.items():
                 print(f"  [{genre}] {len(lines)} 个频道")
             return True
@@ -199,15 +182,16 @@ class TVSourceProcessor:
     def process(self):
         """主处理流程"""
         print("开始处理直播源")
+        # URL配置：url, 段名 交替排列
+        # 段名紧跟在URL后面，表示该URL的频道归入哪个段
         urls = [
-            "http://iptv.4666888.xyz/FYTV.txt", "风云",
             "http://wangziduoqing.com/yuan/zb.txt", "yuan",
             "http://rihou.cc:555/gggg.nzk", "rihou",
-            "https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1", "test",
-            "https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt", "test",
-            "https://raw.githubusercontent.com/zxmlxw520/5566/refs/heads/main/cjdszb.txt", "test",
-            "https://raw.githubusercontent.com/jack2713/mynew/refs/heads/main/TMP/temp.txt", "yuchen",
-            "https://raw.githubusercontent.com/swhtv/1/refs/heads/main/swtvlive", "swtv",
+            "https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1","test",
+            "https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt","test",
+            "https://raw.githubusercontent.com/zxmlxw520/5566/refs/heads/main/cjdszb.txt","test",
+            "https://raw.githubusercontent.com/jack2713/mynew/refs/heads/main/TMP/temp.txt","yuchen",
+            "https://raw.githubusercontent.com/swhtv/1/refs/heads/main/swtvlive","swtv",
         ]
         print(f"源URL: {len(urls)}个配置项")
         if not self.fetch_multiple_urls(urls):
