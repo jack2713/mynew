@@ -185,6 +185,7 @@ class TVSourceProcessor:
         # URL配置：url, 段名 交替排列
         # 段名紧跟在URL后面，表示该URL的频道归入哪个段
         urls = [
+            "http://iptv.4666888.xyz/FYTV.txt","风云",
             "http://wangziduoqing.com/yuan/zb.txt", "yuan",
             "http://rihou.cc:555/gggg.nzk", "rihou",
             "https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1","test",
