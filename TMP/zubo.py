@@ -7,10 +7,10 @@ import requests
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # 全局排除关键词定义（用于分类排除）
-EXCLUDE_KEYWORDS = ["移动", "联通"]
+EXCLUDE_KEYWORDS = ["移动"]
 
 # 行内容过滤关键词
-CONTENT_FILTER_KEYWORDS = ["CCTV", "CG", "卫视"]
+CONTENT_FILTER_KEYWORDS = ["CCTV", "CG", "卫视","144.255.31.236"]
 
 # 网络连接测试超时（秒）
 CONNECT_TIMEOUT = 3
