@@ -84,6 +84,7 @@ if __name__ == "__main__":
     # 替换为你需要处理的M3U URL列表
     m3u_urls = [
         #"https://raw.githubusercontent.com/xJEYDAin/iptv-scraper/refs/heads/master/output/all_merged.m3u", 
+        "http://4gtv.cnlive.club/4gtv.m3u",
         "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/GNTV.m3u",
         "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
         #"https://raw.githubusercontent.com/yy-niuma/live-tv/refs/heads/main/output/all_merged.m3u",
