@@ -1,75 +1,70 @@
 綜合,#genre#
-民視第一台,http://4gtv.cnlive.club/channel/nc56ba28/index.m3u8?q=1784379716738
-民視台灣台,http://4gtv.cnlive.club/channel/nce5d867/index.m3u8?q=1784379716738
-民視,http://4gtv.cnlive.club/channel/n7222a63c/index.m3u8?q=1784379716738
-大愛電視,http://4gtv.cnlive.club/channel/n7d3037d2/index.m3u8?q=1784379716738
-中視,http://4gtv.cnlive.club/channel/n722644d8/index.m3u8?q=1784379716738
-華視,http://4gtv.cnlive.club/channel/n721fc25a/index.m3u8?q=1784379716738
-三立綜合台,http://4gtv.cnlive.club/channel/45c7d3e3/index.m3u8?q=1784379716738
-客家電視台,http://4gtv.cnlive.club/channel/n855e5fe/index.m3u8?q=1784379716738
-八大綜藝台,http://4gtv.cnlive.club/channel/662e9334/index.m3u8?q=1784379716738
-TVBS精采台,http://4gtv.cnlive.club/channel/49d50255/index.m3u8?q=1784379716738
-靖天綜合台,http://4gtv.cnlive.club/channel/3f6ecb92/index.m3u8?q=1784379716738
+民視第一台,http://4gtv.cnlive.club/channel/nc56ba28/index.m3u8?q=1784393435769
+民視台灣台,http://4gtv.cnlive.club/channel/nce5d867/index.m3u8?q=1784393435769
+民視,http://4gtv.cnlive.club/channel/n7222a63c/index.m3u8?q=1784393435769
+大愛電視,http://4gtv.cnlive.club/channel/n7d3037d2/index.m3u8?q=1784393435769
+中視,http://4gtv.cnlive.club/channel/n722644d8/index.m3u8?q=1784393435769
+華視,http://4gtv.cnlive.club/channel/n721fc25a/index.m3u8?q=1784393435769
+三立綜合台,http://4gtv.cnlive.club/channel/45c7d3e3/index.m3u8?q=1784393435769
+客家電視台,http://4gtv.cnlive.club/channel/n855e5fe/index.m3u8?q=1784393435769
+八大綜藝台,http://4gtv.cnlive.club/channel/662e9334/index.m3u8?q=1784393435769
+TVBS精采台,http://4gtv.cnlive.club/channel/49d50255/index.m3u8?q=1784393435769
+靖天綜合台,http://4gtv.cnlive.club/channel/3f6ecb92/index.m3u8?q=1784393435769
 音樂綜藝,#genre#
-靖天日本台,http://4gtv.cnlive.club/channel/3f1816f7/index.m3u8?q=1784379716738
-原住民族電視台,http://4gtv.cnlive.club/channel/4f20dc68/index.m3u8?q=1784379716738
+靖天日本台,http://4gtv.cnlive.club/channel/3f1816f7/index.m3u8?q=1784393435769
+原住民族電視台,http://4gtv.cnlive.club/channel/4f20dc68/index.m3u8?q=1784393435769
 兒童與青少年,#genre#
-LiveABC互動英語頻道,http://4gtv.cnlive.club/channel/2a571abf/index.m3u8?q=1784379716738
-達文西頻道,http://4gtv.cnlive.club/channel/n1d7d9ddb/index.m3u8?q=1784379716738
-Nick Jr. 兒童頻道,http://4gtv.cnlive.club/channel/23ac0723/index.m3u8?q=1784379716738
-尼克兒童頻道,http://4gtv.cnlive.club/channel/51bbda39/index.m3u8?q=1784379716738
-DreamWorks 夢工廠動畫,http://4gtv.cnlive.club/channel/n451655ef/index.m3u8?q=1784379716738
-靖天卡通台,http://4gtv.cnlive.club/channel/3ed78a45/index.m3u8?q=1784379716738
-靖洋卡通Nice Bingo,http://4gtv.cnlive.club/channel/n15c65427/index.m3u8?q=1784379716738
-MOMO親子台,http://4gtv.cnlive.club/channel/n33a56e39/index.m3u8?q=1784379716738
+LiveABC互動英語頻道,http://4gtv.cnlive.club/channel/2a571abf/index.m3u8?q=1784393435769
+達文西頻道,http://4gtv.cnlive.club/channel/n1d7d9ddb/index.m3u8?q=1784393435769
+Nick Jr. 兒童頻道,http://4gtv.cnlive.club/channel/23ac0723/index.m3u8?q=1784393435769
+尼克兒童頻道,http://4gtv.cnlive.club/channel/51bbda39/index.m3u8?q=1784393435769
+DreamWorks 夢工廠動畫,http://4gtv.cnlive.club/channel/n451655ef/index.m3u8?q=1784393435769
+靖天卡通台,http://4gtv.cnlive.club/channel/3ed78a45/index.m3u8?q=1784393435769
+靖洋卡通Nice Bingo,http://4gtv.cnlive.club/channel/n15c65427/index.m3u8?q=1784393435769
+MOMO親子台,http://4gtv.cnlive.club/channel/n33a56e39/index.m3u8?q=1784393435769
 新聞財經,#genre#
-鏡電視新聞台,http://4gtv.cnlive.club/channel/351c8485/index.m3u8?q=1784379716738
-東森新聞台,http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1784379716738
-華視新聞,http://4gtv.cnlive.club/channel/n692bc32c/index.m3u8?q=1784379716738
-民視新聞台,http://4gtv.cnlive.club/channel/nca14742/index.m3u8?q=1784379716738
-三立新聞iNEWS,http://4gtv.cnlive.club/channel/4fa717ad/index.m3u8?q=1784379716738
-TVBS新聞,http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1784379716738
-東森財經新聞台,http://4gtv.cnlive.club/channel/57ce2e74/index.m3u8?q=1784379716738
-中視新聞,http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8?q=1784379716738
-中天新聞台,http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1784379716738
-寰宇新聞台,http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1784379716738
-寰宇新聞台灣台,http://4gtv.cnlive.club/channel/n37458587/index.m3u8?q=1784379716738
-TVBS,http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1784379716738
-民視綜藝台,http://4gtv.cnlive.club/channel/nc46cff5/index.m3u8?q=1784379716738
-豬哥亮歌廳秀,http://4gtv.cnlive.club/channel/n4271efdd/index.m3u8?q=1784379716738
-靖天育樂台,http://4gtv.cnlive.club/channel/3f7d0a6e/index.m3u8?q=1784379716738
-KLT-靖天國際台,http://4gtv.cnlive.club/channel/n481b36ac/index.m3u8?q=1784379716738
-Nice TV 靖天歡樂台,http://4gtv.cnlive.club/channel/n122ce57e/index.m3u8?q=1784379716738
-靖天資訊台,http://4gtv.cnlive.club/channel/3fae463b/index.m3u8?q=1784379716738
-TVBS歡樂台,http://4gtv.cnlive.club/channel/498f035d/index.m3u8?q=1784379716738
+鏡電視新聞台,http://4gtv.cnlive.club/channel/351c8485/index.m3u8?q=1784393435769
+東森新聞台,http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1784393435769
+華視新聞,http://4gtv.cnlive.club/channel/n692bc32c/index.m3u8?q=1784393435769
+民視新聞台,http://4gtv.cnlive.club/channel/nca14742/index.m3u8?q=1784393435769
+三立新聞iNEWS,http://4gtv.cnlive.club/channel/4fa717ad/index.m3u8?q=1784393435769
+TVBS新聞,http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1784393435769
+東森財經新聞台,http://4gtv.cnlive.club/channel/57ce2e74/index.m3u8?q=1784393435769
+中視新聞,http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8?q=1784393435769
+中天新聞台,http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1784393435769
+寰宇新聞台,http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1784393435769
+寰宇新聞台灣台,http://4gtv.cnlive.club/channel/n37458587/index.m3u8?q=1784393435769
+TVBS,http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1784393435769
+民視綜藝台,http://4gtv.cnlive.club/channel/nc46cff5/index.m3u8?q=1784393435769
+豬哥亮歌廳秀,http://4gtv.cnlive.club/channel/n4271efdd/index.m3u8?q=1784393435769
+靖天育樂台,http://4gtv.cnlive.club/channel/3f7d0a6e/index.m3u8?q=1784393435769
+KLT-靖天國際台,http://4gtv.cnlive.club/channel/n481b36ac/index.m3u8?q=1784393435769
+Nice TV 靖天歡樂台,http://4gtv.cnlive.club/channel/n122ce57e/index.m3u8?q=1784393435769
+靖天資訊台,http://4gtv.cnlive.club/channel/3fae463b/index.m3u8?q=1784393435769
+TVBS歡樂台,http://4gtv.cnlive.club/channel/498f035d/index.m3u8?q=1784393435769
 戲劇、電影與紀錄片,#genre#
-公視戲劇,http://4gtv.cnlive.club/channel/7fdd881e/index.m3u8?q=1784379716738
-八大精彩台,http://4gtv.cnlive.club/channel/6626a9ca/index.m3u8?q=1784379716738
-靖天戲劇台,http://4gtv.cnlive.club/channel/3f07b409/index.m3u8?q=1784379716738
-靖洋戲劇台,http://4gtv.cnlive.club/channel/48117ce7/index.m3u8?q=1784379716738
-金光布袋戲,http://4gtv.cnlive.club/channel/n125d8ecd/index.m3u8?q=1784379716738
-ROCK Action,http://4gtv.cnlive.club/channel/n21b197ce/index.m3u8?q=1784379716738
-采昌影劇台,http://4gtv.cnlive.club/channel/n97ba44a/index.m3u8?q=1784379716738
-靖天映畫,http://4gtv.cnlive.club/channel/n610faa83/index.m3u8?q=1784379716738
-靖天電影台,http://4gtv.cnlive.club/channel/3fcf6ae8/index.m3u8?q=1784379716738
-影迷數位電影台,http://4gtv.cnlive.club/channel/n79da43c0/index.m3u8?q=1784379716738
-amc電影台,http://4gtv.cnlive.club/channel/n4f2af9e/index.m3u8?q=1784379716738
-CinemaWorld,http://4gtv.cnlive.club/channel/n7815b83e/index.m3u8?q=1784379716738
-大愛二台,http://4gtv.cnlive.club/channel/n7d3932e9/index.m3u8?q=1784379716738
-人間衛視,http://4gtv.cnlive.club/channel/7ed5b6d3/index.m3u8?q=1784379716738
-TVBS綜藝台,http://4gtv.cnlive.club/channel/49d6d25d/index.m3u8?q=1784379716738
-TVBS台劇台,http://4gtv.cnlive.club/channel/49342c47/index.m3u8?q=1784379716738
-經典電影台,http://4gtv.cnlive.club/channel/n2eb7240a/index.m3u8?q=1784379716738
-經典卡通台,http://4gtv.cnlive.club/channel/n2faf04ad/index.m3u8?q=1784379716738
-精選動漫台,http://4gtv.cnlive.club/channel/n1ecb3c7f/index.m3u8?q=1784379716738
+公視戲劇,http://4gtv.cnlive.club/channel/7fdd881e/index.m3u8?q=1784393435769
+八大精彩台,http://4gtv.cnlive.club/channel/6626a9ca/index.m3u8?q=1784393435769
+靖天戲劇台,http://4gtv.cnlive.club/channel/3f07b409/index.m3u8?q=1784393435769
+靖洋戲劇台,http://4gtv.cnlive.club/channel/48117ce7/index.m3u8?q=1784393435769
+金光布袋戲,http://4gtv.cnlive.club/channel/n125d8ecd/index.m3u8?q=1784393435769
+ROCK Action,http://4gtv.cnlive.club/channel/n21b197ce/index.m3u8?q=1784393435769
+采昌影劇台,http://4gtv.cnlive.club/channel/n97ba44a/index.m3u8?q=1784393435769
+靖天映畫,http://4gtv.cnlive.club/channel/n610faa83/index.m3u8?q=1784393435769
+靖天電影台,http://4gtv.cnlive.club/channel/3fcf6ae8/index.m3u8?q=1784393435769
+影迷數位電影台,http://4gtv.cnlive.club/channel/n79da43c0/index.m3u8?q=1784393435769
+amc電影台,http://4gtv.cnlive.club/channel/n4f2af9e/index.m3u8?q=1784393435769
+CinemaWorld,http://4gtv.cnlive.club/channel/n7815b83e/index.m3u8?q=1784393435769
+大愛二台,http://4gtv.cnlive.club/channel/n7d3932e9/index.m3u8?q=1784393435769
+人間衛視,http://4gtv.cnlive.club/channel/7ed5b6d3/index.m3u8?q=1784393435769
+TVBS綜藝台,http://4gtv.cnlive.club/channel/49d6d25d/index.m3u8?q=1784393435769
+TVBS台劇台,http://4gtv.cnlive.club/channel/49342c47/index.m3u8?q=1784393435769
+經典電影台,http://4gtv.cnlive.club/channel/n2eb7240a/index.m3u8?q=1784393435769
+經典卡通台,http://4gtv.cnlive.club/channel/n2faf04ad/index.m3u8?q=1784393435769
+精選動漫台,http://4gtv.cnlive.club/channel/n1ecb3c7f/index.m3u8?q=1784393435769
 央视频道,#genre#
 CGTN英语,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 CGTN纪录,http://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
-CGTN财经,https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/index_6.m3u8
-CGTN西语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
-CGTN法语,http://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd.m3u8
-CGTN俄语,http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd.m3u8
-CGTN阿语,http://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd.m3u8
 港台频道,#genre#
 民视新闻,http://rihou.cc:555/tv/%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB
 公视高清,http://211.72.174.95:8116/0.ts
@@ -113,7 +108,15 @@ Taiwan+,https://fastly.live.brightcove.com/6385235869112/ap-northeast-1/62822514
 文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=87c5daf4f4c3a09fb4e4cce0843d4a1c&wsTime=1770400669
 武术频道,https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=dfcdc24ac8a49ebd886337dc5cdc1568&wsTime=1770400669
 河南曲艺,https://dxtx.hntv.tv/live/jczy.m3u8?txSecret=e785008e49564e5e738439b4dd2ae68e&txTime=7C4C6207&wsSecret=3f9e1d6e5c78cea99a876ce40f13202b&wsTime=1770400669
+绍兴公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
+文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+文成综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
+萧山综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
+龙泉综合,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
+上虞综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
+云和综合,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
 国际,#genre#
+CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 BBC News,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 GB News,https://rakutenaa-lightning-gbnews-rakuten-ccoa9.amagi.tv/playlist/rakutenAA-lightning-gbnews-rakuten/playlist.m3u8
 RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
