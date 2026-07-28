@@ -204,13 +204,65 @@ CHU综合Pdtv,http://rihou.cc:555/tv/[Pd]CHU综合
 CH5综合Pdtv,http://rihou.cc:555/tv/[Pd]CH5综合
 CH8综合Pdtv,http://rihou.cc:555/tv/[Pd]CH8综合
 astroaodPdtv,http://rihou.cc:555/tv/[Pd]astroaod
-翡翠4K,https://cdn.qd.je/163189.php?id=fct4k
-TVBJ1,https://cdn.qd.je/163189.php?id=j1
-TVB1,https://cdn.qd.je/163189.php?id=tvb1
-Astlo,https://cdn.qd.je/163189.php?id=aod
-香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-耀才财经频道,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
+寰宇新聞台,http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1782639885837
+寰宇新聞台灣台,http://4gtv.cnlive.club/channel/n37458587/index.m3u8?q=1782639885837
+鏡電視新聞台,http://4gtv.cnlive.club/channel/351c8485/index.m3u8?q=1782639885837
+中天新聞台,http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1782639885837
+中視新聞,http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8?q=1782639885837
+TVBS,http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1782639885837
+TVBS台劇台,http://4gtv.cnlive.club/channel/49342c47/index.m3u8?q=1782639885837
+TVBS新聞,http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1782639885837
+TVBS歡樂台,http://4gtv.cnlive.club/channel/498f035d/index.m3u8?q=1782639885837
+TVBS精采台,http://4gtv.cnlive.club/channel/49d50255/index.m3u8?q=1782639885837
+TVBS綜藝台,http://4gtv.cnlive.club/channel/49d6d25d/index.m3u8?q=1782639885837
+東森新聞台,http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1782639885837
+東森財經新聞台,http://4gtv.cnlive.club/channel/57ce2e74/index.m3u8?q=1782639885837
+三立新聞iNEWS,http://4gtv.cnlive.club/channel/4fa717ad/index.m3u8?q=1782639885837
+三立綜合台,http://4gtv.cnlive.club/channel/45c7d3e3/index.m3u8?q=1782639885837
+華視新聞,http://4gtv.cnlive.club/channel/n692bc32c/index.m3u8?q=1782639885837
+民視台灣台,http://4gtv.cnlive.club/channel/nce5d867/index.m3u8?q=1782639885837
+民視新聞台,http://4gtv.cnlive.club/channel/nca14742/index.m3u8?q=1782639885837
+民視第一台,http://4gtv.cnlive.club/channel/nc56ba28/index.m3u8?q=1782639885837
+民視綜藝台,http://4gtv.cnlive.club/channel/nc46cff5/index.m3u8?q=1782639885837
+公視戲劇,http://4gtv.cnlive.club/channel/7fdd881e/index.m3u8?q=1782639885837
+原住民族電視台,http://4gtv.cnlive.club/channel/4f20dc68/index.m3u8?q=1782639885837
+客家電視台,http://4gtv.cnlive.club/channel/n855e5fe/index.m3u8?q=1782639885837
+豬哥亮歌廳秀,http://4gtv.cnlive.club/channel/n4271efdd/index.m3u8?q=1782639885837
+金光布袋戲,http://4gtv.cnlive.club/channel/n125d8ecd/index.m3u8?q=1782639885837
+大愛二台,http://4gtv.cnlive.club/channel/n7d3932e9/index.m3u8?q=1782639885837
+大愛電視,http://4gtv.cnlive.club/channel/n7d3037d2/index.m3u8?q=1782639885837
+人間衛視,http://4gtv.cnlive.club/channel/7ed5b6d3/index.m3u8?q=1782639885837
+八大精彩台,http://4gtv.cnlive.club/channel/6626a9ca/index.m3u8?q=1782639885837
+八大綜藝台,http://4gtv.cnlive.club/channel/662e9334/index.m3u8?q=1782639885837
+尼克兒童頻道,http://4gtv.cnlive.club/channel/51bbda39/index.m3u8?q=1782639885837
+影迷數位電影台,http://4gtv.cnlive.club/channel/n79da43c0/index.m3u8?q=1782639885837
+達文西頻道,http://4gtv.cnlive.club/channel/n1d7d9ddb/index.m3u8?q=1782639885837
+采昌影劇台,http://4gtv.cnlive.club/channel/n97ba44a/index.m3u8?q=1782639885837
+靖天卡通台,http://4gtv.cnlive.club/channel/3ed78a45/index.m3u8?q=1782639885837
+靖天戲劇台,http://4gtv.cnlive.club/channel/3f07b409/index.m3u8?q=1782639885837
+靖天日本台,http://4gtv.cnlive.club/channel/3f1816f7/index.m3u8?q=1782639885837
+靖天映畫,http://4gtv.cnlive.club/channel/n610faa83/index.m3u8?q=1782639885837
+靖天綜合台,http://4gtv.cnlive.club/channel/3f6ecb92/index.m3u8?q=1782639885837
+靖天育樂台,http://4gtv.cnlive.club/channel/3f7d0a6e/index.m3u8?q=1782639885837
+靖天資訊台,http://4gtv.cnlive.club/channel/3fae463b/index.m3u8?q=1782639885837
+靖天電影台,http://4gtv.cnlive.club/channel/3fcf6ae8/index.m3u8?q=1782639885837
+靖洋卡通Nice Bingo,http://4gtv.cnlive.club/channel/n15c65427/index.m3u8?q=1782639885837
+靖洋戲劇台,http://4gtv.cnlive.club/channel/48117ce7/index.m3u8?q=1782639885837
+台灣傳奇-FastTV飛速看,http://4gtv.cnlive.club/channel/n496c6dde/index.m3u8?q=1782639885837
+哆啦A夢-FastTV飛速看,http://4gtv.cnlive.club/channel/9fc6b5c/index.m3u8?q=1782639885837
+國外電影精選-FastTV飛速看,http://4gtv.cnlive.club/channel/32bc6076/index.m3u8?q=1782639885837
+客家好劇-FastTV飛速看,http://4gtv.cnlive.club/channel/n1f7f47/index.m3u8?q=1782639885837
+懷舊經典電影-FastTV飛速看,http://4gtv.cnlive.club/channel/n424d08b7/index.m3u8?q=1782639885837
+日韓電影大賞-FastTV飛速看,http://4gtv.cnlive.club/channel/n5541a0ca/index.m3u8?q=1782639885837
+東離劍遊紀-FastTV飛速看,http://4gtv.cnlive.club/channel/nb3eed91/index.m3u8?q=1782639885837
+精彩陸劇1台-FastTV飛速看,http://4gtv.cnlive.club/channel/n7179beac/index.m3u8?q=1782639885837
+精彩陸劇2台-FastTV飛速看,http://4gtv.cnlive.club/channel/n69c8194d/index.m3u8?q=1782639885837
+精選動漫台,http://4gtv.cnlive.club/channel/n1ecb3c7f/index.m3u8?q=1782639885837
+精選華語電影-FastTV飛速看,http://4gtv.cnlive.club/channel/750a2ada/index.m3u8?q=1782639885837
+經典卡通-FastTV飛速看,http://4gtv.cnlive.club/channel/53488299/index.m3u8?q=1782639885837
+經典卡通台,http://4gtv.cnlive.club/channel/n2faf04ad/index.m3u8?q=1782639885837
+經典迪士尼-FastTV飛速看,http://4gtv.cnlive.club/channel/n4ae53aed/index.m3u8?q=1782639885837
+經典電影台,http://4gtv.cnlive.clu
 
 rihou,#genre#
 ⬇️港乐翻唱⬇️,http://rihou.cc:555/tv/t
@@ -227,11 +279,10 @@ rihou,#genre#
 港风粤语女三,http://rihou.cc:555/tv/港风粤语女三
 港风粤语女四,http://rihou.cc:555/tv/港风粤语女四
 港风粤语女五,http://rihou.cc:555/tv/港风粤语女五
-19:30中国男篮🆚喀麦隆男篮,http://rihou.cc:555/tv/v
-国🔊27篮评述,http://rihou.cc:555/tv/27男篮咪评述
-国🔊27篮述评,http://rihou.cc:555/tv/27男篮咪述评
-国🔊27篮评评,http://rihou.cc:555/tv/27男篮咪评评
-粤🔊27篮述述,http://rihou.cc:555/tv/27男篮咪述述
+美亚电影Pdtv,http://rihou.cc:555/tv/[Pd]美亚电影
+天映电影Pdtv,http://rihou.cc:555/tv/[Pd]天映电影
+有线国际Pdtv,http://rihou.cc:555/tv/[Pd]有线国际
+10:00陕西榆林天泽🆚武汉盛帆黄鹤,http://rihou.cc:555/tv/v
 国🔊28篮评述,http://rihou.cc:555/tv/28女篮咪评述
 国🔊28篮述评,http://rihou.cc:555/tv/28女篮咪述评
 国🔊28篮评评,http://rihou.cc:555/tv/28女篮咪评评
@@ -470,6 +521,7 @@ wwe格斗欣赏,http://rihou.cc:555/tv/[FY]wwe格斗
 星空卫视频道,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 亚洲卫视频道,http://rihou.cc:555/tv/NTD
 香港卫视频道,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港C+_-频道,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 环球电视频道,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 重温经典频道,http://m.061899.xyz/mg/cwjd
 重温经典频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
@@ -5499,6 +5551,7 @@ CNA亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f6
 CNA亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 FRANCE 24(FR),https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_500.m3u8
 FRANCE NEWS(EN),https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8
+EURONEWS,https://jmp2.uk/stvp-DE2600003TR
 EURONEWS,https://a-cdn.klowdtv.com/live3/euronews_720p/chunks.m3u8
 AJA news,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 AJE news English,https://live-hls-apps-aje-fa.getaj.net/AJE/03.m3u8
@@ -5526,6 +5579,7 @@ BBC ONE,https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/3000.m3u8
 BBC TWO,https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/52449019-c378-4e85-b20e-1f51e0d5bb4a/4.m3u8
 BBC ONE,http://41.205.93.154/BBCONE/tracks-v1a1/mono.m3u8
 BBC TWO,http://41.205.93.154/BBCTWO/tracks-v1a1/mono.m3u8
+CNN,https://jmp2.uk/stvp-ATBD800001VA
 CNN FAST,https://jmp2.uk/stvp-GBBD1900008O3
 CNN H ,https://d3hnx79nr9mhdw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1u2levt4fksmr/CNNFAST_GB.m3u8
 CNN H,https://d3fzntptkfpmvg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6rc4k0y56fezj/CNNFAST_GB.m3u8
@@ -5763,10 +5817,15 @@ TVB Plus,http://cdn3.123.rr.kg/stream/tvb/tvbp/
 TVB DRAMA翡翠剧集台,http://cdn6.123.rr.kg/163189/tvbd
 TVB1,http://cdn6.123.rr.kg/163189/tvb1
 TVB J1,http://cdn6.123.rr.kg/163189/j1
+TVB 1 US,https://cdn.qd.je/163189.php?id=tvb1
+TVB 1 US综合,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476199.m3u8
 娱乐新闻台,http://cdn6.123.rr.kg/163189/ylxw
 澳门体育,http://cdn6.123.rr.kg/163189/amty
 澳门 莲花,http://cdn6.123.rr.kg/163189/amlh
 VIUTV,https://cdn.123.rr.kg/163189/viu
+TVBJ1,https://cdn.qd.je/163189.php?id=j1
+面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+耀才财经频道,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 澳门资讯,https://live5.tdm.com.mo/ch5/info_ch5.live/chunklist_w929410396.m3u8
 澳门卫视,https://live5.tdm.com.mo/ch1/ch1.live/chunklist_w27593303.m3u8
