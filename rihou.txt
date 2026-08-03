@@ -358,8 +358,7 @@ rihou,#genre#
 美亚电影Pdtv,http://rihou.cc:555/tv/[Pd]美亚电影
 天映电影Pdtv,http://rihou.cc:555/tv/[Pd]天映电影
 有线国际Pdtv,http://rihou.cc:555/tv/[Pd]有线国际
-19:30中国U18男篮🆚韩国东国大学,http://rihou.cc:555/tv/v
-国🔊03青评述,http://rihou.cc:555/tv/03国青咪评述
+19:00乌兰察布队🆚包头队,http://rihou.cc:555/tv/v
 国🔊04蒙评述,http://rihou.cc:555/tv/04蒙超咪评述
 国🔊04青评述,http://rihou.cc:555/tv/04国青咪评述
 国🔊05热评述,http://rihou.cc:555/tv/05热身咪评述
