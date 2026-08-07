@@ -411,12 +411,7 @@ rihou,#genre#
 美亚电影Pdtv,http://rihou.cc:555/tv/[Pd]美亚电影
 天映电影Pdtv,http://rihou.cc:555/tv/[Pd]天映电影
 有线国际Pdtv,http://rihou.cc:555/tv/[Pd]有线国际
-19:30中国女篮🆚尼日利亚女篮,http://rihou.cc:555/tv/v
-国🔊07篮评述,http://rihou.cc:555/tv/07女篮咪评述
-国🔊07中评述,http://rihou.cc:555/tv/07中超咪评述
-国🔊07湘评述,http://rihou.cc:555/tv/07湘超咪评述
-粤🔊小肥旁述,http://rihou.cc:555/tv/07热身小肥述
-国🔊07热评述,http://rihou.cc:555/tv/07热身咪评述
+10:00嘉峪关队🆚兰州队,http://rihou.cc:555/tv/v
 国🔊08陇评述,http://rihou.cc:555/tv/08陇超咪评述
 国🔊08陇述评,http://rihou.cc:555/tv/08陇超咪述评
 国🔊08鲁评述,http://rihou.cc:555/tv/08鲁超咪评述
