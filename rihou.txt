@@ -415,6 +415,7 @@ rihou,#genre#
 国🔊07篮评述,http://rihou.cc:555/tv/07女篮咪评述
 国🔊07中评述,http://rihou.cc:555/tv/07中超咪评述
 国🔊07湘评述,http://rihou.cc:555/tv/07湘超咪评述
+粤🔊小肥旁述,http://rihou.cc:555/tv/07热身小肥述
 国🔊07热评述,http://rihou.cc:555/tv/07热身咪评述
 国🔊08陇评述,http://rihou.cc:555/tv/08陇超咪评述
 国🔊08陇述评,http://rihou.cc:555/tv/08陇超咪述评
