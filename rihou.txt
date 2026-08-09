@@ -411,8 +411,7 @@ rihou,#genre#
 美亚电影Pdtv,http://rihou.cc:555/tv/[Pd]美亚电影
 天映电影Pdtv,http://rihou.cc:555/tv/[Pd]天映电影
 有线国际Pdtv,http://rihou.cc:555/tv/[Pd]有线国际
-21:00吐鲁番队🆚阿勒泰队,http://rihou.cc:555/tv/v
-国🔊08疆评述,http://rihou.cc:555/tv/08疆超咪评述
+19:00曼城🆚马体会,http://rihou.cc:555/tv/v
 国🔊09热评述,http://rihou.cc:555/tv/09热身咪评述
 国🔊09热述评,http://rihou.cc:555/tv/09热身咪述评
 国🔊09热评评,http://rihou.cc:555/tv/09热身咪评评
