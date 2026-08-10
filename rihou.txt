@@ -5329,7 +5329,9 @@ OAN NEWS,https://a-cdn.klowdtv.com/live1/oan_720p/chunks.m3u8
 Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 RDI CANADA,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 RDI CANADA,https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_3000.m3u8
-fox Business,http://206.212.244.63/66/index.m3u8
+fox Business,http://41.205.93.154/FOXBUSINESS/index.m3u8
+fox Business,http://primep2.tv:826/live/SourPatchKid/nlnE4DVQUs/105893.ts
+fox Business,http://lunar.pm:8080/live/kita/Twin/9328.ts
 FOX NEWS CHANNEL,http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 FOX NEWS CHANNEL,http://206.212.244.63/67/index.m3u8
 Fox-news channel,http://91.218.50.136:80/negrobussula/032998177444/10838
