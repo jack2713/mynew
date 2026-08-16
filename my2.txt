@@ -63,27 +63,6 @@ CETV4,http://zmgd.zyrnet.com:8888/hls/70/index.m3u8
 黑龙江卫视,http://go.bkpcp.top/mg/hljws
 江苏卫视,http://go.bkpcp.top/mg/jsws4k
 广东卫视,http://go.bkpcp.top/mg/gdws4k
-凤凰中文台,https://cdn6.163189.xyz/163189/fhzw
-凤凰电影台,http://www.liyajun.top:7088/udp/239.253.93.81:6247
-RTHK31,https://cdn.163189.xyz/163189/rthk31
-RTHK32,https://cdn.163189.xyz/163189/rthk32
-ViuTV,https://cdn.163189.xyz/163189/viu
-华丽翡翠台,https://o11.163189.xyz/stream/live/hlt/
-Astro AOD,https://o11.163189.xyz/stream/live/aod/
-Astro AEC,https://o11.163189.xyz/stream/live/aec/
-Astro QJ,https://o11.163189.xyz/stream/live/qj/
-爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
-千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
-华数动画电影,http://119.123.179.9:8086/hls/78/index.m3u8
-华数电影,http://hmfs.f3322.net:3388/hls/40/index.m3u8
-龙华电影,https://cdn8.163189.xyz/163189/ly
-龙华经典,https://cdn8.163189.xyz/163189/lhjd
-龙华偶像,https://cdn8.163189.xyz/163189/lhox
-龙华日韩,https://cdn8.163189.xyz/163189/lhrh
-龙华戏剧,https://cdn8.163189.xyz/163189/lhxj
-新加波5频道,https://cdn6.101.qzz.io/163189/ch5
-新加波8频道,https://cdn6.101.qzz.io/163189/ch8
-新加波U频道,https://cdn6.101.qzz.io/163189/chu
 固镇综合,http://www.guzhenm.com:7001/hls/hd-live.m3u8?zanhd
 灵璧综合,http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=82c6bfd1d14bdd5cefbeb40aae404dd5&txTime=194d0c43cd6
