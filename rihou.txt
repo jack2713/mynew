@@ -284,11 +284,8 @@ CHU综合Pdtv,http://rihou.cc:555/tv/[Pd]CHU综合
 CH5综合Pdtv,http://rihou.cc:555/tv/[Pd]CH5综合
 CH8综合Pdtv,http://rihou.cc:555/tv/[Pd]CH8综合
 astroaodPdtv,http://rihou.cc:555/tv/[Pd]astroaod
-14:00河南豫光金铅🆚辽宁大连体产,http://rihou.cc:555/tv/v
-国🔊20篮评述,http://rihou.cc:555/tv/20女篮咪评述
-国🔊20篮述评,http://rihou.cc:555/tv/20女篮咪述评
-国🔊20篮评评,http://rihou.cc:555/tv/20女篮咪评评
-国🔊20篮述述,http://rihou.cc:555/tv/20女篮咪述述
+03:00巴列卡诺🆚阿拉维斯,http://rihou.cc:555/tv/v
+国🔊21西评述,http://rihou.cc:555/tv/21西甲咪评述
 国🔊21篮评述,http://rihou.cc:555/tv/21女篮咪评述
 国🔊21篮述评,http://rihou.cc:555/tv/21女篮咪述评
 国🔊21篮评评,http://rihou.cc:555/tv/21女篮咪评评
