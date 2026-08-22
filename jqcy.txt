@@ -16,7 +16,8 @@ CCTV12社会与法,http://nas.jqcykj.com:88/bst?id=172#http://nas.jqcykj.com:88/
 CCTV13新闻,http://nas.jqcykj.com:88/bst?id=173#http://nas.jqcykj.com:88/bst/2?id=173
 CCTV14少儿,http://nas.jqcykj.com:88/bst?id=174#http://nas.jqcykj.com:88/bst/2?id=174
 CCTV15音乐,http://nas.jqcykj.com:88/bst?id=175#http://nas.jqcykj.com:88/bst/2?id=175
-CCTV16奥林匹克,http://nas.jqcykj.com:89/live/CCTV-16_4000.m3u8#http://207.56.13.146:81/cdnlive/cctv16.m3u8
+CCTV16奥林匹克,http://nas.jqcykj.com:89/live/CCTV-16_4000.m3u8
+CCTV16奥林匹克4K,http://207.56.13.146:81/cdnlive/cctv16.m3u8
 CCTV17农业农村,http://nas.jqcykj.com:88/bst?id=176#http://nas.jqcykj.com:88/bst/2?id=176
 //官方&咪咕
 CGTN新闻,https://english-liveali.cgtn.com/hls/yypdyyctzb/yypdyyctzbcd/playlist.m3u8
