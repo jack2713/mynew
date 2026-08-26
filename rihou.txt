@@ -298,13 +298,53 @@ CH5综合Pdtv,http://rihou.cc:555/tv/[Pd]CH5综合
 CH8综合Pdtv,http://rihou.cc:555/tv/[Pd]CH8综合
 astroaodPdtv,http://rihou.cc:555/tv/[Pd]astroaod
 Astr欢喜Pdtv,http://rihou.cc:555/tv/[Pd]Astr欢喜
-14:00合肥文旅女队🆚四川蜀道远达,http://rihou.cc:555/tv/v
-国🔊26篮评述,http://rihou.cc:555/tv/26女篮咪评述
-国🔊26篮述评,http://rihou.cc:555/tv/26女篮咪述评
-国🔊26篮评评,http://rihou.cc:555/tv/26女篮咪评评
-国🔊26篮述述,http://rihou.cc:555/tv/26女篮咪述述
-国🔊26篮旁述,http://rihou.cc:555/tv/26女篮咪旁述
-国🔊26篮述旁,http://rihou.cc:555/tv/26女篮咪述旁
+中天新闻4gtv,http://rihou.cc:555/tv/[4g]中天新闻
+寰宇新闻4gtv,http://rihou.cc:555/tv/[4g]寰宇新闻
+东森新闻4gtv,http://rihou.cc:555/tv/[4g]东森新闻
+tvbs新闻4gtv,http://rihou.cc:555/tv/[4g]tvbs新闻
+三立新闻4gtv,http://rihou.cc:555/tv/[4g]三立新闻
+闽镜新闻4gtv,http://rihou.cc:555/tv/[4g]闽镜新闻
+中视新闻4gtv,http://rihou.cc:555/tv/[4g]中视新闻
+民视新闻4gtv,http://rihou.cc:555/tv/[4g]民视新闻
+华视新闻4gtv,http://rihou.cc:555/tv/[4g]华视新闻
+中视闽南4gtv,http://rihou.cc:555/tv/[4g]中视闽南
+民视闽南4gtv,http://rihou.cc:555/tv/[4g]民视闽南
+华视闽南4gtv,http://rihou.cc:555/tv/[4g]华视闽南
+寰宇闽南4gtv,http://rihou.cc:555/tv/[4g]寰宇闽南
+tvbs闽南4gtv,http://rihou.cc:555/tv/[4g]tvbs闽南
+tvbs精采4gtv,http://rihou.cc:555/tv/[4g]tvbs精采
+tvbs欢乐4gtv,http://rihou.cc:555/tv/[4g]tvbs欢乐
+公视戏剧4gtv,http://rihou.cc:555/tv/[4g]公视戏剧
+民视第一4gtv,http://rihou.cc:555/tv/[4g]民视第一
+民视闽语4gtv,http://rihou.cc:555/tv/[4g]民视闽语
+民视综艺4gtv,http://rihou.cc:555/tv/[4g]民视综艺
+东森财经4gtv,http://rihou.cc:555/tv/[4g]东森财经
+三立综合4gtv,http://rihou.cc:555/tv/[4g]三立综合
+靖洋戏剧4gtv,http://rihou.cc:555/tv/[4g]靖洋戏剧
+靖洋卡通4gtv,http://rihou.cc:555/tv/[4g]靖洋卡通
+靖天卡通4gtv,http://rihou.cc:555/tv/[4g]靖天卡通
+靖天综合4gtv,http://rihou.cc:555/tv/[4g]靖天综合
+靖天日本4gtv,http://rihou.cc:555/tv/[4g]靖天日本
+靖天育乐4gtv,http://rihou.cc:555/tv/[4g]靖天育乐
+靖天国际4gtv,http://rihou.cc:555/tv/[4g]靖天国际
+靖天欢乐4gtv,http://rihou.cc:555/tv/[4g]靖天欢乐
+靖天资讯4gtv,http://rihou.cc:555/tv/[4g]靖天资讯
+靖天戏剧4gtv,http://rihou.cc:555/tv/[4g]靖天戏剧
+靖天映画4gtv,http://rihou.cc:555/tv/[4g]靖天映画
+靖天电影4gtv,http://rihou.cc:555/tv/[4g]靖天电影
+amc电影4gtv,http://rihou.cc:555/tv/[4g]amc电影
+经典电影4gtv,http://rihou.cc:555/tv/[4g]经典电影
+大爱电视4gtv,http://rihou.cc:555/tv/[4g]大爱电视
+人间卫视4gtv,http://rihou.cc:555/tv/[4g]人间卫视
+猪哥亮秀4gtv,http://rihou.cc:555/tv/[4g]猪哥亮秀
+客家电视4gtv,http://rihou.cc:555/tv/[4g]客家电视
+原住民族4gtv,http://rihou.cc:555/tv/[4g]原住民族
+互动英语4gtv,http://rihou.cc:555/tv/[4g]互动英语
+金光布袋4gtv,http://rihou.cc:555/tv/[4g]金光布袋
+Nick儿童4gtv,http://rihou.cc:555/tv/[4g]Nick儿童
+MO_亲子4gtv,http://rihou.cc:555/tv/[4g]MO-亲子
+经典卡通4gtv,http://rihou.cc:555/tv/[4g]经典卡通
+精选动漫4gtv,http://rihou.cc:555/tv/[4g]精选动漫
 CCTV-01咪咕,http://175.17.83.114:1234/608807420
 CCTV-02咪咕,http://175.17.83.114:1234/631780532
 CCTV-03咪咕,http://175.17.83.114:1234/624878271
@@ -339,6 +379,7 @@ CGTN-法咪咕,http://175.17.83.114:1234/609006476
 陕西卫视咪咕,http://175.17.83.114:1234/738910838
 兵团卫视咪咕,http://175.17.83.114:1234/956923145
 黑龙江视咪咕,http://175.17.83.114:1234/738906901
+⬇️特闽新闻⬇️,http://rihou.cc:555/tv/v
 Now新闻欣赏,http://rihou.cc:555/tv/[Cx]Now新闻
 Now新闻欣赏,http://rihou.cc:555/tv/[Hk]Now新闻
 中天新闻欣赏,http://rihou.cc:555/tv/[SZ]中天新闻
@@ -4279,8 +4320,7 @@ Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 RDI CANADA,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 RDI CANADA,https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_3000.m3u8
 fox Business,http://41.205.93.154/FOXBUSINESS/index.m3u8
-fox Business,http://primep2.tv:826/live/SourPatchKid/nlnE4DVQUs/105893.ts
-fox Business,http://lunar.pm:8080/live/kita/Twin/9328.ts
+fox-Business,http://lunar.pm:8080/live/kita/Twin/9328.ts
 FOX NEWS CHANNEL,http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 Fox-news channel,http://91.218.50.136:80/negrobussula/032998177444/10838
 FOX NEWS NOW,http://138.121.15.230:9002/FOX-NEWS/index.m3u8
@@ -4341,13 +4381,12 @@ ABC,http://41.205.93.154/ABC/tracks-v1a1/mono.m3u8
 ANIMALPLANET,http://41.205.93.154/ANIMALPLANET/tracks-v1a1/mono.m3u8
 BRAVO,http://41.205.93.154/BRAVO/tracks-v1a1/mono.m3u8
 BRAVO,http://41.205.93.154/BRAVO/index.m3u8
-HBO,http://41.205.93.154/USA_HBO/tracks-v1a1/mono.m3u8
-HBO 2,http://41.205.93.154/USA_HBO2/tracks-v1a1/mono.m3u8
+HBO,http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
+HBO 2,http://23.237.104.106:8080/USA_HBO2/tracks-v1a1/mono.m3u8
 HBO ZONE,http://23.237.104.106:8080/USA_HBO_ZONE/tracks-v1a1/mono.m3u8
 LIFETIME,http://41.205.93.154/LIFETIME/tracks-v1a1/mono.m3u8
 Womens_Sports_Network,https://d39accvx65hq9o.cloudfront.net/Womens_Sports_Network480.m3u8
 world fishing,http://45.162.64.114/FISH_TV/index.m3u8
-world fishing,https://d3b3ldcvgsu291.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WFN/477.m3u8?ads.vf=RE1gCJub-L0
 SHOWTIME_FAMILY,http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/tracks-v1a1/mono.m3u8
 STARZ_CINEMA,http://23.237.104.106:8080/USA_STARZ_CINEMA/tracks-v1a1/mono.m3u8
 FX,http://23.237.104.106:8080/USA_FX/tracks-v1a1/mono.m3u8
@@ -4361,16 +4400,7 @@ Nickelodeon,http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 Dateline,https://dz59iptwz5rxs.cloudfront.net/live/master_6.m3u8
 yahoo F,https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 QVC UK,https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/1/1.m3u8
-Showtime2,http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/14169
-ShowtimeShowcase,http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/188733
 Starz,http://23.237.104.106:8080/USA_STARZ/index.m3u8
-StarzComedy,http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/14917
-StarzKids&Family,http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/14919
-StarzEncoreAction,http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/14923
-StarzEncoreBlack,http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/216179
-StarzEncoreFamily,http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/216178
-StarzEncoreSuspense,http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/14924
-StarzEncoreWesterns,http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/14922
 CinemaxHits,http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 CinemaxClassics,http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 FX,http://23.237.104.106:8080/USA_FX/index.m3u8
