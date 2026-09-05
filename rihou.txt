@@ -4558,6 +4558,21 @@ NTR的救贖-架乃由羅,https://t33.cdn2020.com/video/m3u8/2024/08/25/cf8dfb68
 //来源网络，免费分享，请勿追究，谢谢！//
 
 yuchen,#genre#
+凤凰中文,http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv
+凤凰资讯,http://www.negative.top:50000/udp/233.50.202.36:5140
+凤凰香港,http://43.152.224.209/qctv.fengshows.cn/live/0701phk72.flv
+TVB星河,https://cdn3.indevs.in/stream/live/tvbxh/
+TVBPlus,https://cdn3.indevs.in/stream/tvb/tvbp/
+明珠台,https://cdn3.indevs.in/stream/tvb/mzt/
+翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
+天映频道,https://cdn3.indevs.in/stream/live/typd/
+公視,http://211.72.174.95:8116/0.ts
+民視,http://211.72.174.95:8115/0.ts
+台視,http://211.72.174.95:8112/0.ts
+Astro AOD,https://cdn3.indevs.in/stream/live/aod/
+Astro AEC,https://cdn3.indevs.in/stream/live/aec/
+Astro 爱奇艺,https://cdn3.indevs.in/stream/live/iqiyi/
+Astro 欢喜台,https://cdn3.indevs.in/stream/live/hxt/
 CGTN英语,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 CGTN纪录,http://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 看东方4K,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
@@ -4591,7 +4606,6 @@ CGTN纪录,http://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 萧山综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 龙泉综合,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
 上虞综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
-云和综合,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 BBC News,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 GB News,https://rakutenaa-lightning-gbnews-rakuten-ccoa9.amagi.tv/playlist/rakutenAA-lightning-gbnews-rakuten/playlist.m3u8
@@ -4934,8 +4948,6 @@ ViuTV,https://cdn.qd.je/163189.php?id=viu
 TVB 1,https://cdn6.cc.cd/163189/tvb1
 TVBJ1,https://cdn6.cc.cd/163189/j1
 TVBJ1,https://cdn.qd.je/163189.php?id=j1
-TVB Plus,https://cdn3.indevs.in/stream/tvb/tvbp/
-TVB星河,https://cdn3.indevs.in/stream/live/tvbxh/
 TVB娱乐新闻台,https://cdn6.cc.cd/163189/ylxw
 华丽翡翠台,https://cdn6.cc.cd/163189/hlfct
 翡翠剧集台,https://cdn6.cc.cd/163189/tvbd
