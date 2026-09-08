@@ -1,8 +1,3 @@
-綜合,#genre#
-音樂綜藝,#genre#
-兒童與青少年,#genre#
-新聞財經,#genre#
-戲劇、電影與紀錄片,#genre#
 港台直播,#genre#
 中天新闻,http://xiangxiws.vip:6777/qlw.php?key=qq%E7%BE%A4746405779&id=ztxw
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
