@@ -4456,10 +4456,8 @@ OAN NEWS,https://a-cdn.klowdtv.com/live1/oan_720p/chunks.m3u8
 Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 RDI CANADA,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 RDI CANADA,https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_3000.m3u8
-fox Business,http://41.205.93.154/FOXBUSINESS/index.m3u8
 fox-Business,http://lunar.pm:8080/live/kita/Twin/9328.ts
 FOX NEWS CHANNEL,http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
-Fox-news channel,http://91.218.50.136:80/negrobussula/032998177444/10838
 FOX NEWS NOW,http://138.121.15.230:9002/FOX-NEWS/index.m3u8
 FOX 5,https://amg00488-foxdigital-wnyw-lgus-qxl2g.amagi.tv/ts-us-w2-n2/playlist/amg00488-foxdigital-wnyw-lgus/cb5735176570678684c83d61cef84982847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a9724cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fce05d428b6aa2b50148922611fa83439fd501b2d6d0098311d727f31799c1a38cd741d3e4205293768a8ba2c54007fba358d1af7eb7d49b6d38ee0942243074966e17632c46eb694c4eecf78b9e68fa01c78a24fb105f68c9002df659be63a51ba9e947aca1f9ad2ad6a137a62903088e9fc7a5f52132af6ff4e88cb71050cddc463d2fac1c12221f0ad775ee34fdf701d241bc3987c95757e19c408994b182a0848258932bdec8ce555c28414e0b188f51ae9b228e678d38e0f91a2f584253beda7bf0c6880e7e3214c6b757da454fe29b93d58b477beb700b56ed57dc592e65d87b392fb263aacc7c24a20e3ea81971bb543c8b47bc9f29f6acd4ac4618bdccc84ffa20bee15e9ca64cf9236c1931b2f42d4d4c032883b9285e660bb62f8ee4c3ef730617ffb79caeb234163379460242db98a41afda9cf261a1ac42956437c02189b0196249f37400e2ac609c0ee6e5080152a39e9b7353f093a76a94872537aac322f6cad3307d0c75e739231a873983d/36/1920x1080_5701132/index.m3u8
 Fox Weather,https://247wlive.foxweather.com/stream/index.m3u8
@@ -4679,7 +4677,11 @@ TVB無綫 新聞,http://r.jdshipin.com/CkuBd
 HOY TV,https://cdn6.cc.cd/163189/hoy
 有綫新聞,https://cdn.qd.je/163189.php?id=hoy78
 HOY资讯台,https://fast.hidns.vip/163189/hoy78
+HOY國際財經,http://173.208.234.146/live/hoy76.m3u8
+HOY TV,http://173.208.234.146/live/hoy77.m3u8
+HOY 資訊臺,http://173.208.234.146/live/hoy78.m3u8
 Now 新闻台,https://cdn.123.rr.kg/163189/now
+Now新聞臺,http://173.208.234.146/live/nowxw.m3u8
 明珠台,http://r.jdshipin.com/ZQ4kN
 TVB Plus,http://r.jdshipin.com/ndGgS
 TVB Plus,http://r.jdshipin.com/Nr5jq
@@ -4723,6 +4725,14 @@ TVB娱乐新闻台,https://cdn6.cc.cd/163189/ylxw
 TVB亚洲武侠,https://cdn6.cc.cd/163189/yzwx
 重温经典,https://cdn6.cc.cd/163189/cwjd
 澳门莲花,https://cdn6.cc.cd/163189/amlh
+大灣區衛視,http://173.208.234.146/live/nfws.m3u8
+大灣區衛視(備),http://173.208.234.146/live/nfwsitv.m3u8
+廣東珠江(備),http://173.208.234.146/live/gdzjitv.m3u8
+大灣區衛視(國際)-grtn,http://173.208.234.146/live/gdgj.m3u8
+Popc,http://173.208.234.146/live/popc.m3u8
+鳳凰中文臺,http://173.208.234.146/live/fhzw.m3u8
+鳳凰資訊臺,http://173.208.234.146/live/fhzx.m3u8
+鳳凰香港臺,http://173.208.234.146/live/fhxg.m3u8
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 耀才财经频道,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
@@ -4747,10 +4757,9 @@ TVB亚洲武侠,https://cdn6.cc.cd/163189/yzwx
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 MoMo综合,rtmp://f13h.mine.nu/sat/tv761
-中天新聞,http://jnzq.ohoyee.com:9080/live/xingjiaoge-ztxw2.m3u8
-中天新聞 h,http://nmk.ioapk.com:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
-TVBS新聞台,http://38.64.72.148/hls/modn/list/4027/playlist.m3u8
-TVBS新聞台,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+中天新闻,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
+TVBS新聞臺,http://173.208.234.146/live/tvbsnews.m3u8
+TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
 台视新闻,http://74.91.26.218:82/live/ttvnews.m3u8
 华视新闻,http://74.91.26.218:82/live/ctsnews.m3u8
@@ -4758,6 +4767,7 @@ TVBS新聞台,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 东森新闻,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
