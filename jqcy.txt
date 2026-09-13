@@ -179,7 +179,6 @@ CHC影迷电影,http://nas.jqcykj.com:30/952383261
 北京新闻,http://nas.jqcykj.com:88/bj?id=btvxw
 北京卡酷少儿,http://nas.jqcykj.com:88/bj?id=kaku
 昌平综合,http://nas.jqcykj.com:88/gdy?id=changping
-//天津
 天津新闻,http://107.150.60.122/live/tjtv1.m3u8
 天津文艺,http://107.150.60.122/live/tjtv2.m3u8
 天津影视,http://107.150.60.122/live/tjtv3.m3u8
