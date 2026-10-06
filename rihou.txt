@@ -4605,16 +4605,20 @@ CP24,http://primep2.tv:826/live/SourPatchKid/nlnE4DVQUs/36921.ts
 CTV News,https://jmp2.uk/stvp-CA1400004AE
 Bloomberg 2K,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 Bloomberg 4k,https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
-ICI MONTRÉAL,https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 CBC NEWS,https://jmp2.uk/stvp-CABC2300009KD
 CBC NEWS,https://cbcrclinear-tor.akamaized.net/hls/live/2042765/CBCRCLINEAR_TOR_11/master5.m3u8
 CBC TORONTO,https://aegis-cloudfront-1.tubi.video/c71ce9b6-cddb-4cec-b0db-2f09289f8782/master.m3u8
 CBC TORONTO,https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
 CBC Comedy,https://amagi-streams.akamaized.net/hls/live/2110963/cbccomedy/master1080p.m3u8
 NTV CANADA,https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8
+ICI MONTRÉAL,https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 TVA,http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
+RDI CANADA,https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_3000.m3u8
 CNA亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 CNA亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CANAL 24 (Spain),http://canal2000.berkano-systems.net/streaming/streams/canal2000-720p.m3u8
+Telecinco (Spain),https://ingest1-video.streaming-pro.com/canaltaronja/anoia/chunks.m3u8?nimblesessionid=30091428
+RT NEWS(Spain),https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 FRANCE 24(FR),https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_500.m3u8
 FRANCE NEWS(EN),https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8
 FRANCE NEWS(EN),https://jmp2.uk/stvp-DEBD1100002II
@@ -4624,7 +4628,6 @@ AJA news,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 AJE news English,https://live-hls-apps-aje-fa.getaj.net/AJE/03.m3u8
 OAN NEWS,https://a-cdn.klowdtv.com/live1/oan_720p/chunks.m3u8
 Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-RDI CANADA,https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_3000.m3u8
 fox-Business,https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary_400.m3u8
 fox-Business,http://primep2.tv:826/live/SourPatchKid/nlnE4DVQUs/105893.ts
 FOX NEW,http://d029dcec.kazmazpaz.ru/iptv/FHKC2D3GGKYK3Q/19147/index.m3u8
@@ -5126,7 +5129,6 @@ EITB 1,https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 EITB 2,https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 EITB INT,https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 PRESS HISPAN TV,https://live.presstv.ir/hls/hispantv.m3u8
-RT ESPAÑOL,https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 RT ESPAÑOL,https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 TVE INTERNACIONAL (america),https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8
 TVE INTERNACIONAL (america),https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
