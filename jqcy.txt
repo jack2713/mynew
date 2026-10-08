@@ -1,180 +1,1565 @@
 jqcy,#genre#
-CCTV-1综合,http://198.204.228.26/live/cctv1hd.m3u8
-CCTV-2财经,http://198.204.228.26/live/cctv2hd.m3u8
-CCTV-3综艺,http://198.204.228.26/live/cctv3hd.m3u8
-CCTV-4中文国际,http://198.204.228.26/live/cctv4hd.m3u8
-CCTV-4欧洲,http://198.204.228.26/live/cctv4o.m3u8
-CCTV-4美洲,http://198.204.228.26/live/cctv4m.m3u8
-CCTV-5体育,http://198.204.228.26/live/cctv5hd.m3u8
-CCTV-5+体育赛事,http://198.204.228.26/live/cctv5p.m3u8
-CCTV-6新闻,http://198.204.228.26/live/cctv6hd.m3u8
-CCTV-7国防军事,http://198.204.228.26/live/cctv7hd.m3u8
-CCTV-8电视剧,http://198.204.228.26/live/cctv8hd.m3u8
-CCTV-9纪录,http://198.204.228.26/live/cctv9hd.m3u8
-CCTV-10科教,http://198.204.228.26/live/cctv10hd.m3u8
-CCTV-11戏曲,http://198.204.228.26/live/cctv11hd.m3u8
-CCTV-12社会与法,http://198.204.228.26/live/cctv12hd.m3u8
-CCTV-13新闻,http://198.204.228.26/live/cctv13hd.m3u8
-CCTV-14少儿,http://198.204.228.26/live/cctv14hd.m3u8
-CCTV-15音乐,http://198.204.228.26/live/cctv15hd.m3u8
-CCTV-16奥林匹克,http://198.204.228.26/live/cctv16hd.m3u8
-CCTV-17农业农村,http://198.204.228.26/live/cctv17hd.m3u8
-CETV1综合教育,http://198.204.228.26/live/cetv1hd.m3u8
-CETV2空中课堂,http://198.204.228.26/live/cetv2.m3u8
-CETV3,http://198.204.228.26/live/cetv3.m3u8
-CETV4职业教育,http://198.204.228.26/live/cetv4.m3u8
-发现之旅,http://198.204.228.26/live/fxzl.m3u8
-老故事,http://198.204.228.26/live/lgs.m3u8
-中学生,http://198.204.228.26/live/lgs.m3u8
-第一剧场,http://198.204.228.26/live/dyjc.m3u8
-怀旧剧场,http://198.204.228.26/live/hjjc.m3u8
-风云剧场,http://198.204.228.26/live/fyjc.m3u8
-高尔夫网球,http://198.204.228.26/live/gefwq.m3u8
-兵器科技,http://198.204.228.26/live/gfjs.m3u8
-卫生健康,http://198.204.228.26/live/wsjk.m3u8
-风云音乐,http://198.204.228.26/live/fyyy.m3u8
-央视台球,http://198.204.228.26/live/ystq.m3u8
-世界地理,http://198.204.228.26/live/sjdl.m3u8
-风云足球,http://198.204.228.26/live/fyzq.m3u8
-女性时尚,http://198.204.228.26/live/nxss.m3u8
-央视文化精品,http://198.204.228.26/live/ysjp.m3u8
-电视指南,http://198.204.228.26/live/dszn.m3u8
-北京卫视,http://198.204.228.26/live/bjwshd.m3u8
-湖南卫视,http://198.204.228.26/live/hnwshd.m3u8
-东方卫视,http://198.204.228.26/live/dfwshd.m3u8
-浙江卫视,http://198.204.228.26/live/zjwshd.m3u8
-江苏卫视,http://198.204.228.26/live/jswshd.m3u8
-天津卫视,http://198.204.228.26/live/tjwshd.m3u8
-安徽卫视,http://198.204.228.26/live/ahwshd.m3u8
-江西卫视,http://198.204.228.26/live/jxwshd.m3u8
-深圳卫视,http://198.204.228.26/live/szwshd.m3u8
-广东卫视,http://198.204.228.26/live/gdwshd.m3u8
-广西卫视,http://198.204.228.26/live/gxwshd.m3u8
-河南卫视,http://198.204.228.26/live/hawshd.m3u8
-河北卫视,http://198.204.228.26/live/hbwshd.m3u8
-吉林卫视,http://198.204.228.26/live/jlwshd.m3u8
-辽宁卫视,http://198.204.228.26/live/lnwshd.m3u8
-黑龙江卫视,http://198.204.228.26/live/hljwshd.m3u8
-四川卫视,http://198.204.228.26/live/scwshd.m3u8
-重庆卫视,http://198.204.228.26/live/cqwshd.m3u8
-东南卫视,http://198.204.228.26/live/dnwshd.m3u8
-云南卫视,http://198.204.228.26/live/ynwshd.m3u8
-贵州卫视,http://198.204.228.26/live/gzwshd.m3u8
-陕西卫视,http://198.204.228.26/live/snwshd.m3u8
-天津卫视,http://198.204.228.26/live/tjwshd.m3u8
-山东卫视,http://198.204.228.26/live/sdwshd.m3u8
-山西卫视,http://198.204.228.26/live/sxwshd.m3u8
-陕西卫视,http://198.204.228.26/live/snwshd.m3u8
-湖北卫视,http://198.204.228.26/live/hbwshd.m3u8
-广西卫视,http://198.204.228.26/live/gxwshd.m3u8
-重庆卫视,http://198.204.228.26/live/cqwshd.m3u8
-内蒙古卫视,http://198.204.228.26/live/nmgws.m3u8
-青海卫视,http://198.204.228.26/live/qhws.m3u8
-宁夏卫视,http://198.204.228.26/live/nxws.m3u8
-新疆卫视,http://198.204.228.26/live/xjws.m3u8
-西藏卫视,http://198.204.228.26/live/xzws.m3u8
-三沙卫视,http://198.204.228.26/live/ssws.m3u8
-兵团卫视,http://198.204.228.26/live/btws.m3u8
-大湾区卫视,http://198.204.228.26/live/nfws.m3u8
-厦门卫视,http://198.204.228.26/live/xmws.m3u8
-CHC动作电影,http://198.204.228.26/live/chcdz.m3u8
-CHC家庭影院,http://198.204.228.26/live/chcjt.m3u8
-CHC影迷电影,http://198.204.228.26/live/chchd.m3u8
-重温经典,http://198.204.228.26/live/cwjd.m3u8
-周润发电影,http://198.204.228.26/live/lbzrf.m3u8
-周星驰电影,http://198.204.228.26/live/lbzxc.m3u8
-成龙电影,http://198.204.228.26/live/lbcl.m3u8
-林正英影院,http://198.204.228.26/live/lblzy.m3u8
-广西影视,http://198.204.228.26/live/gxys.m3u8
-广东体育,http://198.204.228.26/live/gdty.m3u8
-五星体育,http://198.204.228.26/live/wxtyhd.m3u8
-
-CCTV-1综合,http://192.151.150.154/live/cctv1hd.m3u8
-CCTV-2财经,http://192.151.150.154/live/cctv2hd.m3u8
-CCTV-3综艺,http://192.151.150.154/live/cctv3hd.m3u8
-CCTV-4中文国际,http://192.151.150.154/live/cctv4hd.m3u8
-CCTV-4欧洲,http://192.151.150.154/live/cctv4o.m3u8
-CCTV-4美洲,http://192.151.150.154/live/cctv4m.m3u8
-CCTV-5体育,http://192.151.150.154/live/cctv5hd.m3u8
-CCTV-5+体育赛事,http://192.151.150.154/live/cctv5p.m3u8
-CCTV-6新闻,http://192.151.150.154/live/cctv6hd.m3u8
-CCTV-7国防军事,http://192.151.150.154/live/cctv7hd.m3u8
-CCTV-8电视剧,http://192.151.150.154/live/cctv8hd.m3u8
-CCTV-9纪录,http://192.151.150.154/live/cctv9hd.m3u8
-CCTV-10科教,http://192.151.150.154/live/cctv10hd.m3u8
-CCTV-11戏曲,http://192.151.150.154/live/cctv11hd.m3u8
-CCTV-12社会与法,http://192.151.150.154/live/cctv12hd.m3u8
-CCTV-13新闻,http://192.151.150.154/live/cctv13hd.m3u8
-CCTV-14少儿,http://192.151.150.154/live/cctv14hd.m3u8
-CCTV-15音乐,http://192.151.150.154/live/cctv15hd.m3u8
-CCTV-16奥林匹克,http://192.151.150.154/live/cctv16hd.m3u8
-CCTV-17农业农村,http://192.151.150.154/live/cctv17hd.m3u8
-CETV1综合教育,http://192.151.150.154/live/cetv1hd.m3u8
-CETV2空中课堂,http://192.151.150.154/live/cetv2.m3u8
-CETV3,http://192.151.150.154/live/cetv3.m3u8
-CETV4职业教育,http://192.151.150.154/live/cetv4.m3u8
-发现之旅,http://192.151.150.154/live/fxzl.m3u8
-老故事,http://192.151.150.154/live/lgs.m3u8
-中学生,http://192.151.150.154/live/lgs.m3u8
-第一剧场,http://192.151.150.154/live/dyjc.m3u8
-怀旧剧场,http://192.151.150.154/live/hjjc.m3u8
-风云剧场,http://192.151.150.154/live/fyjc.m3u8
-高尔夫网球,http://192.151.150.154/live/gefwq.m3u8
-兵器科技,http://192.151.150.154/live/gfjs.m3u8
-卫生健康,http://192.151.150.154/live/wsjk.m3u8
-风云音乐,http://192.151.150.154/live/fyyy.m3u8
-央视台球,http://192.151.150.154/live/ystq.m3u8
-世界地理,http://192.151.150.154/live/sjdl.m3u8
-风云足球,http://192.151.150.154/live/fyzq.m3u8
-女性时尚,http://192.151.150.154/live/nxss.m3u8
-央视文化精品,http://192.151.150.154/live/ysjp.m3u8
-电视指南,http://192.151.150.154/live/dszn.m3u8
-北京卫视,http://192.151.150.154/live/bjwshd.m3u8
-湖南卫视,http://192.151.150.154/live/hnwshd.m3u8
-东方卫视,http://192.151.150.154/live/dfwshd.m3u8
-浙江卫视,http://192.151.150.154/live/zjwshd.m3u8
-江苏卫视,http://192.151.150.154/live/jswshd.m3u8
-天津卫视,http://192.151.150.154/live/tjwshd.m3u8
-安徽卫视,http://192.151.150.154/live/ahwshd.m3u8
-江西卫视,http://192.151.150.154/live/jxwshd.m3u8
-深圳卫视,http://192.151.150.154/live/szwshd.m3u8
-广东卫视,http://192.151.150.154/live/gdwshd.m3u8
-广西卫视,http://192.151.150.154/live/gxwshd.m3u8
-河南卫视,http://192.151.150.154/live/hawshd.m3u8
-河北卫视,http://192.151.150.154/live/hbwshd.m3u8
-吉林卫视,http://192.151.150.154/live/jlwshd.m3u8
-辽宁卫视,http://192.151.150.154/live/lnwshd.m3u8
-黑龙江卫视,http://192.151.150.154/live/hljwshd.m3u8
-四川卫视,http://192.151.150.154/live/scwshd.m3u8
-重庆卫视,http://192.151.150.154/live/cqwshd.m3u8
-东南卫视,http://192.151.150.154/live/dnwshd.m3u8
-云南卫视,http://192.151.150.154/live/ynwshd.m3u8
-贵州卫视,http://192.151.150.154/live/gzwshd.m3u8
-陕西卫视,http://192.151.150.154/live/snwshd.m3u8
-天津卫视,http://192.151.150.154/live/tjwshd.m3u8
-山东卫视,http://192.151.150.154/live/sdwshd.m3u8
-山西卫视,http://192.151.150.154/live/sxwshd.m3u8
-陕西卫视,http://192.151.150.154/live/snwshd.m3u8
-湖北卫视,http://192.151.150.154/live/hbwshd.m3u8
-广西卫视,http://192.151.150.154/live/gxwshd.m3u8
-重庆卫视,http://192.151.150.154/live/cqwshd.m3u8
-内蒙古卫视,http://192.151.150.154/live/nmgws.m3u8
-青海卫视,http://192.151.150.154/live/qhws.m3u8
-宁夏卫视,http://192.151.150.154/live/nxws.m3u8
-新疆卫视,http://192.151.150.154/live/xjws.m3u8
-西藏卫视,http://192.151.150.154/live/xzws.m3u8
-三沙卫视,http://192.151.150.154/live/ssws.m3u8
-兵团卫视,http://192.151.150.154/live/btws.m3u8
-大湾区卫视,http://192.151.150.154/live/nfws.m3u8
-厦门卫视,http://192.151.150.154/live/xmws.m3u8
-CHC动作电影,http://192.151.150.154/live/chcdz.m3u8
-CHC家庭影院,http://192.151.150.154/live/chcjt.m3u8
-CHC影迷电影,http://192.151.150.154/live/chchd.m3u8
-重温经典,http://192.151.150.154/live/cwjd.m3u8
-周润发电影,http://192.151.150.154/live/lbzrf.m3u8
-周星驰电影,http://192.151.150.154/live/lbzxc.m3u8
-成龙电影,http://192.151.150.154/live/lbcl.m3u8
-林正英影院,http://192.151.150.154/live/lblzy.m3u8
-广西影视,http://192.151.150.154/live/gxys.m3u8
-广东体育,http://192.151.150.154/live/gdty.m3u8
-五星体育,http://192.151.150.154/live/wxtyhd.m3u8
+CCTV1综合,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-cctv1.m3u8
+CCTV2财经,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-cctv2.m3u8
+CCTV3综艺,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-cctv3.m3u8
+CCTV4中文国际,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-cctv4.m3u8
+CCTV5体育,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-cctv5.m3u8
+CCTV6电影,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-cctv6.m3u8
+CCTV7国防军事,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-cctv7.m3u8
+CCTV8电视剧,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-cctv8.m3u8
+CCTV9纪录,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-cctv9.m3u8
+CCTV10科教,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-cctv10.m3u8
+CCTV11戏曲,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-cctv11.m3u8
+CCTV12社会与法,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-cctv12.m3u8
+CCTV13新闻,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-cctv13.m3u8
+CCTV14少儿,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-cctv14.m3u8
+CCTV15音乐,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-cctv15.m3u8
+CCTV16奥林匹克,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-cctv16.m3u8
+CCTV17农业农村,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-cctv17.m3u8
+CCTV5+体育赛事,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-cctv5p.m3u8
+CCTV16奥林匹克,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-cctv164k.m3u8
+CCTV4K超高清,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-cctv4k.m3u8
+CCTV8K超高清,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-cctv8k.m3u8
+CCTV1综合,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/608807420
+CCTV2财经,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/631780532
+CCTV3综艺,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/624878271
+CCTV4中文国际,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/631780421
+CCTV5体育,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/641886683
+CCTV5+体育赛事,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/641886773
+CCTV6电影,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/624878396
+CCTV7国防军事,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/673168121
+CCTV8电视剧,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/624878356
+CCTV9纪录,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/673168140
+CCTV10科教,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/624878405
+CCTV11戏曲,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/667987558
+CCTV12社会与法,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/673168185
+CCTV13新闻,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/608807423
+CCTV14少儿,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/624878440
+CCTV15音乐,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/673168223
+CCTV17农业农村,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/673168256
+CCTV4欧洲,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/608807419
+CCTV4美洲,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/608807416
+CCTV1综合,https://ysp.jqcykj.cn/cctv1/playlist.m3u8
+CCTV2财经,https://ysp.jqcykj.cn/cctv2/playlist.m3u8
+CCTV3综艺,https://ysp.jqcykj.cn/cctv3/playlist.m3u8
+CCTV4中文国际,https://ysp.jqcykj.cn/cctv4/playlist.m3u8
+CCTV5体育,https://ysp.jqcykj.cn/cctv5/playlist.m3u8
+CCTV5+体育赛事,https://ysp.jqcykj.cn/cctv5p/playlist.m3u8
+CCTV6电影,https://ysp.jqcykj.cn/cctv6/playlist.m3u8
+CCTV7国防军事,https://ysp.jqcykj.cn/cctv7/playlist.m3u8
+CCTV8电视剧,https://ysp.jqcykj.cn/cctv8/playlist.m3u8
+CCTV9纪录,https://ysp.jqcykj.cn/cctv9/playlist.m3u8
+CCTV10科教,https://ysp.jqcykj.cn/cctv10/playlist.m3u8
+CCTV11戏曲,https://ysp.jqcykj.cn/cctv11/playlist.m3u8
+CCTV12社会与法,https://ysp.jqcykj.cn/cctv12/playlist.m3u8
+CCTV13新闻,https://ysp.jqcykj.cn/cctv13/playlist.m3u8
+CCTV14少儿,https://ysp.jqcykj.cn/cctv14/playlist.m3u8
+CCTV15音乐,https://ysp.jqcykj.cn/cctv15/playlist.m3u8
+CCTV16奥林匹克,https://ysp.jqcykj.cn/cctv16/playlist.m3u8
+CCTV17农业农村,https://ysp.jqcykj.cn/cctv17/playlist.m3u8
+北京卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-bjws.m3u8
+江苏卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-jsws.m3u8
+东方卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-dfws.m3u8
+浙江卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-zjws.m3u8
+湖南卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-hnws.m3u8
+湖北卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-hbws.m3u8
+广东卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-gdws.m3u8
+广西卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-gxws.m3u8
+黑龙江卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-hljws.m3u8
+海南卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-hnws2.m3u8
+重庆卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-cqws.m3u8
+深圳卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-szws.m3u8
+四川卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-scws.m3u8
+河南卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-henanws.m3u8
+东南卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-fjdnhz.m3u8
+贵州卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-gzhws.m3u8
+江西卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-jxws.m3u8
+辽宁卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-lnws.m3u8
+安徽卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-ahws.m3u8
+河北卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-hbws2.m3u8
+山东卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-sdws.m3u8
+天津卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-tjws.m3u8
+吉林卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-jlws.m3u8
+陕西卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-shanxiws.m3u8
+宁夏卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-nxws.m3u8
+内蒙古卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-nmgws.m3u8
+云南卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-ynws.m3u8
+山西卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-shanxiws2.m3u8
+青海卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-qhws.m3u8
+西藏卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-xzws.m3u8
+新疆卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-xjws.m3u8
+东方卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/651632648
+江苏卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/623899368
+广东卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/608831231
+北京卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/630287636
+辽宁卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/630291707
+河北卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/962042070
+江西卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/783847495
+河南卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/790187291
+陕西卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/738910838
+大湾区卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/608917627
+湖北卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/947472496
+吉林卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/947472500
+青海卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/947472506
+东南卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/849116810
+海南卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/947472502
+海峡卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/849119120
+中国农林卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/956904896
+兵团卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/956923145
+宁夏卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/738910535
+重庆卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/738910914
+三沙卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/961023778
+黑龙江卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/738906901
+湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+浙江卫视,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
+CCTV风云剧场,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-cctvfyjc.m3u8
+CCTV第一剧场,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-cctvdyjc.m3u8
+CCTV怀旧剧场,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-cctvhjjc.m3u8
+CGTN,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-cgtn.m3u8
+CGTN法语,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-cgtnfy.m3u8
+CGTN俄语,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-cgtney.m3u8
+CGTN阿拉伯语,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-cgtnalby.m3u8
+CGTN西班牙语,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-cgtnxby.m3u8
+CGTN外语纪录,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-cgtnwyjl.m3u8
+CGTN外语纪录,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/609006487
+CGTN阿拉伯语,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/609154345
+CGTN西班牙语,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/609006450
+CGTN法语,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/609006476
+CGTN俄语,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/609006446
+老故事,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/884121956
+发现之旅,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/624878970
+中学生,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/708869532
+CGTN,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/609017205
+CHC家庭影院,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/644368373
+CHC影迷电影,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/952383261
+建党105周年巡礼,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/713600957
+经典香港电影,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/625703337
+新片放映厅,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/619495952
+和美乡途轮播台,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/713591450
+南方影视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/614961829
+嘉佳卡通,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/gdtv-66.m3u8
+优漫卡通,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/jstv-667.m3u8
+经典动画大集合,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/629942219
+海南少儿,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/hnntv-7
+卡酷少儿,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/beijing-tv-se.m3u8
+甘肃少儿,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/gansu-4.m3u8
+广东少儿,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/gdtv-54.m3u8
+深圳少儿,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/sztv-7881.m3u8
+福建少儿,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/fjtv-province-665248553475870720.m3u8
+福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
+江西少儿,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/jxntv-kids.m3u8
+河北少儿科教,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/hebtv-10516511.m3u8
+少儿科教,https://ysp.jqcykj.cn/hb_shaoerkejiao/playlist.m3u8
+黑龙江少儿,https://idclive.hljtv.com:4430/live/hljse_hd.m3u8
+浙江少儿,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/cztv-108.m3u8
+少儿频道,https://ysp.jqcykj.cn/zj_shaoerpindao/playlist.m3u8
+山东少儿,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/iqilu-sepd
+内蒙古少儿,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/nmtv-kids.m3u8
+新疆少儿,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/xjtv-8.m3u8
+哈哈炫动,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/kankanews-9.m3u8
+金鹰卡通,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/mgtv-287.m3u8
+CETV1,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/923287154
+CETV2,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/923287211
+CETV4,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/923287339
+江苏教育,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/jstv-666.m3u8
+山东教育,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/609154353
+安徽农业科教,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/anhui-nykjtv.m3u8
+BRTV纪实科教,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/beijing-tv-kj.m3u8
+甘肃科教,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/gansu-5.m3u8
+贵州科教健康,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/gzstv-science-health.m3u8
+湖北教育,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/hbtv-437.m3u8
+黑龙江农业科教,https://idclive.hljtv.com:4430/live/hljgg_hd.m3u8
+浙江教科影视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/cztv-104.m3u8
+教科影视,https://ysp.jqcykj.cn/zj_jiaokeyingshi/playlist.m3u8
+南京教育科技,https://nklive.nbs.cn/hls/75b3c462-b831-4de7-a34b-5d3221db2069/index.m3u8
+天津教育,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/tianjin-education.m3u8
+CEC汉语文化,http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
+CEC国际旅游,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
+CEC国际教育,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
+CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
+CETV1,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-cetv1.m3u8
+国学频道,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ysp-gxpd.m3u8
+CCTV5体育,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/641886683
+CCTV5+体育赛事,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/641886773
+赛事最经典,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/646596895
+体坛名栏汇,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/629943305
+四海钓鱼,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/637444975
+陕西体育休闲频道,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/shaanxi-sports-leisure.m3u8
+24小时城市联赛轮播台,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/915512915
+武术世界,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/hntv-156
+快乐垂钓,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/961930263
+World Poker Tour,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/asian-live-world-poker-tour
+纬来体育,https://hlsz.yjjcfw.com/live/vl.m3u8?expire=1786948372&sign=2e4a56b89fe644db147552011f972714
+江苏体育休闲,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/jstv-665.m3u8
+安徽综艺体育,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/anhui-zytytv.m3u8
+BRTV体育休闲,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/beijing-tv-ty.m3u8
+广东体育,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/gdtv-47.m3u8
+福建文旅体育,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/fjtv-province-665248752898248704.m3u8
+河北文旅体育,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/hebtv-10516510.m3u8
+文旅体育,https://ysp.jqcykj.cn/hb_wenlvtiyu/playlist.m3u8
+杭州青少体育,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/hangzhou-youth.m3u8
+山东体育休闲,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/iqilu-typd
+体育频道,https://ysp.jqcykj.cn/sd_typd/playlist.m3u8
+天津体育,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/tianjin-sports.m3u8
+新疆体育健康,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/xjtv-7.m3u8
+五星体育,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/kankanews-10.m3u8
+Red Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+NHL FAST,https://nhl-firetv.amagi.tv/playlist1080p.m3u8
+UFC 24/7,https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/194a140c-0cf5-443e-b747-08bf621d75a8/0.m3u8
+YTN News,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/asian-live-ytn.m3u8
+NHK World,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/asian-live-nhk-world.m3u8
+CNA,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/asian-live-cna
+France 24 English,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/asian-live-france24-en
+France 24 Français,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/asian-live-france24-fr
+Reuters,https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/e7493ea5-5c1c-4d7a-a3f7-e95516048ad8/3.m3u8
+福建综合,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/fjtv-province-665248990102917120.m3u8
+东南卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/fjtv-province-665248966136664064.m3u8
+福建新闻,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/fjtv-province-665248914378952704.m3u8
+福建文旅体育,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/fjtv-province-665248752898248704.m3u8
+福建文旅体育,http://nas.jqcykj.com:88/bst/2?id=159
+福建文旅体育,http://nas.jqcykj.com:88/bst?id=159
+福建少儿,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/fjtv-province-665248553475870720.m3u8
+海峡卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/fjtv-province-665248523855695872.m3u8
+福建综合,http://nas.jqcykj.com:88/bst?id=154
+福建综合,http://nas.jqcykj.com:88/bst/2?id=154
+东南卫视,http://nas.jqcykj.com:88/bst?id=155
+东南卫视,http://nas.jqcykj.com:88/bst/2?id=155
+福建新闻,http://nas.jqcykj.com:88/bst?id=157
+福建新闻,http://nas.jqcykj.com:88/bst/2?id=157
+福建少儿,http://nas.jqcykj.com:88/bst?id=162
+福建少儿,http://nas.jqcykj.com:88/bst/2?id=162
+海峡卫视,http://nas.jqcykj.com:88/bst?id=163
+海峡卫视,http://nas.jqcykj.com:88/bst/2?id=163
+厦门卫视,http://nas.jqcykj.com:88/bst/?id=164
+厦门卫视,http://nas.jqcykj.com:88/bst//2?id=164
+泉州新闻综合,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/quanzhou-news-tv.m3u8
+泉州闽南语,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/quanzhou-minnan-tv.m3u8
+泉州泉港一套,http://nas.jqcykj.com:88/gdy?id=quanzhouqg
+永春综合,http://nas.jqcykj.com:88/gdy?id=quanzhoayn
+永春公共,http://nas.jqcykj.com:88/gdy?id=quanzhoayngg
+德化电视台,https://play.cmptp.fjgdwl.com/live/63a563ec75764af588f3215b0afa2588.m3u8
+三明永安综合,http://nas.jqcykj.com:88/gdy?id=sanmingya
+三明沙县综合,http://nas.jqcykj.com:88/gdy?id=sanmingxs
+三明尤溪综合,http://nas.jqcykj.com:88/gdy?id=sanmingyx
+三明新闻综合,http://fjnhdb.chinashadt.com:2036/live/stream:nh2.stream/playlist.m3u8?zfud
+宁化电视一套,http://fjnhdb.chinashadt.com:2036/live/stream:nh1.stream/playlist.m3u8?fujian
+平潭新闻综合,http://nas.jqcykj.com:88/gdy?id=pingtanxwzh
+平潭旅游文化,http://nas.jqcykj.com:88/gdy?id=pingtanly
+福清综合,http://nas.jqcykj.com:88/gdy?id=fuzhoufq
+闽侯综合,http://nas.jqcykj.com:88/gdy?id=fuzhoumh
+厦视一套,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/fjtv-xiamen-16.m3u8
+厦视二套,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/fjtv-xiamen-17.m3u8
+厦视三套,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/fjtv-xiamen-18.m3u8
+福州综合,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
+福州生活,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
+晋江电视台,https://live.ijjnews.com/jjtv/sd/live.m3u8
+石狮新闻综合,https://live-new.chinashishi.net/SSTV/sd/live.m3u8
+莆田新闻综合,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/putian-news.m3u8
+莆田文旅生活,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/putian-culture.m3u8
+仙游电视台,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/putian-xianyou.m3u8
+宁德新闻综合,https://live.0593tv.cn/live/aedcnbnyl2jd.m3u8
+宁德文化旅游,https://live.0593tv.cn/live/d1znvar7tabf.m3u8
+北京卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/beijing-tv-sn.m3u8
+BRTV文艺,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/beijing-tv-wy.m3u8
+BRTV纪实科教,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/beijing-tv-kj.m3u8
+BRTV影视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/beijing-tv-ys.m3u8
+BRTV财经,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/beijing-tv-cj.m3u8
+BRTV体育休闲,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/beijing-tv-ty.m3u8
+BRTV i生活,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/beijing-tv-sh.m3u8
+BRTV新闻,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/beijing-tv-xw.m3u8
+卡酷少儿,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/beijing-tv-se.m3u8
+东方卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/kankanews-1.m3u8
+上海新闻综合,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/kankanews-2.m3u8
+魔都眼,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/kankanews-11.m3u8
+第一财经,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/kankanews-5.m3u8
+新纪实,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/kankanews-12.m3u8
+五星体育,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/kankanews-10.m3u8
+上海都市,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/kankanews-4.m3u8
+哈哈炫动,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/kankanews-9.m3u8
+上海新闻综合,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/651632657
+上视东方影视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/617290047
+第一财经,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/608780988
+东方卫视,https://ysp.jqcykj.cn/sh_dongfang/playlist.m3u8
+新闻综合,https://ysp.jqcykj.cn/sh_xinwen/playlist.m3u8
+第一财经,https://ysp.jqcykj.cn/sh_diyicaijing/playlist.m3u8
+哈哈炫动,https://ysp.jqcykj.cn/sh_hahaxuandong/playlist.m3u8
+五星体育,https://ysp.jqcykj.cn/sh_wuxingtiyu/playlist.m3u8
+新纪实,https://ysp.jqcykj.cn/sh_xinjishi/playlist.m3u8
+广东卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/gdtv-43.m3u8
+广东珠江,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/gdtv-44.m3u8
+广东新闻,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/gdtv-45.m3u8
+广东民生,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/gdtv-48.m3u8
+广东体育,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/gdtv-47.m3u8
+大湾区卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/gdtv-51.m3u8
+大湾区卫视（海外版）,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/gdtv-46.m3u8
+广东影视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/gdtv-53.m3u8
+广东4K超高清,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/gdtv-16.m3u8
+广东少儿,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/gdtv-54.m3u8
+嘉佳卡通,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/gdtv-66.m3u8
+岭南戏曲,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/gdtv-15.m3u8
+广东4K超高清,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/gdtv-74.m3u8
+广东台经典剧,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/gdtv-100.m3u8
+广东纪录片,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/gdtv-94.m3u8
+广东健康,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/gdtv-99.m3u8
+GRTN生活,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/gdtv-102.m3u8
+广州综合,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/gztv-3001
+广州新闻,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/gztv-3002
+广州南国都市4K,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/gztv-3003
+深圳卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/sztv-24725.m3u8
+深圳卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/sztv-7867.m3u8
+深圳都市,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/sztv-7868.m3u8
+深圳电视剧,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/sztv-7880.m3u8
+深圳少儿,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/sztv-7881.m3u8
+深圳移动电视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/sztv-7869.m3u8
+深圳国际,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/sztv-7944.m3u8
+梅州客家生活,https://livepull.hellohakka.cn/live/ch_kejiashenghuo.m3u8
+广东卫视,https://ysp.jqcykj.cn/gd_guangdongweishi/playlist.m3u8
+广东珠江,https://ysp.jqcykj.cn/gd_guangdongzhujiang/playlist.m3u8
+广东新闻,https://ysp.jqcykj.cn/gd_guangdongxinwen/playlist.m3u8
+广东民生,https://ysp.jqcykj.cn/gd_guangdongminsheng/playlist.m3u8
+广东体育,https://ysp.jqcykj.cn/gd_guangdongtiyu/playlist.m3u8
+大湾区卫视,https://ysp.jqcykj.cn/gd_dawanquweishi/playlist.m3u8
+大湾区卫视（海外版）,https://ysp.jqcykj.cn/gd_dawanquweishi_haiwai/playlist.m3u8
+广东影视,https://ysp.jqcykj.cn/gd_guangdongyingshi/playlist.m3u8
+4K超高清,https://ysp.jqcykj.cn/gd_4kchaogaoqing/playlist.m3u8
+广东少儿,https://ysp.jqcykj.cn/gd_guangdongshaoer/playlist.m3u8
+嘉佳卡通,https://ysp.jqcykj.cn/gd_jiajiakatong/playlist.m3u8
+岭南戏曲,https://ysp.jqcykj.cn/gd_lingnanxiqu/playlist.m3u8
+广东4K超高清,https://ysp.jqcykj.cn/gd_guangdongyidong/playlist.m3u8
+广东台经典剧,https://ysp.jqcykj.cn/gd_jingdianju/playlist.m3u8
+纪录片,https://ysp.jqcykj.cn/gd_jilupian/playlist.m3u8
+健康,https://ysp.jqcykj.cn/gd_jiankang/playlist.m3u8
+GRTN生活频道,https://ysp.jqcykj.cn/gd_grtnshenghuo/playlist.m3u8
+凤凰资讯,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/fengshows-info.flv
+凤凰中文,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/fengshows-chinese.flv
+凤凰香港,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/fengshows-hongkong.flv
+凤凰资讯,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8
+凤凰中文,http://zmgd.zyrnet.com:8888/hls/110/index.m3u8
+凤凰香港,https://cdn.qd.je/163189/fhhk
+香港卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/hkstv-live.m3u8
+翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
+耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+澳门莲花卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/lotustv-live.m3u8
+四川卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/sichuan-1016553.m3u8
+四川新闻,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/sichuan-1844567123037646849.m3u8
+四川经济,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/sichuan-1016554.m3u8
+四川文化旅游,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/sichuan-1016555.m3u8
+四川影视文艺,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/sichuan-1016557.m3u8
+四川妇女儿童,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/sichuan-1016558.m3u8
+四川乡村,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/sichuan-1016560.m3u8
+康巴卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/sichuan-1016561.m3u8
+四川卫视4K超高清SDR,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/sichuan-1970689144638746626.m3u8
+江苏卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/jstv-670.m3u8
+江苏卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/jstv-676.m3u8
+财富天下,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/956923159
+江苏城市,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/jstv-669.m3u8
+江苏综艺,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/jstv-663.m3u8
+江苏影视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/jstv-664.m3u8
+江苏新闻,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/jstv-668.m3u8
+江苏教育,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/jstv-666.m3u8
+江苏体育休闲,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/jstv-665.m3u8
+优漫卡通,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/jstv-667.m3u8
+江苏国际,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/jstv-671.m3u8
+无锡新闻综合,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/wuxi-news.m3u8
+无锡娱乐,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/wuxi-ent.m3u8
+无锡都市资讯,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/wuxi-city.m3u8
+无锡生活,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/wuxi-life.m3u8
+无锡经济,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/wuxi-economy.m3u8
+扬州新闻,https://yztv-wshls.yzbtv.cn/live/8bb.m3u8
+扬州民生,https://yztv-wshls.yzbtv.cn/live/8bd.m3u8
+江都频道,https://yztv-wshls.yzbtv.cn/live/8c1.m3u8
+邗江频道,https://yztv-wshls.yzbtv.cn/live/8c3.m3u8
+苏州新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
+苏州社会经济,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
+苏州文化生活,https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
+苏州电影娱乐,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
+苏州生活资讯,https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
+苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
+江苏卫视,https://ysp.jqcykj.cn/js_jsws/playlist.m3u8
+江苏卫视,https://ysp.jqcykj.cn/js_jsws4k/playlist.m3u8
+江苏城市,https://ysp.jqcykj.cn/js_jscs/playlist.m3u8
+江苏综艺,https://ysp.jqcykj.cn/js_jszy/playlist.m3u8
+江苏影视,https://ysp.jqcykj.cn/js_jsys/playlist.m3u8
+江苏新闻,https://ysp.jqcykj.cn/js_jsxw/playlist.m3u8
+江苏教育,https://ysp.jqcykj.cn/js_jsjy/playlist.m3u8
+江苏体育休闲,https://ysp.jqcykj.cn/js_jsxx/playlist.m3u8
+优漫卡通,https://ysp.jqcykj.cn/js_ymkt/playlist.m3u8
+江苏国际,https://ysp.jqcykj.cn/js_jsgj/playlist.m3u8
+天津卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/tianjin-satellite.m3u8
+天津新闻,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/tianjin-news.m3u8
+天津文艺,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/tianjin-arts.m3u8
+天津影视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/tianjin-film.m3u8
+天津都市,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/tianjin-city.m3u8
+天津体育,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/tianjin-sports.m3u8
+天津教育,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/tianjin-education.m3u8
+浙江卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/cztv-101.m3u8
+钱江都市,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/cztv-102.m3u8
+浙江经济生活,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/cztv-103.m3u8
+浙江教科影视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/cztv-104.m3u8
+浙江民生休闲,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/cztv-106.m3u8
+浙江新闻,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/cztv-107.m3u8
+浙江少儿,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/cztv-108.m3u8
+浙江国际,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/cztv-110.m3u8
+之江纪录,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/cztv-112.m3u8
+杭州综合,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/hangzhou-general.m3u8
+西湖明珠,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/hangzhou-pearl.m3u8
+杭州生活,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/hangzhou-life.m3u8
+杭州影视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/hangzhou-film.m3u8
+杭州青少体育,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/hangzhou-youth.m3u8
+宁波新闻综合,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ningbo-news.m3u8
+宁波经济生活,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ningbo-economy.m3u8
+宁波都市文体,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ningbo-city.m3u8
+宁波影视剧,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/ningbo-drama.m3u8
+嘉兴新闻综合,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/jiaxing-news.m3u8
+嘉兴文化影视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/jiaxing-culture.m3u8
+嘉兴公共频道,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/jiaxing-public.m3u8
+浙江卫视,https://ysp.jqcykj.cn/zj_zhejiangweishi/playlist.m3u8
+钱江都市,https://ysp.jqcykj.cn/zj_qianjiangdushi/playlist.m3u8
+教科影视,https://ysp.jqcykj.cn/zj_jiaokeyingshi/playlist.m3u8
+民生休闲,https://ysp.jqcykj.cn/zj_minshengxiuxian/playlist.m3u8
+新闻,https://ysp.jqcykj.cn/zj_xinwen/playlist.m3u8
+少儿频道,https://ysp.jqcykj.cn/zj_shaoerpindao/playlist.m3u8
+浙江国际,https://ysp.jqcykj.cn/zj_guoji/playlist.m3u8
+之江纪录,https://ysp.jqcykj.cn/zj_zhijiangjilu/playlist.m3u8
+安徽卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/anhui-ahwssx.m3u8
+安徽经济生活,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/anhui-jjshtv.m3u8
+安徽影视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/anhui-ystv.m3u8
+安徽公共,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/anhui-ggtv.m3u8
+安徽农业科教,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/anhui-nykjtv.m3u8
+安徽综艺体育,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/anhui-zytytv.m3u8
+安徽国际,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/anhui-gjtv.m3u8
+CQTV新闻,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/chongqing-6.m3u8
+甘肃卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/gansu-1.m3u8
+甘肃文化影视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/gansu-2.m3u8
+甘肃移动电视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/gansu-3.m3u8
+甘肃少儿,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/gansu-4.m3u8
+甘肃科教,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/gansu-5.m3u8
+甘肃公共应急,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/gansu-6.m3u8
+贵州卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/gzstv-satellite.m3u8
+贵州公共,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/gzstv-public.m3u8
+贵州影视文艺,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/gzstv-film-arts.m3u8
+贵州大众生活,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/gzstv-life.m3u8
+贵州生态乡村,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/gzstv-eco-rural.m3u8
+贵州科教健康,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/gzstv-science-health.m3u8
+贵州经济,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/gzstv-economy.m3u8
+贵州移动电视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/gzstv-mobile.m3u8
+广西卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/gxtv-gxws.m3u8
+广西综艺旅游,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/gxtv-zyly.m3u8
+广西都市,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/gxtv-ds.m3u8
+广西影视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/gxtv-ys.m3u8
+广西新闻,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/gxtv-xw.m3u8
+广西国际,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/gxtv-gj.m3u8
+广西移动,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/gxtv-yd.m3u8
+吉林卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/jlntv-satellite.m3u8
+吉林都市,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/jlntv-city.m3u8
+吉林生活,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/jlntv-life.m3u8
+吉林影视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/jlntv-movies.m3u8
+吉林乡村,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/jlntv-rural.m3u8
+吉林综艺文化,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/jlntv-variety-culture.m3u8
+长春综合,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/jlntv-changchun.m3u8
+吉林新闻综合,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/jlntv-jilin-city.m3u8
+四平新闻综合,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/jlntv-siping.m3u8
+辽源新闻综合,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/jlntv-liaoyuan.m3u8
+通化新闻综合,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/jlntv-tonghua.m3u8
+白山新闻综合,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/jlntv-baishan.m3u8
+白城新闻综合,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/jlntv-baicheng.m3u8
+松原新闻综合,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/jlntv-songyuan.m3u8
+延边卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/jlntv-yanbian.m3u8
+河北卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/hebtv-10524916.m3u8
+河北经济生活,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/hebtv-10516507.m3u8
+河北都市,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/hebtv-10516509.m3u8
+河北文旅体育,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/hebtv-10516510.m3u8
+河北少儿科教,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/hebtv-10516511.m3u8
+河北三农,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/hebtv-10516508.m3u8
+河北卫视,https://ysp.jqcykj.cn/hb_hebeiweishi/playlist.m3u8
+经济生活,https://ysp.jqcykj.cn/hb_jingjishenghuo/playlist.m3u8
+河北都市,https://ysp.jqcykj.cn/hb_hebeidushi/playlist.m3u8
+文旅体育,https://ysp.jqcykj.cn/hb_wenlvtiyu/playlist.m3u8
+少儿科教,https://ysp.jqcykj.cn/hb_shaoerkejiao/playlist.m3u8
+三农频道,https://ysp.jqcykj.cn/hb_sannongpindao/playlist.m3u8
+湖北卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/hbtv-431.m3u8
+湖北经视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/hbtv-432.m3u8
+湖北综合,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/hbtv-433.m3u8
+湖北影视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/hbtv-435.m3u8
+湖北教育,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/hbtv-437.m3u8
+湖北垄上,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/hbtv-438.m3u8
+辽宁影视剧,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/beidou-liaoning-918510749a0f319ec12ff695b1c95230.m3u8
+辽宁生活,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/beidou-liaoning-078ce87dcf5384d51e4655cb962fda18.m3u8
+辽宁北方,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/beidou-liaoning-8e95535378bd3e5f7494bc23ab1cb117.m3u8
+家庭理财,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/beidou-liaoning-7e29bde4f41ca08642b7fc3ce4eb1ae4.m3u8
+沈阳新闻综合,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/beidou-shenyang-d447fcc472f14c7f14872d4e26b12d8f.m3u8
+沈阳经济,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/beidou-shenyang-eaecc3f39a6e94f2ac6197c229b4cd6b.m3u8
+沈阳公共,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/beidou-shenyang-acb1a5713531ac7feb7836b1b4db442c.m3u8
+大连新闻综合,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/dalian-7.m3u8
+大连生活,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/dalian-8.m3u8
+大连文体,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/dalian-9.m3u8
+江西卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/jxntv-satellite.m3u8
+江西都市,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/jxntv-city.m3u8
+江西经济生活,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/jxntv-economy-life.m3u8
+江西公共农业,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/jxntv-public-agriculture.m3u8
+江西少儿,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/jxntv-kids.m3u8
+江西新闻,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/jxntv-news.m3u8
+江西移动电视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/jxntv-mobile.m3u8
+江西陶瓷,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/jxntv-ceramics.m3u8
+海南卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/hnntv-13
+三沙卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/hnntv-5
+海南自贸,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/hnntv-1
+海南新闻,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/hnntv-3
+海南社会与法,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/hnntv-4
+海南文旅,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/hnntv-6
+海南少儿,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/hnntv-7
+黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
+黑龙江都市,https://idclive.hljtv.com:4430/live/dushi_hd.m3u8
+黑龙江新闻法治,https://idclive.hljtv.com:4430/live/hljxw_hd.m3u8
+黑龙江文体,https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
+黑龙江少儿,https://idclive.hljtv.com:4430/live/hljse_hd.m3u8
+黑龙江影视,https://idclive.hljtv.com:4430/live/hljys_hd.m3u8
+黑龙江农业科教,https://idclive.hljtv.com:4430/live/hljgg_hd.m3u8
+山东卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/iqilu-sdtv
+齐鲁频道,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/iqilu-qlpd
+山东新闻,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/iqilu-ggpd
+山东体育休闲,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/iqilu-typd
+山东生活,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/iqilu-shpd
+山东综艺,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/iqilu-zypd
+山东农科,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/iqilu-nkpd
+山东文旅,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/iqilu-yspd
+山东少儿,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/iqilu-sepd
+山东卫视,https://ysp.jqcykj.cn/sd_sdtv/playlist.m3u8
+齐鲁频道,https://ysp.jqcykj.cn/sd_qlpd/playlist.m3u8
+体育频道,https://ysp.jqcykj.cn/sd_typd/playlist.m3u8
+生活频道,https://ysp.jqcykj.cn/sd_shpd/playlist.m3u8
+综艺频道,https://ysp.jqcykj.cn/sd_zypd/playlist.m3u8
+农科频道,https://ysp.jqcykj.cn/sd_nkpd/playlist.m3u8
+文旅频道,https://ysp.jqcykj.cn/sd_yspd/playlist.m3u8
+少儿频道,https://ysp.jqcykj.cn/sd_sepd/playlist.m3u8
+河南卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/hntv-145
+河南新闻,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/hntv-149
+河南都市,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/hntv-141
+河南民生,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/hntv-146
+河南法治,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/hntv-147
+河南公共,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/hntv-151
+河南乡村,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/hntv-152
+河南电视剧,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/hntv-148
+梨园频道,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/hntv-154
+文物宝库,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/hntv-155
+武术世界,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/hntv-156
+睛彩中原,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/hntv-157
+国学频道,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/hntv-194
+南京新闻综合,https://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8
+南京教育科技,https://nklive.nbs.cn/hls/75b3c462-b831-4de7-a34b-5d3221db2069/index.m3u8
+南京十八·生活,https://nklive.nbs.cn/hls/1173a815-bfdb-4c3c-9f73-89ec37ae7716/index.m3u8
+南京文旅纪录,https://nklive.nbs.cn/hls/9b2005c4-046c-422f-ba45-e6adc4f4de07/index.m3u8
+内蒙古卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/nmtv-satellite.m3u8
+内蒙古蒙古语卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/nmtv-mongolian-satellite.m3u8
+内蒙古新闻综合,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/nmtv-news-general.m3u8
+内蒙古经济生活,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/nmtv-economy-life.m3u8
+内蒙古少儿,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/nmtv-kids.m3u8
+内蒙古文体娱乐,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/nmtv-culture-sports.m3u8
+内蒙古农牧,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/nmtv-agriculture.m3u8
+内蒙古蒙古语文化频道,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/nmtv-mongolian-culture.m3u8
+呼和浩特,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/nmtv-hohhot.m3u8
+包头,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/nmtv-baotou.m3u8
+乌海,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/nmtv-wuhai.m3u8
+赤峰,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/nmtv-chifeng.m3u8
+呼伦贝尔,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/nmtv-hulunbuir.m3u8
+兴安盟,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/nmtv-hinggan.m3u8
+通辽,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/nmtv-tongliao.m3u8
+锡林郭勒,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/nmtv-xilingol.m3u8
+乌兰察布,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/nmtv-ulanqab.m3u8
+鄂尔多斯,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/nmtv-ordos.m3u8
+巴彦淖尔,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/nmtv-bayannur.m3u8
+阿拉善,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/nmtv-alxa.m3u8
+新疆卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/xjtv-1.m3u8
+维吾尔语新闻综合,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/xjtv-2.m3u8
+哈萨克语新闻综合,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/xjtv-3.m3u8
+新疆汉语综艺,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/xjtv-4.m3u8
+维吾尔语影视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/xjtv-5.m3u8
+新疆体育健康,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/xjtv-7.m3u8
+新疆少儿,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/xjtv-8.m3u8
+金鹰卡通,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/mgtv-287.m3u8
+湖南经视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/mgtv-280.m3u8
+湖南娱乐,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/mgtv-344.m3u8
+湖南电影,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/mgtv-221.m3u8
+湖南都市,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/mgtv-346.m3u8
+湖南电视剧,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/mgtv-484.m3u8
+金鹰纪实,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/mgtv-316.m3u8
+湖南爱晚,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/mgtv-261.m3u8
+湖南国际,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/mgtv-229.m3u8
+快乐垂钓,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/mgtv-218.m3u8
+长沙新闻综合,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/mgtv-269.m3u8
+长沙政法,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/mgtv-254.m3u8
+金鹰卡通,https://ysp.jqcykj.cn/mg_jykt/playlist.m3u8
+湖南经视,https://ysp.jqcykj.cn/mg_hnjs/playlist.m3u8
+湖南娱乐,https://ysp.jqcykj.cn/mg_hnyl/playlist.m3u8
+湖南电影,https://ysp.jqcykj.cn/mg_hndy/playlist.m3u8
+湖南都市,https://ysp.jqcykj.cn/mg_hnds/playlist.m3u8
+湖南电视剧,https://ysp.jqcykj.cn/mg_hndsj/playlist.m3u8
+金鹰纪实,https://ysp.jqcykj.cn/mg_jyjs/playlist.m3u8
+湖南爱晚,https://ysp.jqcykj.cn/mg_hnaw/playlist.m3u8
+山西卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/shanxi-satellite.m3u8
+黄河电视台,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/shanxi-huanghe.m3u8
+山西经济与科技,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/shanxi-economy-tech.m3u8
+山西影视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/shanxi-film.m3u8
+山西社会与法治,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/shanxi-society-law.m3u8
+山西文体生活,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/shanxi-culture-sports-life.m3u8
+太原-1,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/shanxi-taiyuan-1.m3u8
+朔州-1,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/shanxi-shuozhou-1.m3u8
+忻州综合,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/shanxi-xinzhou-general.m3u8
+阳泉新闻综合,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/shanxi-yangquan-news.m3u8
+吕梁-1,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/shanxi-lvliang-1.m3u8
+晋中综合,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/shanxi-jinzhong-general.m3u8
+长治-1,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/shanxi-changzhi-1.m3u8
+晋城新闻综合,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/shanxi-jincheng-news.m3u8
+临汾-1,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/shanxi-linfen-1.m3u8
+运城-1,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/shanxi-yuncheng-1.m3u8
+云南卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/yunnan-satellite.m3u8
+云南都市,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/yunnan-urban.m3u8
+云南康旅,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/yunnan-travel.m3u8
+澜湄国际,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/yunnan-lancang.m3u8
+临沧综合,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/yunnan-lincang.m3u8
+怒江综合,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/yunnan-nujiang.m3u8
+昭通综合,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/yunnan-zhaotong.m3u8
+陕西卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/shaanxi-satellite.m3u8
+陕西新闻资讯频道,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/shaanxi-news.m3u8
+陕西都市青春频道,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/shaanxi-urban-youth.m3u8
+陕西银龄频道,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/shaanxi-silver-age.m3u8
+陕西秦腔频道,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/shaanxi-qinqiang.m3u8
+陕西体育休闲频道,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/shaanxi-sports-leisure.m3u8
+农林卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/shaanxi-nonglin.m3u8
+陕西移动电视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/shaanxi-mobile.m3u8
+安多卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/qinghai-amdo.m3u8
+宁夏卫视,https://hls.nxhhy.cn/live/nxws1M.m3u8
+宁夏公共,https://hls.nxhhy.cn/live/nxgg1M.m3u8
+宁夏文旅,https://hls.nxhhy.cn/live/nxwl1M.m3u8
+西藏卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/xizang-satellite.m3u8
+西藏藏语卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/xizang-tibetan.m3u8
+西藏影视文化,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/xizang-film-culture.m3u8
+西藏｜甲岗拉姆雪山及县城湿地,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/livechina-ahhs01.m3u8
+甘肃｜漳县贵清山植物园,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/livechina-lsdfgfl.m3u8
+黑龙江｜嘟噜河省级自然保护区视角1,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/livechina-taishan03.m3u8
+黑龙江｜嘟噜河省级自然保护区视角2,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/livechina-hkylxs05.m3u8
+河北｜金梦海湾,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/livechina-zjwzblt.m3u8
+河北｜老龙头景区,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/livechina-zjwzbblh.m3u8
+河北｜南川老街,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/livechina-lpsgmjng01.m3u8
+河北｜京娘湖 视角1,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/livechina-zjjsrsm.m3u8
+河北｜京娘湖 视角2,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/livechina-xjtcdhsz.m3u8
+河北｜塞罕坝视角1,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/livechina-hssxf.m3u8
+河北｜塞罕坝视角2,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/livechina-gllj01.m3u8
+吉林｜朱雀云顶远眺,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/livechina-hsxksqj.m3u8
+吉林｜北山公园,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/livechina-hkylxs03.m3u8
+广东｜福田红树林,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/livechina-djyqyl1.m3u8
+陕西｜乾陵景区,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/livechina-taishan02.m3u8
+西藏｜南迦巴瓦星空,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/livechina-jhs05.m3u8
+湖南｜崀山八角寨,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/livechina-hkts02.m3u8
+河南｜红石峡,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/livechina-pts01.m3u8
+西藏｜岷山彩门民宿,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/livechina-hkylxs06.m3u8
+湖南｜田汉文化园,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/livechina-zsslstpt.m3u8
+重庆｜巫山长江画卷,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/livechina-ljgcwglytylxs.m3u8
+浙江｜嵊泗县中心渔港,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/livechina-emsyh.m3u8
+云南｜保山板桥镇青龙街,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/livechina-ylxs12.m3u8
+云南｜勐焕大金塔,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/livechina-dhyyqsm.m3u8
+云南｜瓦窑镇瓦窑码头,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/livechina-hsxhdxg.m3u8
+云南｜弥勒月亮小镇,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/livechina-hsyg.m3u8
+河南｜浚县古城景区北城门,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/livechina-hlzycc.m3u8
+云南｜千年古寨曼丢,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/livechina-fcw03.m3u8
+云南｜寻甸县城区,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/livechina-mdjxxmhjyxj.m3u8
+云南｜景迈山,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/livechina-tms05.m3u8
+云南｜樱花谷,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/livechina-taishan01.m3u8
+云南｜云南驿茶马古道,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/livechina-tyhjtys.m3u8
+重庆｜李子坝站,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/livechina-ylh04.m3u8
+陕西｜阎良关山石川河风景区,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/livechina-nss01.m3u8
+河南｜永城市日月湖景区,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/livechina-hgsspzxdpb.m3u8
+河南｜鲁山县画眉谷景区,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/livechina-xjtcmys.m3u8
+河南｜浉河港镇文新茶村,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/livechina-xjtcdgs.m3u8
+江苏｜江苏徐州之夜,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/livechina-hspyt.m3u8
+云南｜云南红河建水双龙桥,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/livechina-pshdxg01.m3u8
+山东｜艾山天文台,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/livechina-jhs01.m3u8
+陕西｜陕西西安大雁塔,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/livechina-hkylxs01.m3u8
+辽宁｜沈阳浑河桥,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/livechina-ljgcdsc.m3u8
+重庆｜巫山长江大桥,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/livechina-hswlf.m3u8
+河北｜河北承德金山岭长城,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/livechina-hkts03.m3u8
+吉林｜松花江吉林市区段,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/livechina-zh03.m3u8
+四川｜安顺廊桥,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/livechina-zsslsjjfsd.m3u8
+北京｜古北水镇,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/livechina-dlst03.m3u8
+青海｜仙米国家森林公园,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/livechina-mdjxxdsb.m3u8
+黑龙江｜霁虹桥,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/livechina-hkts09.m3u8
+江苏｜无锡大剧院,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/livechina-taishan05.m3u8
+江苏｜玄武湖景区,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/livechina-xwh01.m3u8
+福建｜武夷山玉女峰,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/livechina-wysynf.m3u8
+浙江｜东极岛,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/livechina-djd01.m3u8
+安徽｜卧云峰,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/livechina-wgw02.m3u8
+安徽｜飞来石,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/livechina-hsptgy.m3u8
+安徽｜光明顶,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/livechina-drs01.m3u8
+陕西｜西安钟楼,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/livechina-blg03.m3u8
+外滩观光平台,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/kankanews-scenic-13755.m3u8
+魔都眼景观,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/kankanews-scenic-12835.m3u8
+北外滩,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/kankanews-scenic-13973.m3u8
+外白渡桥,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/kankanews-scenic-13974.m3u8
+松江融媒慢直播,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/songjiang-slow-live.m3u8
+五四广场,https://video10.qtv.com.cn/aqdwsgc2022/manifest.m3u8
+奥帆中心,https://video10.qtv.com.cn/aqdafzx2022/manifest.m3u8
+快速路大润发方向,https://video10.qtv.com.cn/sxt1/manifest.m3u8
+胶宁高架福州路口,https://video10.qtv.com.cn/sxt3/manifest.m3u8
+胶宁高架银川西路口,https://video10.qtv.com.cn/sxt2/manifest.m3u8
+长江大桥,https://nklive2.nbs.cn/hls/292e69b9-9ca1-4908-bba0-32438dd7c464/index.m3u8
+南京南站,https://nklive2.nbs.cn/hls/ed208474-9d66-48d1-adfe-55f0d783915c/index.m3u8
+新庄立交,https://nklive2.nbs.cn/hls/e75a4b63-c05f-49c1-9d53-9c24c09107de/index.m3u8
+紫金山,https://nklive2.nbs.cn/hls/aff6d607-073a-4b4b-ab42-2f65f2b9ac4c/index.m3u8
+鼓楼广场,https://nklive2.nbs.cn/hls/82df63bc-e231-4b84-a277-30f603dd44ca/index.m3u8
+音乐台,https://nklive1.nbs.cn/hls/3c38d3ba-ee74-4b93-933c-da8e1e5418fa/index.m3u8
+北极阁,https://nklive2.nbs.cn/hls/157b42cc-93a7-42aa-89e7-0a07452ad4c3/index.m3u8
+三汊河,https://nklive2.nbs.cn/hls/e01482be-9a78-4c14-a76a-250f733fd993/index.m3u8
+石臼湖,https://nklive1.nbs.cn/hls/2a317dc5-f482-48ce-8bad-20a0b33926a3/index.m3u8
+南京眼,https://nklive2.nbs.cn/hls/2496cb32-fa2a-469b-bfd7-2d1991d671d5/index.m3u8
+五马渡,https://nklive1.nbs.cn/hls/019fe26e-5595-4330-a3be-df72d5e01e6b/index.m3u8
+石象路,https://yunlive.nbs.cn/live/mzb_sxl_1/playlist.m3u8
+鱼嘴,https://nklive2.nbs.cn/hls/509207c4-e2b1-43f0-b8f0-f04d0f584ed8/index.m3u8
+保定,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/hebtv-11605042.m3u8
+沧州,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/hebtv-11605043.m3u8
+承德,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/hebtv-11605049.m3u8
+定州,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/hebtv-10936263.m3u8
+邯郸,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/hebtv-11605046.m3u8
+衡水,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/hebtv-11605044.m3u8
+廊坊,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/hebtv-11605041.m3u8
+平山,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/hebtv-12348364.m3u8
+秦皇岛,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/hebtv-11605037.m3u8
+石家庄,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/hebtv-11605050.m3u8
+唐山,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/hebtv-11605039.m3u8
+邢台,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/hebtv-11605045.m3u8
+雄安新区,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/hebtv-11605048.m3u8
+张家口,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/hebtv-11605035.m3u8
+长春市·新民广场,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/jlntv-slow-xinmin-square.m3u8
+长春市·双阳区,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/jlntv-slow-shuangyang.m3u8
+临江市·江心岛,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/jlntv-slow-jiangxin-island.m3u8
+长春市·南湖公园,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/jlntv-slow-nanhu-park.m3u8
+通化市·浑江,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/jlntv-slow-hunjiang.m3u8
+靖宇县·四海龙湾玛珥湖,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/jlntv-slow-sihai-longwan.m3u8
+长春市·碧松净月塔楼,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/jlntv-slow-jingyu-tower.m3u8
+靖宇县·松花江仁义风景区,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/jlntv-slow-renyi.m3u8
+松原市·查干湖,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/jlntv-slow-chagan-lake.m3u8
+长白山·万达滑雪场将军顶,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/jlntv-slow-jiangjunding.m3u8
+《红男绿女》慢直播,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/jlntv-slow-red-man-green-woman.m3u8
+长白山·万达滑雪场,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/jlntv-slow-wanda-ski.m3u8
+让吉林影像写入中国记忆,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/jlntv-slow-china-memory.m3u8
+阅读北京·童行未来之生命密码,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/beijing-live-6-558i89prap48pb99eke71m4pvmh.m3u8
+慢直播｜跟着课本去旅行《迷人的张家界》,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/beijing-live-6-57ck4hinuec9baqium0e5ihc2mp.m3u8
+你对象来了20261008,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/beijing-live-6-50nsafbqd1q99maseb901svc39i.m3u8
+生活这一刻20261008,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/beijing-live-6-55000kor4dj8dfrm6uig8lhsu1m.m3u8
+《围炉财经》20261008,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/beijing-live-6-50o1uo087kr8ls8f38lm2ahqlll.m3u8
+慢直播｜石家庄西柏坡 守望绿水青山,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/beijing-live-6-504bb1reri48o9af5lfr3ptk5q8.m3u8
+成都基地 24小时,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/ipanda-chengdu.m3u8
+成都·成年园A,https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao01_2/index.m3u8
+成都·成年园B,https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao02_2/index.m3u8
+成都·六号别墅A,https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao03_2/index.m3u8
+成都·六号别墅B,https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao04_2/index.m3u8
+成都·幼儿园A,https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao05_2/index.m3u8
+成都·幼儿园B,https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao06_2/index.m3u8
+成都·母子园A,https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao07_2/index.m3u8
+成都·母子园B,https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao08_2/index.m3u8
+成都·一号别墅A,https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao09_2/index.m3u8
+成都·一号别墅B,https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao10_2/index.m3u8
+都江堰 24小时,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/ipanda-dujiangyan.m3u8
+都江堰·吉福A,https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao11_2/index.m3u8
+都江堰·瑞喜、乔怡A,https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao12_2/index.m3u8
+都江堰·新乔,https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao13_2/index.m3u8
+都江堰·青灵,https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao14_2/index.m3u8
+都江堰·优悠,https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao15_2/index.m3u8
+都江堰·瑞喜、乔怡B,https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao16_2/index.m3u8
+都江堰·吉福B,https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao18_2/index.m3u8
+都江堰·春野、秋野,https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao20_2/index.m3u8
+江苏大丰麋鹿国家级自然保护区,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/ipanda-jiangsu-dafeng-milu.m3u8
+云南白马雪山自然保护区,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/ipanda-yunnan-baima-snow-mountain.m3u8
+[原画] 无畏契约赛事 · 【直播】VIT vs NS 上海全球冠军赛,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-22908869.m3u8
+[原画] 哔哩哔哩英雄联盟赛事 · 【直播】NAVI vs JDG,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-7734200.m3u8
+[原画] 游戏赛事直播 · 2026无畏契约上海全球冠军赛,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-504273.m3u8
+[原画] 哔哩哔哩王者荣耀赛事 · 【预告】9日17点 重庆狼队 vs 南通Hero久竞,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-21144080.m3u8
+[原画] QQ飞车手游官方赛事 · S联赛秋季赛第二赛段Day2！RSG.海神2V首秀！,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-21743919.m3u8
+[原画] 麻将研究院 · 2026年第2届精英2v2争霸赛,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-30377127.m3u8
+[原画] 第五人格赛事 · 【重播】2026IVL秋季赛W1D4,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-6650029.m3u8
+[蓝光] 斯奎奇大王 · 女恶魔林赛&新罗马人口不涨,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-1904418556.m3u8
+[原画] 观察者网 · 羊羔特工队：从这里走向战场,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-948391.m3u8
+[原画] 幽州-节度使 · 如期而至的小反弹,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-30188802.m3u8
+[原画] 趋势天哥 · A股到底怎么了？,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-25128442.m3u8
+[原画] 卡池必歪真君 · 苦一苦世界，骂名懂王担。,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-26758247.m3u8
+[原画] 网文徐掌柜 · 学会网文扫榜拆解，过稿轻轻松松,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-23034381.m3u8
+[原画] 自主品牌才是国家希望 · 真正的单踏板？,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-10609304.m3u8
+[原画] 韩同青囊相授 · 10.8心碰碰跳,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-1730461717.m3u8
+[原画] 远古时代装机猿 · NV新电脑1万7起,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-1361615.m3u8
+[原画] 豆小包耶 · 江苏野生coser…,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-1982729979.m3u8
+[原画] 赋闲在家的苏洛维金 · 干货，不进拍大腿,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-1921508911.m3u8
+[原画] 小周的两岸频道 · 智慧团结一号,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-197484.m3u8
+[原画] 政治学评介 · 姜富伟：人工智能金融学交叉研究探索,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-23588425.m3u8
+[原画] 深水皮蛋 · 十万大军兵发也门剿灭胡赛？反胡赛联盟大反攻全靠编故事？,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-1085986.m3u8
+[原画] 是海马君 · 聊聊10.8号最新政策，125块钱，换一个月薪八千的活,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-1784935900.m3u8
+[原画] _天宗宗 · 111,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-1954827993.m3u8
+[原画] 邪恶大菠菠 · 黄金外汇2000干到2w实盘交易,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-1732560990.m3u8
+[原画] 王道计算机教育 · 27计算机考研双非招生情况,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-3814166.m3u8
+[原画] 星伊云同桌自习室 · 卷王一路硕博！！！,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-12618111.m3u8
+[原画] Mr迷瞪 · 迷住双十一家装节-直播连麦答疑,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-22491717.m3u8
+[原画] 戒社 · 一年查一次征信,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-22188468.m3u8
+[原画] 哈仔十一 · 看看十一猪,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-21683315.m3u8
+[原画] 克利咕咕兰 · 今天我生日,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-518647.m3u8
+[原画] 梦鹿ovo · 五好,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-1843665829.m3u8
+[原画] 眠眠酱-9号半周年 · 拿下榜一大哥计划落空,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-1796290418.m3u8
+[原画] 半岛铁盒-bdth · 捏娃娃,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-1817650955.m3u8
+[原画] 一只小鱼ou · 不喜欢可以骂没必要划走,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-1968488810.m3u8
+[原画] 晓亮的美滋滋小院 · 美滋滋小工坊,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-3742984.m3u8
+[原画] 雪糕yee · 恰好遇见你,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-1820332064.m3u8
+[原画] 慢慢XYW · 偏瘫10年零10个月,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-23187506.m3u8
+[原画] 慢熟野莓 · 刑事侦缉，站内过审,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-1878513946.m3u8
+[原画] 梦回乒乓 · 中国大满贯 免费点歌,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-1982181049.m3u8
+[原画] 凉州经略使 · 在线更新刘官章，积极寻求意见,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-22794967.m3u8
+[原画] 美汁汁zzz-金毛冠 · 新人第三天,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-1724778636.m3u8
+[原画] LofiGirl · 学习工作背景音乐 24/7 自习室,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-27519423.m3u8
+[原画] 壹球成名网球 · 布,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-1832042122.m3u8
+[原画] 荀异 · 睡一小时赶稿终末地本子还缺营收命苦画师,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-19064.m3u8
+[原画] 久菜合子__ · 素颜,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-30862649.m3u8
+[原画] 笨蛋豆豆o · 不是老师进直播间不要乱说,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-1939175509.m3u8
+[原画] 优秀小同学呀 · 【姐姐】俺不中嘞,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-1837229215.m3u8
+[原画] 特调员-乐乐冠 · 【京御】晕碳主播在线迷糊~,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-1777437146.m3u8
+[原画] 宗泽学长 · 进来挨mua,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-22575433.m3u8
+[原画] 蒜蓉dom_航空母舰 · 吐,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-1764828642.m3u8
+[原画] 呓语晚风 · 晚上有点坏坏的小心思,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-1756759585.m3u8
+[原画] 瑶瑶氷-10冠 · 【少御】你喜欢的样子我都有,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-1791694539.m3u8
+[原画] 奈奈酱ov · 一口气rap一分钟,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-1931163558.m3u8
+[原画] Shen燊燊_ · 很内向，可以陪我一会吗,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-1909961642.m3u8
+[原画] 桃御御-努力版 · 听说这个声音让人睡不着,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-1934307813.m3u8
+[原画] 旺旺小小酥ovoo · 医学硕士  看着不烧心,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-1843683334.m3u8
+[原画] 念念brown哟_暴富版 · 【温御】愿许春风知我意，赐我十亿RMB,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-30380425.m3u8
+[原画] 宠Astra · 你想的对我的声音做什么,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-1936495602.m3u8
+[原画] 七月黑金花 · 花期短 珍惜当下,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-1923350627.m3u8
+[原画] 許盈盈-猥琐发育版 · 事情交给我 你就把心放在嗓子眼吧,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-1741183250.m3u8
+[原画] 舒尔_ · 想起你好温柔,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-22080214.m3u8
+[原画] 北Mr · 为了直播和她分开了....,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-1964696639.m3u8
+[原画] 不吃素的金喵儿 · 【金喵】叽里咕噜说啥呢,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-12305395.m3u8
+[原画] 酸奶根葱- · 人傻好骗 不要彩礼,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-1829740241.m3u8
+[原画] 冬九九吖 · 内有恶犬，注意安全,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-1844411112.m3u8
+[原画] 一个-团子-小花田冠 · 人间绝色！,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/bili-1700307581.m3u8
+开心 · 开心，你又跑调啦,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/douyin-29447017424
+蔡 · 进来一起玩,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/douyin-275906167715
+S.1 · 你只管进来,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/douyin-830354653307
+曼珠阁 · 熬夜到天亮,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/douyin-292394935413
+欣玉 · 杭州宁,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/douyin-37253742005
+嘎嘎的金柱特产行 · 纯货放山货正在直播……,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/douyin-366216807548
+辣椒酱ە · 百家饭主播能不能遇到光,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/douyin-593851219625
+温州白雪 · 温州白雪正在直播,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/douyin-679285058539
+晓樱桃 · 晓樱桃正在直播,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/douyin-82979100055
+马小二说脸 · 敏感肌红烫脸痘肌,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/douyin-926100769726
+斌斌 · 斌斌正在直播,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/douyin-260731974450
+信子（第五人格） · 信子（第五人格）正在直播,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/douyin-65210081737
+兰兰⁰³²⁷🐾 · 兰兰0327正在直播,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/douyin-524473801957
+𐌍· 奶糖 💜 · 04女孩勇闯幼儿园当助教,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/douyin-88858084826
+文文♬ · 进来瞧瞧直播间在干啥～,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/douyin-383072193722
+云HE · 云HE正在直播,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/douyin-955061821385
+呱呱主播，莫11 · 不要问我卖奶茶吗,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/douyin-696355661566
+阿芬 · 阿芬霞直播啦,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/douyin-922625623024
+胡龙英396 · 胡龙英396正在直播,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/douyin-658019463430
+大同腾飞说房（实话实说） · 大同2026选房思路,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/douyin-12715123965
+小组赛NAVI 1:0 JDG,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/douyu-288016.m3u8
+【钻粉双倍】七点多来,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/douyu-3168536.m3u8
+海斗内战 9点刀,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/douyu-252140.m3u8
+陪伴每一天！,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/douyu-9999.m3u8
+玩传奇就看6512！,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/douyu-6512.m3u8
+假期去哪里 我在PUBG等你 24422,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/douyu-24422.m3u8
+神秘的直播间 88080,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/douyu-1457640.m3u8
+【冲亚服第一】疯狗式全程找人杀不停！,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/douyu-5720533.m3u8
+假期去哪里  我在PUBG等你,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/douyu-2448877.m3u8
+双倍亲密度双倍亲密度,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/douyu-63136.m3u8
+双人现开赛,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/douyu-633019.m3u8
+灿团s7我回来了！,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/douyu-231059.m3u8
+欢乐时光已经开始了！,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/douyu-138243.m3u8
+下午4点 月神杯比赛！ 鱼吧有比赛分组,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/douyu-6560603.m3u8
+兰林汉：霓虹深渊2！！！,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/douyu-475252.m3u8
+鱼跃鹏程杯白鲨加油~,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/douyu-12821.m3u8
+神棍老师：偶尔迟到的直播间,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/douyu-4767111.m3u8
+手把手教你弃船！,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/douyu-844947.m3u8
+大航海即将落幕，今晚弃个痛快~,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/douyu-594019.m3u8
+灿团户外波波,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/douyu-8682569.m3u8
+NAVI 1:0 JDG 德玛西亚杯小组赛,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/huya-lpl.m3u8
+VIT 1:0 NS 上海全球冠军赛,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/huya-vctcn.m3u8
+2026斯诺克900公开赛长沙站-1号桌,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/huya-880214.m3u8
+NBPL秋季赛第二赛段 单排 败者组第一轮,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/huya-660115.m3u8
+2026QQ飞车手游S联赛秋季赛,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/huya-fcsls.m3u8
+昆拉武特 VS 翁泓阳 2026北极羽毛球公开赛,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/huya-880221.m3u8
+【预告】9日重庆狼队 vs 南通Hero 年度总决赛,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/huya-kpl.m3u8
+炉石传说双人现开赛-黑暗帝国篇比赛日D2,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/huya-blizzardgame1.m3u8
+叶宏蔚/詹又蓁 VS 马尤/巴莱尔莫 2026北极羽毛球公开赛,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/huya-30805932.m3u8
+JJ斗地主冠军杯,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/huya-jjworld.m3u8
+limit_0,m_fill,w_338,h_190/sharpen,80/format,jpg/interlace,1/quality,q_90&sign=pwFfbG0U0gsv9UylRdYrxTOWsOdhPTEyNTM0OTg3MDEmYj1odXlhLXNjcmVlbnNob3RzLXJldmlldy0xMjUzNDk4NzAxJms9QUtJRFFpcTNSbEJtV0p6ZUxKTVZrMklWdVEybm1pY2RkRWdEJmU9MTgwNzAxMzgzNSZ0PTE3OTE0NjE4MzUmcj0xMjM0NTY3OCZmPS9odXlhbGl2ZS8yMzU2LTAtMC0yNDc5MDg3ODU1MDIwLTEwMDU3LUEtMC0xLzIwMjYxMDA4MjAxNzE1LmpwZw==" group-title="虎牙",2026北极羽毛球公开赛-1号场地,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/huya-30805928.m3u8
+limit_0,m_fill,w_338,h_190/sharpen,80/format,jpg/interlace,1/quality,q_90" group-title="虎牙",【综艺】«PEL！搞什么»第二季,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/huya-660006.m3u8
+limit_0,m_fill,w_338,h_190/sharpen,80/format,jpg/interlace,1/quality,q_90" group-title="虎牙",【重播】恭喜4AM获得PCL秋季赛冠军,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/huya-660004.m3u8
+纯净流 BLAST SLAM S8 主舞台,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/huya-470252.m3u8
+吴宜泽6-1强势晋级 2026斯诺克深圳公开赛,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/huya-880625.m3u8
+2026CFML秋季赛,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/huya-660102.m3u8
+limit_0,m_fill,w_338,h_190/sharpen,80/format,jpg/interlace,1/quality,q_90" group-title="虎牙",2026北极羽毛球公开赛-2号场地,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/huya-30805929.m3u8
+limit_0,m_fill,w_338,h_190/sharpen,80/format,jpg/interlace,1/quality,q_90&sign=e6ynj3boQ6PfA6QtU6WQ6kwgA1xhPTEyNTM0OTg3MDEmYj1odXlhLXNjcmVlbnNob3RzLXJldmlldy0xMjUzNDk4NzAxJms9QUtJRFFpcTNSbEJtV0p6ZUxKTVZrMklWdVEybm1pY2RkRWdEJmU9MTgwNzAxMzgzMyZ0PTE3OTE0NjE4MzMmcj0xMjM0NTY3OCZmPS9odXlhbGl2ZS8yMzU2LTAtMC0yNDc5MDg3ODU1MDI0LTEwMDU3LUEtMC0xLzIwMjYxMDA4MjAxNzEzLmpwZw==" group-title="虎牙",2026北极羽毛球公开赛-3号场地,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/huya-30805930.m3u8
+和平精英地铁逃生摸金杯S6,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/huya-660007.m3u8
+【重播】2026IVL秋季赛常规赛W1D4,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/huya-idvesports.m3u8
+周润发,http://129.211.14.102:22224/11342387/
+007电影,http://129.211.14.102:22224/21059585/
+梁家辉,http://129.211.14.102:22224/11342429/
+洪金宝,http://129.211.14.102:22224/11279251/
+刘德华,http://129.211.14.102:22224/11342424/
+周星驰,http://129.211.14.102:22224/11336587/
+成龙,http://129.211.14.102:22224/11342386/
+王晶,http://129.211.14.102:22224/11602058/
+林正英,http://129.211.14.102:22224/11342421/
+周星驰,http://129.211.14.102:22224/11342412/
+我摊牌啦 一起看热门大片,http://129.211.14.102:22224/880261/
+【春节贺岁档】神仙打架 看就完事了！,http://129.211.14.102:22224/11601986/
+经典之作·陆小凤系列,http://129.211.14.102:22224/11342427/
+【五福星】每天都要快乐哦,http://129.211.14.102:22224/11282233/
+超爽动作电影 九龙城寨精武英雄,http://129.211.14.102:22224/10871113/
+【虎牙影院】沈腾经典片放映,http://129.211.14.102:22224/11601968/
+各位观众 五条A！！！！,http://129.211.14.102:22224/21059607/
+一起来看搞笑恐怖电影 弹幕护体,http://129.211.14.102:22224/11601960/
+超级英雄电影·永远的神！,http://129.211.14.102:22224/11352950/
+洪武大案朱元璋惩贪,http://129.211.14.102:22224/11352973/
+人狠话不多,王宝强经典电影！,http://129.211.14.102:22224/30080251/
+哈利波特邀请您：霍格沃兹开学啦！,http://129.211.14.102:22224/29982669/
+【元宵节快乐】我们一起找乐子,http://129.211.14.102:22224/11602044/
+杰森·斯坦森:郭达是你吗,http://129.211.14.102:22224/21059588/
+怪兽打架x异形世界：爽就完事了,http://129.211.14.102:22224/21059577/
+【女神系列】邱淑贞 王祖贤 张曼玉,http://129.211.14.102:22224/11336571/
+【敢死队】肌肉改变世界,http://129.211.14.102:22224/23864973/
+国产高燃动作电影 姿势要帅,http://129.211.14.102:22224/11602041/
+【古天乐】古仔帅气开打,http://129.211.14.102:22224/29982675/
+快意江湖：金庸的武侠世界,http://129.211.14.102:22224/11342435/
+最新科幻大片 速来认领你的年度颅内狂欢,http://129.211.14.102:22224/11352965/
+【丧尸来啦】搞笑奇葩僵尸,http://129.211.14.102:22224/11342422/
+首尔之春 这一晚han国发生了什么,http://129.211.14.102:22224/30080226/
+si神来了系列  好怕怕,http://129.211.14.102:22224/11352903/
+怪兽宇宙电影！哥斯拉大战金刚,http://129.211.14.102:22224/29982674/
+巨石强森系列:真肌肉就是爽,http://129.211.14.102:22224/21059581/
+马东锡 看我沙包大的拳头,http://129.211.14.102:22224/21059556/
+经典灾难大片 人类在大自然面前不值一提,http://129.211.14.102:22224/23728647/
+[诺兰电影] 科幻史诗巨作！,http://129.211.14.102:22224/30080257/
+枪战还是得看他！,http://129.211.14.102:22224/21059579/
+搞笑喜剧：最佳拍档 精装追女仔,http://129.211.14.102:22224/11342423/
+大器晚成 影帝林家栋合集,http://129.211.14.102:22224/11352877/
+不挤电影院也能笑着过春节！,http://129.211.14.102:22224/11352897/
+喜剧粤语专场 看喜剧笑一笑吧,http://129.211.14.102:22224/11352894/
+不是 好好地你惹他干嘛,http://129.211.14.102:22224/11279247/
+【许氏三杰】快来 就差你了,http://129.211.14.102:22224/11602033/
+一梦中土 沉醉一生,http://129.211.14.102:22224/11342385/
+玄幻剧场·体验另一种生活！,http://129.211.14.102:22224/11342414/
+国产悬疑精选·智商在线,http://129.211.14.102:22224/11342395/
+【叶师傅】我要打十个,http://129.211.14.102:22224/23829543/
+大场面战争片:一枚核弹爆炸,http://129.211.14.102:22224/21059574/
+甄子丹 我要打十个,http://129.211.14.102:22224/11352935/
+星球大战: 宇宙电影的起点,http://129.211.14.102:22224/30080234/
+异形 VS 铁血战士,http://129.211.14.102:22224/11602047/
+看完你也学不会系列~,http://129.211.14.102:22224/11352945/
+兰博老矣，尚能饭否,http://129.211.14.102:22224/26355849/
+英雄纪元碰撞：从蝙蝠洞到斯塔克大厦24小时穿越,http://129.211.14.102:22224/11601980/
+漫改电影系列 超强剑心来袭,http://129.211.14.102:22224/11336593/
+各位话事人谁赞成谁反对,http://129.211.14.102:22224/26355853/
+今晚别去木屋！鬼玩人系列噩梦小屋轮播,http://129.211.14.102:22224/23728674/
+利刃双雄：si侍与金刚狼,http://129.211.14.102:22224/30080224/
+全世界都钟爱的盗墓电影鼻祖,http://129.211.14.102:22224/11601981/
+古墓系列·去冒险吧！,http://129.211.14.102:22224/11352913/
+谁会不喜欢可爱的小黄人呢,http://129.211.14.102:22224/11342428/
+校园热血电影，不比古惑仔差,http://129.211.14.102:22224/11352934/
+上天下海拼手速 后继无人阿汤哥,http://129.211.14.102:22224/26355792/
+经典烧脑探案推理电影合集 快上车!,http://129.211.14.102:22224/30080172/
+国外超好看经典电影！不看要后悔了,http://129.211.14.102:22224/30080155/
+清明节晚上别出门 待在家里看片片,http://129.211.14.102:22224/20985852/
+星际迷航,勇踏前人未至之境,http://129.211.14.102:22224/30080232/
+[黑夜传说] 吸血鬼大战狼人,http://129.211.14.102:22224/30080231/
+恺撒 金刚 哥斯拉大混战,http://129.211.14.102:22224/11601965/
+家人们我笑麻了,http://129.211.14.102:22224/21059615/
+千万不要一个人看！敢看到最后的都是狠人！,http://129.211.14.102:22224/20985839/
+国产搞笑喜剧，哪个戳爆你笑点,http://129.211.14.102:22224/21059559/
+爆燃屏幕！经典武打电影合集连播，拳拳到肉看过瘾,http://129.211.14.102:22224/23865179/
+特工007？来看《流人》专治精英滤镜！,http://129.211.14.102:22224/23903085/
+经典史诗电影 角斗士 天国王朝,http://129.211.14.102:22224/20969119/
+笑到岔气！来拯救你的不开心~,http://129.211.14.102:22224/30080169/
+空降的英雄，肌肉科技梦男,http://129.211.14.102:22224/26355780/
+人性本恶 凶山恶水出刁民,http://129.211.14.102:22224/29982649/
+国师名场面暴击！张艺谋电影全收录每帧都是教科书！,http://129.211.14.102:22224/23863895/
+人类清除计划你再次证明熊孩子真的是能坑死爹,http://129.211.14.102:22224/23749074/
+致命女人联盟：从黑寡妇到小丑女24小时暴击,http://129.211.14.102:22224/30080157/
+国外一个打十个系列,http://129.211.14.102:22224/23863818/
+扣人心弦海外悬疑大片 结局超乎想象,http://129.211.14.102:22224/21059530/
+各位观众 请看！！！,http://129.211.14.102:22224/11342399/
+窝在沙发看憨豆！笑到打鸣！,http://129.211.14.102:22224/20969133/
+蛇蝎萝莉 暗黑正太 天生坏种,http://129.211.14.102:22224/26355802/
+丧尸围城！活死人系列24小时尸潮连播,http://129.211.14.102:22224/30080183/
+片荒必存！公认的好莱坞巅峰之作，一次性看够,http://129.211.14.102:22224/23734223/
+黄金大劫案,http://129.211.14.102:22224/11352876/
+情人节：港片教你追女仔,http://129.211.14.102:22224/11602043/
+从租赁女友到爸爸活最后到风俗女,http://129.211.14.102:22224/21241764/
+I'll be back,http://129.211.14.102:22224/20985841/
+无形之手 银河映像宿命论之夜,http://129.211.14.102:22224/30080174/
+绝境求生电影，实在太过刺激！,http://129.211.14.102:22224/20985793/
+盗墓还得看经典的,http://129.211.14.102:22224/21059552/
+来自万圣节的追杀,http://129.211.14.102:22224/23824171/
+真正高级的恐怖片，就该这么拍！,http://129.211.14.102:22224/26355851/
+无聊点进来笑一笑 别笑出猪叫,http://129.211.14.102:22224/29465896/
+一个案件击溃整个小镇,http://129.211.14.102:22224/24609811/
+找啊找啊找刺激  恐怖+血腥+惊悚+阴暗,http://129.211.14.102:22224/30080173/
+最新动作大片 速来领取你的下饭小菜,http://129.211.14.102:22224/23728651/
+【新年快乐】港式哈哈笑,http://129.211.14.102:22224/11601971/
+血浆炸弹 嗜血芭蕾 准备好了没2,http://129.211.14.102:22224/21241803/
+战争并不是一场游戏,http://129.211.14.102:22224/20969127/
+印度高分电影 看阿三哥开挂,http://129.211.14.102:22224/26355799/
+最新惊悚电影来啦 一个人不敢看,http://129.211.14.102:22224/20985789/
+极速车王 各类赛车电影&纪录片,http://129.211.14.102:22224/11602051/
+史诗级谍战 速围观,http://129.211.14.102:22224/20969129/
+最新泡菜国大片 复仇动作搞笑一网打尽,http://129.211.14.102:22224/26355838/
+飞虎雄鹰 阿sir好型,http://129.211.14.102:22224/29465898/
+从菜鸟到拳王！你想不想变强？,http://129.211.14.102:22224/20969100/
+疯批警察大战食人家族,http://129.211.14.102:22224/20985771/
+纳尼亚传奇 博物馆奇妙夜系列,http://129.211.14.102:22224/30080188/
+带你穿越无人区、登雪山，爽感拉满，看完想辞职旅行！,http://129.211.14.102:22224/30080144/
+美恐前三季封神！这尺度放现在根本播不了,http://129.211.14.102:22224/23860049/
+国产科幻 从拓荒到崛起的逆袭之路,http://129.211.14.102:22224/20985801/
+硬汉动作片！肾上腺素狂飙,http://129.211.14.102:22224/29465873/
+电锯锤子备好 等一个有缘人,http://129.211.14.102:22224/11601969/
+男人的科幻盛宴！穿梭时空经典穿越一次看个够！,http://129.211.14.102:22224/29465892/
+大导演斯皮尔伯格经典,http://129.211.14.102:22224/21267475/
+黑色幽默 荒诞世界,http://129.211.14.102:22224/30080159/
+仙侠法宝图鉴！盘点那些东方奇幻仙侠电影！,http://129.211.14.102:22224/29982638/
+万圣节必看 小鬼当家系列,http://129.211.14.102:22224/20985772/
+吴镇宇电影的疯批名场面，哪个让你汗毛倒竖？,http://129.211.14.102:22224/23865096/
+关于复仇电影-以牙还牙，以血还血,http://129.211.14.102:22224/29982645/
+燃到起鸡皮疙瘩！体育电影名场面，一次性看个够！,http://129.211.14.102:22224/23864480/
+看得我欲罢不能·人要有敬畏之心,http://129.211.14.102:22224/20985864/
+狄仁杰系列电影，悬疑烧脑的探案故事,http://129.211.14.102:22224/30080229/
+大家好 我曾小咸又回来啦,http://129.211.14.102:22224/11336726/
+特么的暴雨梨花针是我童年的阴影,http://129.211.14.102:22224/11352958/
+[情满四合院] 你准备好感受那份年代情感了吗？,http://129.211.14.102:22224/11342426/
+最喜欢的一版韦小宝,http://129.211.14.102:22224/23650774/
+江湖风云再起，小小镖局暗藏乾坤！,http://129.211.14.102:22224/11352874/
+与古代神探共赴推理盛宴,http://129.211.14.102:22224/11342425/
+身世神秘的范闲书写人生传奇,http://129.211.14.102:22224/11352960/
+我懿症发作啦,http://129.211.14.102:22224/29465868/
+搞笑的一家人,http://129.211.14.102:22224/11342402/
+童年！经典！破案,http://129.211.14.102:22224/23482266/
+许三多军营成长史,http://129.211.14.102:22224/11342430/
+yang光的快乐生活，轻松一夏的必看喜剧！,http://129.211.14.102:22224/11602085/
+夏雪夏雨夏冰雹,http://129.211.14.102:22224/11352872/
+【缅怀最经典张飞】桃园结义三兄弟,http://129.211.14.102:22224/11602081/
+胡八一胖子沙漠古城找鬼洞,http://129.211.14.102:22224/11352871/
+大女主魏璎珞杀疯了,http://129.211.14.102:22224/26355864/
+天不生我李淳罡，剑道万古如长夜,http://129.211.14.102:22224/11336592/
+真正的战士 火蓝刀锋,http://129.211.14.102:22224/20985796/
+炊事班de故事3·柴米油盐,http://129.211.14.102:22224/19524135/
+姑姑！！！白古真的帅哇,http://129.211.14.102:22224/24609809/
+我的前半生,靳东马伊琍袁泉三人纠葛,http://129.211.14.102:22224/11352916/
+半部士兵突击半部冲出亚马逊,http://129.211.14.102:22224/21241783/
+乡村爱情，安排~,http://129.211.14.102:22224/30080255/
+[扫黑风暴] 正义与黑暗的终极较量,http://129.211.14.102:22224/11342404/
+天地争霸美猴王 这个唐僧是最好的唐僧了吧,http://129.211.14.102:22224/29465859/
+摸金校尉造访龙岭！,http://129.211.14.102:22224/29465863/
+齐天大圣来也,http://129.211.14.102:22224/11352937/
+神貂侠侣·再看陈晓&陈妍希相识,http://129.211.14.102:22224/11352964/
+[洗冤录] 解开每一具尸体的未了之愿,http://129.211.14.102:22224/29465851/
+《云南虫谷》奔跑吧，胡八一!,http://129.211.14.102:22224/11352898/
+刘老根 再难重现的经典好剧,http://129.211.14.102:22224/23652426/
+芦苇微微&一笑奈何,http://129.211.14.102:22224/26355857/
+在哪儿跌倒的还得在哪儿爬起来,http://129.211.14.102:22224/11602088/
+[民兵葛二蛋] 草根英雄逆袭记，笑中带泪的抗战传奇,http://129.211.14.102:22224/11602072/
+《寻秦记》 不看亏大了！,http://129.211.14.102:22224/30080146/
+高分谍战剧[风筝]，送你上路的是你的同志,http://129.211.14.102:22224/30080225/
+黄金圣母烂好人 刘三好,http://129.211.14.102:22224/29465861/
+[全职高手] 叶修，十年荣耀多少过往！,http://129.211.14.102:22224/11352901/
+鉴证实录 早期的港剧，堪称经典,http://129.211.14.102:22224/21241769/
+那年看[还珠格格]的你,现在还好吗?,http://129.211.14.102:22224/30080241/
+03版天龙八部 胡军林志颖刘亦菲,http://129.211.14.102:22224/20985816/
+阔别十年，你是我的荣耀,http://129.211.14.102:22224/11352920/
+赳赳老秦 共赴国难,http://129.211.14.102:22224/11602077/
+经典已成绝响，这么好的剧应该值9分啊,http://129.211.14.102:22224/29982690/
+案发现场 死人会说话,http://129.211.14.102:22224/20432231/
+俺老孙来也 通通闪开,http://129.211.14.102:22224/20985836/
+[漫长的季节] 你愿意一同揭开这个秘密吗？,http://129.211.14.102:22224/11342393/
+鞋儿破，帽儿破，身上的袈裟破,http://129.211.14.102:22224/29982613/
+大师兄，师傅被妖怪抓走了！,http://129.211.14.102:22224/29465860/
+致我最爱的港版西游记，致我的童年,http://129.211.14.102:22224/23829447/
+小别离的真相：当年骂过的爸妈，居然全是对的？！,http://129.211.14.102:22224/29465848/
+星汉灿烂，幸甚至哉！吴磊赵露思疑商夫妇不要太甜,http://129.211.14.102:22224/11336591/
+《巾帼枭雄》最狠名场面！柴九这句台词封神了？,http://129.211.14.102:22224/21059550/
+良心医疗剧 主打的就是一个真实,http://129.211.14.102:22224/11352890/
+刑事侦缉档案,http://129.211.14.102:22224/29465856/
+刑侦剧天花板！靠表情破案，比普通刑侦剧带感 10 倍,http://129.211.14.102:22224/20969130/
+盗墓笔记 重启征程心无惧,http://129.211.14.102:22224/29465897/
+光荣时代，张译变身公安激浊扬清,http://129.211.14.102:22224/30080193/
+[87版红楼梦] 这才是林黛玉！,http://129.211.14.102:22224/30080221/
+僵尸道长-满足你的想象,http://129.211.14.102:22224/23865148/
+经典港剧再现！《刑侦》四季连播，全是童年难忘的回忆！,http://129.211.14.102:22224/23358441/
+吕颂贤版塑造了最好的令狐冲~,http://129.211.14.102:22224/20985791/
+打工毒蛇姐妹花儿,http://129.211.14.102:22224/21059564/
+《公主嫁到》剧情多上头？情节爽感拉满！,http://129.211.14.102:22224/20969101/
+嬴驷刚登基就遇内乱！大秦这局能逆风翻盘吗？,http://129.211.14.102:22224/20985829/
+校园神剧: 一起同过窗,http://129.211.14.102:22224/30080228/
+【超级交通站】抗ri情景喜剧,http://129.211.14.102:22224/11342433/
+东北一家人,http://129.211.14.102:22224/21059634/
+画像师檀健次，一笔一画勾勒罪犯真容，一帧一秒揭开罪案迷雾,http://129.211.14.102:22224/11601962/
+经典系列 辣条好多辣条,http://129.211.14.102:22224/30080219/
+倚天屠龙刀，江湖共此时,http://129.211.14.102:22224/21241819/
+年度好剧，荡气回肠,http://129.211.14.102:22224/21059558/
+杨家兄妹的时代传奇,http://129.211.14.102:22224/26355854/
+贞观就要有贞观的样子,http://129.211.14.102:22224/11602054/
+反套路穿越 江华好帅,http://129.211.14.102:22224/22360453/
+网游超人曾日华来咯,http://129.211.14.102:22224/26355823/
+二刷大秦崛起！白起长平之战名场面封神时刻,http://129.211.14.102:22224/21241790/
+十大悍匪之首,http://129.211.14.102:22224/21241815/
+特战荣耀，燕破岳军旅成长,http://129.211.14.102:22224/30080252/
+为什么说周迅之后再无九儿？《红高粱》答案在这,http://129.211.14.102:22224/20969131/
+香港教科级群像医疗剧 n刷on call,http://129.211.14.102:22224/21241772/
+【荣誉】史上最好看的警匪电视剧,http://129.211.14.102:22224/11342400/
+看姜子牙如何手撕商纣王 封神榜才是天花板,http://129.211.14.102:22224/20432237/
+温柔贤惠和野蛮泼辣的小媳妇,http://129.211.14.102:22224/23734246/
+[外科风云] 陆晨曦能否打开庄恕心结？,http://129.211.14.102:22224/29982672/
+台式言情还是值得重温的,http://129.211.14.102:22224/21059617/
+渣男金燕西！,http://129.211.14.102:22224/21059553/
+汉武大帝缔造千秋伟业,http://129.211.14.102:22224/21241762/
+5个性格各异鲜明的女人,http://129.211.14.102:22224/29982666/
+童年经典 [穆桂英挂帅],http://129.211.14.102:22224/30080248/
+惊悚刺激！离奇案件宋慈该如何破？,http://129.211.14.102:22224/30080167/
+贫嘴读书人的幸福生活,http://129.211.14.102:22224/21059622/
+陆贞传奇,一代女相成长记,http://129.211.14.102:22224/29982670/
+城城天王好嫩啊,http://129.211.14.102:22224/11342434/
+闪灵探案 小时候被吓得不轻,http://129.211.14.102:22224/26355801/
+年度最佳，澳洲之光,http://129.211.14.102:22224/30080239/
+微风孝王都的直播间,http://129.211.14.102:22224/26355794/
+大长今到底有多火,http://129.211.14.102:22224/29982616/
+[与凤行] 本王在此，谁敢放肆,http://129.211.14.102:22224/26355866/
+爷青回！铠甲勇士名场面连播：炎龙侠变身台词 DNA 动了！,http://129.211.14.102:22224/20432235/
+连杀17人最小14岁，史上最变态的食人魔,http://129.211.14.102:22224/30080142/
+给警察戴绿帽子，强行给腹黑男漂白毁三观,http://129.211.14.102:22224/11352914/
+登顶热度第一，这出顶级好戏远不止“出轨”,http://129.211.14.102:22224/11602076/
+【封神英雄】各路神仙佑我新年万事如意~,http://129.211.14.102:22224/26355865/
+小乔治的开挂之路,http://129.211.14.102:22224/11352956/
+黑枪私贩灭口，水中美人切指倒数,http://129.211.14.102:22224/29982671/
+回到开端，进入循环……,http://129.211.14.102:22224/11342397/
+港味暗战 爽  Laughing sir,http://129.211.14.102:22224/20985782/
+天气不如预期但要走总要飞,http://129.211.14.102:22224/11601961/
+白眉大侠演坏人啦！！！！！！,http://129.211.14.102:22224/11352975/
+无声的证据开始掷地有声地说话,http://129.211.14.102:22224/21241787/
+怒海潜沙 秦岭神树,http://129.211.14.102:22224/11342415/
+结尾的简单直接败给潜伏了,http://129.211.14.102:22224/21059620/
+【僵尸】临兵斗者皆阵列在前,http://129.211.14.102:22224/21059571/
+大瓜大瓜：没想到你是这样的猪,http://129.211.14.102:22224/11342436/
+九阴真经的终极 BUG，金庸到死都不敢写！,http://129.211.14.102:22224/20969099/
+僵尸国度 B级片元素大爆,http://129.211.14.102:22224/11352947/
+使徒行者 除了大佬都是卧底,http://129.211.14.102:22224/21241841/
+谁被这对 “真假千金” 骗了十几年？,http://129.211.14.102:22224/26355848/
+话不多的人表起白来最为致命,http://129.211.14.102:22224/21059596/
+孙俪 职场大女主,http://129.211.14.102:22224/21241800/
+快乐星球 冰柠檬莲蓉包，快乐我来啦,http://129.211.14.102:22224/21059600/
+尺度上天，网飞狠剧！异装癖连环杀人魔,http://129.211.14.102:22224/20969145/
+子华的经典情景喜剧,http://129.211.14.102:22224/29982651/
+[怒晴湘西] 探秘湘西千年古墓，揭秘怒晴鸡与六翅蜈蚣的惊世对决,http://129.211.14.102:22224/11602075/
+《天地男儿》全员演技派有多绝？港剧黄金时代的缩影！,http://129.211.14.102:22224/20969141/
+一个无情站起来，千百个温迷倒下去！,http://129.211.14.102:22224/30080141/
+[济公] 经典古装喜剧,http://129.211.14.102:22224/26355765/
+中式教育的缩影,http://129.211.14.102:22224/20985860/
+穷小子逆袭成大富豪 却丢了最爱的人,http://129.211.14.102:22224/29982646/
+平淡日常包裹深沉亲情,http://129.211.14.102:22224/21059567/
+小时候真的很喜欢天天有喜,http://129.211.14.102:22224/23865025/
+值得一看再看的经典之作,http://129.211.14.102:22224/29982695/
+早期的港产破案才是yyds,http://129.211.14.102:22224/21241838/
+你可以和燕洵谈恋爱,但一定要嫁给宇文玥,http://129.211.14.102:22224/19285234/
+溏心风暴 豪门修罗场,http://129.211.14.102:22224/29982615/
+天涯明月刀 武林风云,http://129.211.14.102:22224/30080162/
+一拳一赌，双男主争女主,http://129.211.14.102:22224/30080235/
+中二热血魂 篮球火,http://129.211.14.102:22224/20985781/
+隋唐好汉排名全是骗局！真正的第一藏不住了！,http://129.211.14.102:22224/29465893/
+再好的迷彩，也藏不住你那颗言情的心,http://129.211.14.102:22224/11352910/
+从这部剧喜欢上的段奕宏，那年我10岁,http://129.211.14.102:22224/275931/
+顾晓梦夺妻战,http://129.211.14.102:22224/21059605/
+侠肝义胆 重情重义,http://129.211.14.102:22224/24843509/
+无心fa师2,暗黑萝莉岳绮罗回归,http://129.211.14.102:22224/30080233/
+我有一个朋友 适合小孩儿看,http://129.211.14.102:22224/20985790/
+游击队·抗日战争,http://129.211.14.102:22224/11352936/
+[有翡] 江湖来去，一生自由！,http://129.211.14.102:22224/29982668/
+最早的玛丽苏 公主小妹,http://129.211.14.102:22224/21241843/
+欧阳胖胖的古代探案之路,http://129.211.14.102:22224/21610797/
+金庸武侠 DNA 动了！张无忌的江湖道义，越看越上头,http://129.211.14.102:22224/24314163/
+看過很多遍 特喜欢张卫健。,http://129.211.14.102:22224/26355831/
+国产乡村剧的天花板,http://129.211.14.102:22224/21241831/
+杨紫演技封神！小夭从玟小六到王姬的成长之路,http://129.211.14.102:22224/20969118/
+梁朝伟江湖风云再现！不可超越的绝代双骄~,http://129.211.14.102:22224/29982627/
+武媚娘 范爷美美美,http://129.211.14.102:22224/880207/
+鱿yu游戏2: 爆款回归，刺激大逃杀又来了！,http://129.211.14.102:22224/30080152/
+热血军营女孩诞生记,http://129.211.14.102:22224/21241844/
+李少红版贾宝玉林黛玉,http://129.211.14.102:22224/20985783/
+以安史之乱为骨 儿女情长为肉,http://129.211.14.102:22224/20985788/
+铁血大旗门惨遭灭men之祸,http://129.211.14.102:22224/11352953/
+马三炮的八嘎八嘎真搞笑,http://129.211.14.102:22224/21059545/
+有点像太阳的后裔设定,http://129.211.14.102:22224/20985779/
+海鸟和鱼相爱只是一场意外,http://129.211.14.102:22224/30307160/
+烧焦骸骨也能辨身份？《法证 4》里的逆天鉴证黑科技,http://129.211.14.102:22224/29982617/
+吸血鬼日记 好复杂的关系编剧您辛苦了,http://129.211.14.102:22224/26355821/
+看得很感动啊，棒子拍剧还是有点东西,http://129.211.14.102:22224/21059568/
+打破仙妖偏见！《神隐》看元启阿音从互坑到共护三界,http://129.211.14.102:22224/21241837/
+苏幻儿名场面重温~古代先婚后爱天花板来了！,http://129.211.14.102:22224/20985827/
+反恐特警组 下饭剧,http://129.211.14.102:22224/15482686/
+在世界末日时的求生指南,http://129.211.14.102:22224/30080195/
+【僵尸剧神作】钱小豪X郑秀文,http://129.211.14.102:22224/24314160/
+谁是你的聂小倩,http://129.211.14.102:22224/26355822/
+废柴少爷谭云变身鸿蒙至尊 一路开挂,http://129.211.14.102:22224/21059591/
+仙侠虐恋[香蜜沉沉烬如霜],http://129.211.14.102:22224/30080182/
+热巴化身顶尖安保,http://129.211.14.102:22224/11352948/
+东游记 想当年超喜欢何仙姑,http://129.211.14.102:22224/20969135/
+秋瓷炫古装颜值巅峰！叶莲公主的打戏 + 哭戏双暴击,http://129.211.14.102:22224/27564478/
+男主比女主穷，颠覆了我的认知,http://129.211.14.102:22224/11601964/
+金智媛美到窒息！剧情高能预警！,http://129.211.14.102:22224/23863787/
+终于有一部电视剧把长征的伟大展现出来！,http://129.211.14.102:22224/21241813/
+女子之道 道阻且长,http://129.211.14.102:22224/23903183/
+漫威zui夯科幻剧,http://129.211.14.102:22224/23863778/
+国产连续剧黑暗之源，陈道明反派巅峰,http://129.211.14.102:22224/10875560/
+一骑绝尘逆水寒 你是一支射向我芳心的箭,http://129.211.14.102:22224/11342392/
+锅盖头空军特战队,http://129.211.14.102:22224/20432236/
+扶摇＋长孙无极就是天选CP！幂天组合名场面,http://129.211.14.102:22224/21059573/
+太平公主与武则天,http://129.211.14.102:22224/21059598/
+我的青春 我的斗破,http://129.211.14.102:22224/11602042/
+王艳的孙蝶真的好美！,http://129.211.14.102:22224/11342420/
+长沙逼事多 长沙靠姐夫,http://129.211.14.102:22224/29982626/
+空战群英 出色的二战空战动作剧情片,http://129.211.14.102:22224/30080166/
+经典武侠-雪山飞狐 黄日华版,http://129.211.14.102:22224/23734176/
+[说英雄谁是英雄] 乱世风云起，谁将笑傲江湖？,http://129.211.14.102:22224/11601979/
+经典永流传!重温大家族的兴衰沉浮~,http://129.211.14.102:22224/23358421/
+硬核狠人，爽到逆天，老炮我只信史泰龙！,http://129.211.14.102:22224/21241763/
+沙包那么大的拳头配上灰色脑细胞,http://129.211.14.102:22224/23734211/
+从青丝变白发到身世反转，狗血但为啥这么上头？,http://129.211.14.102:22224/20985837/
+北平城最后的烟火气！老北京味儿太浓了,http://129.211.14.102:22224/20985815/
+全程高能 游戏输了就得死,http://129.211.14.102:22224/22129776/
+[雪鹰领主] 傲雪凌霜、战鹰超凡！,http://129.211.14.102:22224/11352895/
+原班人马才是王道！邢昭林梁洁的吻戏甜到犯规,http://129.211.14.102:22224/24314162/
+大清盐商 小格局版的大明王朝,http://129.211.14.102:22224/651536/
+赵丽颖古装封神！周翡的霸气与温柔全回顾,http://129.211.14.102:22224/24314158/
+星战“亲闺女”阿索卡 劣质产品毁口碑,http://129.211.14.102:22224/23863822/
+you鱼游戏 来看看到底烂尾没,http://129.211.14.102:22224/20969128/
+白素贞许仙 千年爱恋,http://129.211.14.102:22224/21241798/
+超级英雄界的打工人,http://129.211.14.102:22224/20985766/
+食戟之灵军旅版 人生就是打怪闯关,http://129.211.14.102:22224/20985832/
+上海滩每个人的的故事,http://129.211.14.102:22224/29465899/
+谁懂啊！20 年了《创世纪》还是商战剧天花板！,http://129.211.14.102:22224/20985843/
+渣渣辉演的男主剧,http://129.211.14.102:22224/20985835/
+社会基层小人物的生活,http://129.211.14.102:22224/30080139/
+每年都看 秀智真美,http://129.211.14.102:22224/20432221/
+曼达洛人衍生剧 找回了星战最本质的趣味,http://129.211.14.102:22224/20985764/
+人犬共谱的军旅喜剧,http://129.211.14.102:22224/29465890/
+刘海戏金蟾,陈浩民穆婷婷降妖除魔,http://129.211.14.102:22224/29465878/
+童年的经典 最好的哪吒,http://129.211.14.102:22224/21241817/
+太极宗师 最是那回眸一笑,http://129.211.14.102:22224/11342438/
+这帮人要是安安分分坐牢，现在都刑满释放了,http://129.211.14.102:22224/20985847/
+熊熊还是那么可爱又黄暴,http://129.211.14.102:22224/21059528/
+来看妈妈桑如何资产过亿,http://129.211.14.102:22224/21241789/
+斗牌传说 麻将真是博大精深的游戏,http://129.211.14.102:22224/26355783/
+犀利仁师 吴奇隆刘诗诗古装喜剧,http://129.211.14.102:22224/23865036/
+【CSI犯罪现场调查】经典悬疑犯罪美剧,http://129.211.14.102:22224/20985825/
+用24h的手法拍急诊室真是个绝妙的主意,http://129.211.14.102:22224/23903152/
+气体人 林青霞联合赵本山活捉达康书记,http://129.211.14.102:22224/20985865/
+足球教练 重生之我在英超当教练,http://129.211.14.102:22224/20969120/
+古惑仔训练营里搞学习？流氓读书会太沙雕了,http://129.211.14.102:22224/20985854/
+一天一天贴近你的心 你开心我安心,http://129.211.14.102:22224/20985803/
+悬疑迷必看！神探夏洛克给你一一揭秘！,http://129.211.14.102:22224/29982642/
+震惊 竟然可以用跳舞救人！！,http://129.211.14.102:22224/11601972/
+皇朝太医 | 皇上看病也得排队,http://129.211.14.102:22224/20985842/
+新洛神 三国权谋 + 儿女情长双暴击,http://129.211.14.102:22224/21241770/
+李莲英 太监版金枝欲孽,http://129.211.14.102:22224/24884646/
+楚留香 风流盗帅 美女如云的一部,http://129.211.14.102:22224/20969124/
+真武侠 看男子情长,http://129.211.14.102:22224/19077705/
+星球大战史上最好的衍生剧《安多》,http://129.211.14.102:22224/26355798/
+禁忌女孩03,http://129.211.14.102:22224/11352887/
+我们冰与火之歌自己的曼达洛人,http://129.211.14.102:22224/26355800/
+年轻神父与恶魔约架10秒被KO引热议,http://129.211.14.102:22224/20985794/
+容嬷嬷的戏路真的很宽很宽,http://129.211.14.102:22224/21241785/
+云海玉弓缘 好多美女啊,http://129.211.14.102:22224/21059616/
+认识二十多年的闺蜜竟然是杀手,http://129.211.14.102:22224/30080137/
+看完就空虚 见人就安利,http://129.211.14.102:22224/26355845/
+父辈都在铁路 这个电视剧我家三代人在追,http://129.211.14.102:22224/880241/
+没有老白和小粉，Saul照样独撑一片天,http://129.211.14.102:22224/23903142/
+世界有多正经 末日就有多荒诞,http://129.211.14.102:22224/20969111/
+中偶标杆 女性群像,http://129.211.14.102:22224/23735181/
+于无声处 为什么男二总是惹人爱,http://129.211.14.102:22224/29982619/
+奇幻武侠盛宴！看武侠世界的虐恋传奇~,http://129.211.14.102:22224/23358431/
+我靠，你怎么知道我治疗针都是在厕所找的,http://129.211.14.102:22224/23863882/
+我生来就是高山 张校长配享太庙,http://129.211.14.102:22224/20969102/
+孙俪演技封神之作！看小人物的坎坷之路，备好纸巾~,http://129.211.14.102:22224/29465885/
+铁拳教育 解压爽剧以暴制暴,http://129.211.14.102:22224/23865186/
+睁眼看到gui，共破奇案……,http://129.211.14.102:22224/26355763/
+黄小桃和大幂幂这么认真还不习惯呢,http://129.211.14.102:22224/24884587/
+保镖+特工+飙车+枪战,http://129.211.14.102:22224/29465884/
+这届丧尸跑得太快了8,http://129.211.14.102:22224/30080198/
+陈道明名场面！勾践的 “忍”，比 “灭吴” 更值得细品！,http://129.211.14.102:22224/20985853/
+关山万里路 拔剑起长歌,http://129.211.14.102:22224/11352959/
+曲三更破案,http://129.211.14.102:22224/21059595/
+画皮 薛凯琪化身绝美狐妖​,http://129.211.14.102:22224/20985826/
+在这个故事里，女性的身体不属于自己,http://129.211.14.102:22224/21028268/
+风云年代 虚构的人物 真实的战场,http://129.211.14.102:22224/21059635/
+怀玉公主 童年回忆 全家人追着看,http://129.211.14.102:22224/21059549/
+寡妇湾 迷雾缠绕的孤岛 代代流传的海难诅咒,http://129.211.14.102:22224/23352530/
+撕开豪门遮羞布！《巨人》里的恩怨比你想的更狠,http://129.211.14.102:22224/26355776/
+双双背德 台剧尺度真大,http://129.211.14.102:22224/29982662/
+三少爷的剑,何中华俞飞鸿经典武侠,http://129.211.14.102:22224/30080175/
+重温儿时经典 三毛流浪记,http://129.211.14.102:22224/20985799/
+架空世界 太空探索！！！,http://129.211.14.102:22224/29982654/
+看完《毒枭》才懂什么叫魔幻现实主义,http://129.211.14.102:22224/20969117/
+纯粹用拳头说话的男人,http://129.211.14.102:22224/20985812/
+传奇皇帝朱元璋,http://129.211.14.102:22224/29982665/
+超级英雄全TM是流氓恶棍 更新第五季,http://129.211.14.102:22224/20969137/
+剧版cod，真鸡儿爽啊,http://129.211.14.102:22224/21241807/
+谁的青春有《克拉恋人》？唐嫣罗晋经典 CP 再聚首,http://129.211.14.102:22224/24609822/
+平平无奇古天乐 白古真帅啊,http://129.211.14.102:22224/23652238/
+最美版本的灭绝 最丑的周芷若,http://129.211.14.102:22224/30080143/
+懵懂少年时,http://129.211.14.102:22224/21059633/
+边骂边看!顶楼今天到底谁领盒饭！,http://129.211.14.102:22224/23865072/
+暗黑灰姑娘反杀之路,http://129.211.14.102:22224/11352918/
+95版武则天  少女的稚气 女皇的霸气,http://129.211.14.102:22224/20969136/
+中国首部女性犯罪电视剧 播放时收视率高达23%,http://129.211.14.102:22224/22188414/
+电话亭一枪定生死,http://129.211.14.102:22224/20985844/
+浴血黑帮1-6，暴爽英剧！,http://129.211.14.102:22224/29982659/
+燃哭！是谁的爱国DNA懂动了？,http://129.211.14.102:22224/20985784/
+最喜欢这种大场面的动作戏了，追剧走起！,http://129.211.14.102:22224/21241816/
+凤九和帝君注定情深缘浅,http://129.211.14.102:22224/21241797/
+肖战唐三 斗罗黑马剧,http://129.211.14.102:22224/26355816/
+娜扎好美 男的也是个男的,http://129.211.14.102:22224/24888173/
+陆判 乾坤 恒娘 连锁 叶生 绿衣女,http://129.211.14.102:22224/20969121/
+超强国产奇幻剧，石坚小龟大冒险,http://129.211.14.102:22224/11601982/
+弗兰克教您成大事先成伪君子,http://129.211.14.102:22224/20985845/
+安幼舆和小鹿子的一世情缘,http://129.211.14.102:22224/21059575/
+石破天身世之谜！89 版侠客行才是真江湖,http://129.211.14.102:22224/29982656/
+黄晓明版韦小宝,http://129.211.14.102:22224/11342388/
+双响炮 粉红女郎姊妹篇,http://129.211.14.102:22224/29982652/
+那个年代的故事很真实,http://129.211.14.102:22224/23829537/
+那些拥有过的青春,http://129.211.14.102:22224/21241786/
+狙击对决天花板 一根头发定生死,http://129.211.14.102:22224/21241825/
+这才是最经典的天龙八部,http://129.211.14.102:22224/20985776/
+重口又刺激，这部猎奇新剧每一集都在挑战感官极限,http://129.211.14.102:22224/21241782/
+彼时佘诗曼真是美到极处,http://129.211.14.102:22224/11602037/
+这个“完美家庭”背后藏着不为人知的阴暗面,http://129.211.14.102:22224/23863809/
+重口味丧尸剧尺度贼大！,http://129.211.14.102:22224/20969140/
+《杀手妈咪》：育儿比杀人更令人胆战心惊？,http://129.211.14.102:22224/30080153/
+48人困在孤岛，救援队到底还会来吗,http://129.211.14.102:22224/20985866/
+美剧史诗巨作《权力的游戏》第13期,http://129.211.14.102:22224/13303478/
+【龙珠超】第六、七宇宙的赛亚人之战11,http://129.211.14.102:22224/10279885/
+《未麻的部屋》豆瓣9.1，日本顶级成人动画，大师封神之作！,http://129.211.14.102:22224/16028551/
+奇幻电影《永生守卫》,http://129.211.14.102:22224/15152155/
+完温子仁导演，根据真实事件改编的恐怖惊悚电影《招魂》,http://129.211.14.102:22224/16144175/
+天龙4：木婉清摘下面纱，露出绝美容颜，段誉直接看呆了,http://129.211.14.102:22224/21674665/
+这才叫高智商犯罪片，“憨豆先生”化身名侦探，破获小镇连环命案,http://129.211.14.102:22224/19863777/
+【火影重置版22】（1）鹿丸复仇战！鸣人VS角都！风遁螺旋手里剑！——不死二人组篇2,http://129.211.14.102:22224/17269326/
+美猴王,http://129.211.14.102:22224/30296971/
+老李的意大利炮,http://129.211.14.102:22224/28078466/
+细读经典 69: 假戏真做的人性寓言《色•戒》,http://129.211.14.102:22224/11774959/
+730-734,http://129.211.14.102:22224/16913382/
+僵尸福星第20期,http://129.211.14.102:22224/18441722/
+风浪越大鱼越贵,http://129.211.14.102:22224/30277823/
+太平洋绞肉机：《硫磺岛战役》,http://129.211.14.102:22224/15321830/
+高智商犯罪片《少年汉尼拔》,http://129.211.14.102:22224/16857432/
+一口气看完龙珠GT_23,http://129.211.14.102:22224/16755322/
+7,http://129.211.14.102:22224/25650806/
+《鬼娃回魂》重启版,http://129.211.14.102:22224/23419131/
+史上最骚最燃解说！进来一起燃！,http://129.211.14.102:22224/16162176/
+96-97四战 《鸣人脚踢求道玉》,http://129.211.14.102:22224/25818873/
+三大宇宙主力合力对敌，新的危机即将出现！04,http://129.211.14.102:22224/18632116/
+动漫解说一口气看完《龙珠超》,http://129.211.14.102:22224/19757963/
+绝命律师3-3，隐藏最深的大佬炸鸡叔登场，这气场绝对不一般,http://129.211.14.102:22224/20488841/
+10人荒野求生，有人自制箭矢搞黑熊，有人钓鱼接连上巨物，纪录片,http://129.211.14.102:22224/28806637/
+最让人痛快的一集，乌鸦笑面虎自食恶果，最终玩火自焚,http://129.211.14.102:22224/30373013/
+充满黑色幽默的韩国电影，男子残忍杀狗，最后竟当上教授,http://129.211.14.102:22224/16424416/
+一口气看完荒野独居第五季，连竿九条野鲫鱼、狩猎肥美松鸡,http://129.211.14.102:22224/28556708/
+五月天的每一首歌曲都是那么的经典，都是那么容易让人陷入回忆,http://129.211.14.102:22224/17091681/
+84分钟一口气看完经典警匪剧《征服》，了解悍匪刘华强的罪恶一生,http://129.211.14.102:22224/30373462/
+龙珠剧场版7；超级赛亚人拟态出现那美克星人史拉格来袭,http://129.211.14.102:22224/26510802/
+一根华子引发的惨案，超燃动作爽片 #希瓦  #电影    #一剪到底,http://129.211.14.102:22224/29420446/
+《乔我说》海贼王23,http://129.211.14.102:22224/17941367/
+773.第15集｜朱元璋犯霉运，不断遭人陷害,http://129.211.14.102:22224/29868594/
+德花初来乍到，姑嫂矛盾不断！9.5分国产家庭剧《父母爱情》2,http://129.211.14.102:22224/15894162/
+一部60年前的科幻小说《请安静点》如何创造出一个静音的世界,http://129.211.14.102:22224/17105786/
+吴京大战邹早龙！战狼完败！国内首部变种人题材电影！,http://129.211.14.102:22224/16507906/
+飞机上出现致命传染病，豪斯高能破解谜团！——《豪斯医生》,http://129.211.14.102:22224/24778726/
+【YES小哥】《卤味》,http://129.211.14.102:22224/14363949/
+女性生来就应担当的角色，是她自己。,http://129.211.14.102:22224/30277705/
+学什么专业最容易脱单？,http://129.211.14.102:22224/10849208/
+《蚁人》，可大可小的超级英雄，让很多人很是羡慕,http://129.211.14.102:22224/25523725/
+《光环4》;士官长跨越种族的爱情，士官长与Cortana的世,http://129.211.14.102:22224/18715610/
+我的兄弟叫顺溜姐妹篇 我的父亲是板凳,http://129.211.14.102:22224/30292047/
+【权力的游戏】雪诺故事线06-黑城堡之战,http://129.211.14.102:22224/17943364/
+男孩被拐卖了五年，就连亲生父亲也认不出来 #刘涛 #于和伟 #霸道总裁 #因为一个片段看了整部剧,http://129.211.14.102:22224/11593369/
+小偷偷东西被恶魔GANK,http://129.211.14.102:22224/15966357/
+速看惊悚科幻,http://129.211.14.102:22224/16865726/
+经济压力，公寓噪音，房价崩盘，背上巨额房贷的韩国小伙立正了,http://129.211.14.102:22224/15870999/
+高科技部队与幽灵厮杀，6分钟看科幻惊悚片《幽冥》,http://129.211.14.102:22224/15494057/
+连城诀12,http://129.211.14.102:22224/30298490/
+和平精英真人版：awm和急救包还可以这样用？菜鸟学了也能吃鸡,http://129.211.14.102:22224/18390254/
+110分钟一口气看完世纪悍匪张世豪,http://129.211.14.102:22224/30363916/
+鱼丸电影更新啦！（盲证）,http://129.211.14.102:22224/16615910/
+第2集|曾经的黑帮暴徒金盆洗手，为了家人重出江湖 #动作复仇,http://129.211.14.102:22224/29458834/
+被扔到荒岛1500天，他创造了人类奇迹《荒岛余生》,http://129.211.14.102:22224/21277391/
+我要意大利炮,http://129.211.14.102:22224/30287258/
+10人蒙古荒野求生，为赢得百万大奖，菜鸟连续二十多天吃树皮充饥 #野外生存   #荒野独居  #纪录片充电计划,http://129.211.14.102:22224/29468771/
+国产警匪片巅峰，哪有什么岁月静好，只不过是有人替我们负重前行,http://129.211.14.102:22224/23304691/
+谁说哈士奇只会拆家的，看看多哥都干了些什么！,http://129.211.14.102:22224/24396323/
+这电影解说绝了,http://129.211.14.102:22224/27693540/
+火影人物志,http://129.211.14.102:22224/20236200/
+泰兰特狂欧奥特曼5兄弟，佐菲、初代、杰克、赛文纷纷倒下了！,http://129.211.14.102:22224/24614407/
+一起看纪晓岚调戏和珅,http://129.211.14.102:22224/30297011/
+自己干翻一头熊，儿子被队友杀害，只有活着才能报仇！《荒野猎人》,http://129.211.14.102:22224/24396474/
+172.58 汉景帝强势废黜太子刘荣,http://129.211.14.102:22224/19505458/
+甄子丹十部最经典电影，21世纪00年代的动作巨星,http://129.211.14.102:22224/21388479/
+是真男人就来挑战极限！,http://129.211.14.102:22224/29982632/
+爆笑综艺[五哈]1-4季来了~,http://129.211.14.102:22224/30080247/
+奔跑不停歇 笑哈哈下饭神器,http://129.211.14.102:22224/29465870/
+跑男1-4季，gogogo出发咯~,http://129.211.14.102:22224/29465875/
+易中天品三国,http://129.211.14.102:22224/11602032/
+重温春晚爆笑经典小品,http://129.211.14.102:22224/11602068/
+现在就出发1: 显眼包大集结！,http://129.211.14.102:22224/21059551/
+RM 刘在石李光洙跑男,http://129.211.14.102:22224/11336725/
+[脱口秀大会4] doing what呢？,http://129.211.14.102:22224/30080243/
+中国通史-上下五千年,http://129.211.14.102:22224/20985822/
+毛雪汪的沙发唠嗑局，藏着超多好笑的梗,http://129.211.14.102:22224/21059580/
+特摄片爱好者无条件高分,http://129.211.14.102:22224/11352955/
+来桃花坞，感受世外桃源,http://129.211.14.102:22224/29465869/
+鸡条到底经历了什么,http://129.211.14.102:22224/23352563/
+青环1-5，杨迪又偷题了？,http://129.211.14.102:22224/30080246/
+宋小宝施诡计耍赖破坏棋局,http://129.211.14.102:22224/11352907/
+刘小光·捧腹大笑哈哈哈哈,http://129.211.14.102:22224/11352938/
+天赐5,超多爆火歌曲, 一起来听！,http://129.211.14.102:22224/30080249/
+真爱在哪 相亲行不行,http://129.211.14.102:22224/20985780/
+欢乐喜剧人 一起笑哈哈,http://129.211.14.102:22224/30080194/
+经典，近期最好的电视剧,http://129.211.14.102:22224/21059578/
+沈腾宋小宝综艺的神~千万别吃饭的时候看 笑吐！,http://129.211.14.102:22224/21241812/
+[荒野求生] 跟着贝爷去探险！,http://129.211.14.102:22224/30080237/
+我为即兴喜剧打call  你乐呵了不,http://129.211.14.102:22224/20969093/
+还有喜欢看爱情保卫战的人吗？,http://129.211.14.102:22224/29465877/
+大招是一秒变光头,http://129.211.14.102:22224/11602065/
+[4K超清]美女T台秀，好身材就该秀出来,http://129.211.14.102:22224/18501378/
+相声battle 有请你来,http://129.211.14.102:22224/20985830/
+贝爷 极限重生04,http://129.211.14.102:22224/20969143/
+他会转身嘛,http://129.211.14.102:22224/21241845/
+甜度超标预警！《心动 6》小屋暧昧瞬间逐帧磕,http://129.211.14.102:22224/24314157/
+原始技术·小哥徒手建造温馨家园,http://129.211.14.102:22224/20985807/
+救命！这期娱乐百分百嘉宾直接爆料？,http://129.211.14.102:22224/21059569/
+最强大脑7-12季，测测智商,http://129.211.14.102:22224/29465880/
+坞民集合！宋丹丹追问张翰 “代表作”，笑不活了！,http://129.211.14.102:22224/20969125/
+笑到捶墙！杨迪沙溢客栈互怼名场面预警,http://129.211.14.102:22224/24609812/
+超英界东邪西毒,http://129.211.14.102:22224/23903164/
+帅哥美女怎么连打游戏都这么厉害呀,http://129.211.14.102:22224/20985869/
+看完咸鱼也能爱上运动~,http://129.211.14.102:22224/29982618/
+没钱没时间旅游？在家就游遍中国了！,http://129.211.14.102:22224/29982630/
+[高能少年团1-2] 王俊凯刘昊然对抗挑战,http://129.211.14.102:22224/29982609/
+二十四小时1-3,陈坤徐峥领衔下西洋,http://129.211.14.102:22224/29982610/
+氪金农场之开着兰博基尼去种地,http://129.211.14.102:22224/20432223/
+新西游记 笑掉头系列,http://129.211.14.102:22224/24879365/
+啥都不做都好好笑,http://129.211.14.102:22224/23865124/
+神奇又搞笑！王嘉尔搞笑石锤？,http://129.211.14.102:22224/20985785/
+童年经典·蜡笔小新欢乐多,http://129.211.14.102:22224/11352970/
+国语版柯南，点到哪集看哪集,http://129.211.14.102:22224/30080148/
+【海绵宝宝】黄方块的爆笑生活~,http://129.211.14.102:22224/11352919/
+斗宗强者，莫欺少年穷！,http://129.211.14.102:22224/11336572/
+武魂世界充满了血腥和危险,http://129.211.14.102:22224/11352906/
+成龍历险记·社会我阿福乌鸦坐飞机,http://129.211.14.102:22224/11352946/
+柯南剧场版，真相只有一个！,http://129.211.14.102:22224/30080236/
+【猫和老鼠】汤姆和杰瑞的故事,http://129.211.14.102:22224/11352879/
+网球王子·费德勒看了想打人,http://129.211.14.102:22224/11352882/
+【Blue胖】你看得到我的腿吗,http://129.211.14.102:22224/11601963/
+你相信光吗,http://129.211.14.102:22224/11601966/
+冲啊！四驱兄弟 嘴控大战,http://129.211.14.102:22224/11352922/
+罗峰开挂成长之路又来啦,http://129.211.14.102:22224/23902242/
+国漫打戏天花板，异人也！,http://129.211.14.102:22224/11352869/
+全职高手1-3,电竞IP国漫,http://129.211.14.102:22224/21059628/
+仙逆:灭藤之战好爽，王林杀疯了！,http://129.211.14.102:22224/30080215/
+一念斩千魔，一念诛万仙,http://129.211.14.102:22224/21059592/
+斗气化马，竟恐怖如斯,http://129.211.14.102:22224/29465865/
+【樱桃小丸子】我家很穷,http://129.211.14.102:22224/11342394/
+黑子的篮球3,奇迹的世代！,http://129.211.14.102:22224/30080253/
+魔法少女，收集库洛牌吧,http://129.211.14.102:22224/21059587/
+吃我皮神十万伏特！,http://129.211.14.102:22224/29465874/
+从最弱 E 级猎人到暗影君主，全程爽到跺脚,http://129.211.14.102:22224/29465847/
+说到做到，这就是我的忍道！,http://129.211.14.102:22224/29465866/
+[不良人6]李星云死了?看不良人如何反击李嗣源,http://129.211.14.102:22224/30080218/
+5庚纪，究极人神之战,http://129.211.14.102:22224/26355862/
+高级哺乳动物！迅速整齐行动力！,http://129.211.14.102:22224/11601977/
+宫崎骏 有我的梦想和青春,http://129.211.14.102:22224/21059614/
+日本动画电影  感受极致美学,http://129.211.14.102:22224/30080242/
+全职猎人: 谁是最强者？,http://129.211.14.102:22224/30080254/
+天澜魔法高中的热血青春！,http://129.211.14.102:22224/26355772/
+圣魔大陆龙皓晨,http://129.211.14.102:22224/26355828/
+[地灵曲] 动画版鬼吹灯,http://129.211.14.102:22224/30080216/
+防风少年 中二就是燃,http://129.211.14.102:22224/11352961/
+【双城之战】英雄联盟超燃动画！,http://129.211.14.102:22224/23903196/
+秦尘 以武证道 武道主宰,http://129.211.14.102:22224/20985798/
+涩涩小当家超出预期 饭里下了药吧,http://129.211.14.102:22224/26355796/
+卖完海味卖月饼 现在是奶茶王,http://129.211.14.102:22224/29982614/
+民调局异闻录10集,http://129.211.14.102:22224/26355820/
+和五条悟结婚就现在,http://129.211.14.102:22224/21059561/
+倒海 降妖 镇魔 敕神 摘星 摧城 开天 剑来,http://129.211.14.102:22224/20985792/
+开开心心每一天 合家欢动画片,http://129.211.14.102:22224/11601958/
+红娘妖狐神助攻,http://129.211.14.102:22224/11352967/
+舔屏预警！遮天年番：狠人大帝建模名场面，这才是女帝排面！,http://129.211.14.102:22224/20432229/
+今天的风儿很喧嚣,隔壁商店的薯片要不要,http://129.211.14.102:22224/20985858/
+阿珍爱上了阿强 伍六七又贱又好看,http://129.211.14.102:22224/20985805/
+少年歌行: 一起去闯荡江湖！,http://129.211.14.102:22224/29982667/
+芳缘大陆的冒险，盖欧卡古拉顿,http://129.211.14.102:22224/11602069/
+没看过马男的可以反思反思,http://129.211.14.102:22224/21059586/
+紫川——戎马一生 归去何从,http://129.211.14.102:22224/29982661/
+游戏时间到了！黑暗伽大门已经为你打开！,http://129.211.14.102:22224/20985856/
+荒天帝石昊又又又来也,http://129.211.14.102:22224/11336579/
+瑞克与莫蒂1-6，科幻动画神作,http://129.211.14.102:22224/29982655/
+林修 驭兽之力 挑战命运,http://129.211.14.102:22224/20969126/
+超级CULT.史上主角疯子最多的片子,http://129.211.14.102:22224/20985787/
+[一念永恒] 白小纯点香啦,http://129.211.14.102:22224/30080223/
+世界杯来啦 封闭逃杀× 足球选秀,http://129.211.14.102:22224/26355785/
+希望能用动画 传递快乐的力量！,http://129.211.14.102:22224/26355818/
+热血、羁绊与忍道的传奇之旅,http://129.211.14.102:22224/20985833/
+炸屏了！从未出现过的科幻神作，特效炸裂的无法想象!,http://129.211.14.102:22224/11352951/
+可爱萌系黑色猫妖罗小黑,http://129.211.14.102:22224/24314159/
+当神龙斗士觉醒！全程高能....!,http://129.211.14.102:22224/21241839/
+灵界侦探浦饭幽助,http://129.211.14.102:22224/11602034/
+写给大人的梦想和热血,http://129.211.14.102:22224/21059613/
+刘关张三活宝，Q版世界大爆笑,http://129.211.14.102:22224/29465871/
+辛逝纪芙音战士,http://129.211.14.102:22224/21059570/
+齐神 超能力就是用来打脸的,http://129.211.14.102:22224/20985831/
+神奇宝贝换一种开局真挺新鲜,http://129.211.14.102:22224/21241784/
+兄妹情深不弃 人鬼殊途互杀,http://129.211.14.102:22224/29982624/
+反叛的鲁路修：中二少年的叛逆史诗,http://129.211.14.102:22224/20969113/
+魔道祖师: 忘羡一曲远,http://129.211.14.102:22224/30080217/
+小时候就怀疑他是不是他爸爸的孩子,http://129.211.14.102:22224/20969114/
+十万年炼气终爆发！一招横扫正邪两派,http://129.211.14.102:22224/24314021/
+确诊绝症后我反而活明白了,http://129.211.14.102:22224/21241793/
+神番 想要成为影之实力者,http://129.211.14.102:22224/29982605/
+小时候没看懂的梗，现在看更爆笑！,http://129.211.14.102:22224/20985773/
+这一次是名副其实的杀人足球,http://129.211.14.102:22224/20969095/
+神作！钢之炼金术师FA,http://129.211.14.102:22224/20985859/
+谁的青春没有为《第一神拳》的坚持热泪盈眶,http://129.211.14.102:22224/26355789/
+超自然武装当哒当 和美女组队打怪,http://129.211.14.102:22224/20985850/
+说一段神话，话说那么一家,http://129.211.14.102:22224/26355782/
+无上神帝 仙王重生变废柴？,http://129.211.14.102:22224/11352892/
+谁再说我是不可燃物？！,http://129.211.14.102:22224/11352974/
+不是重生，而是毁灭,http://129.211.14.102:22224/29465891/
+应该比足球小将要真实一些吧,http://129.211.14.102:22224/23734234/
+豆瓣 9.4 分封神！《虫师》冷门宝藏动漫,http://129.211.14.102:22224/21241791/
+经典动漫电影 狂王来了！,http://129.211.14.102:22224/24884368/
+头文字D·秋名山车神,http://129.211.14.102:22224/11352889/
+细节狂魔的盛宴：在血色德里镇里磕CP,http://129.211.14.102:22224/23865132/
+妖神记 聂离后宫传,http://129.211.14.102:22224/20969123/
+刀光铺就的世界 现实虚拟的热血冒险,http://129.211.14.102:22224/21241801/
+３.５★漏洞百出的抢劫戏,http://129.211.14.102:22224/26355846/
+逆袭爽番 林动的开挂人生,http://129.211.14.102:22224/29982658/
+一只松鼠引发的灾难,http://129.211.14.102:22224/21059554/
+一个弟子开挂 负责毁天灭地,http://129.211.14.102:22224/29982628/
+最新岛国动画大片,http://129.211.14.102:22224/26355787/
+和EVA一起长大,http://129.211.14.102:22224/20985862/
+小排球 纯粹的运动漫画,http://129.211.14.102:22224/20985802/
+超能力少女阿尼亚 欢乐源泉+治愈神器,http://129.211.14.102:22224/30080149/
+你心中最强剑士是谁？,http://129.211.14.102:22224/24879375/
+真真假假 假假真真 动画与现实的碰撞,http://129.211.14.102:22224/20969098/
+潇洒的活 痛快的die,http://129.211.14.102:22224/20985774/
+龙王苏醒！路明非到底能开几次挂！,http://129.211.14.102:22224/23865086/
+Tong灵王 童年回忆,http://129.211.14.102:22224/20969112/
+失明少年→守夜人战神 林七夜成长之路,http://129.211.14.102:22224/24314166/
+葫芦娃 一个藤上七个瓜,http://129.211.14.102:22224/20985834/
+总动员系列 超经典动画电影,http://129.211.14.102:22224/30080256/
+重燃西游新传奇 并肩悟空再闯天涯,http://129.211.14.102:22224/20985765/
+台南阿嬷的金句比鸡汤管用,http://129.211.14.102:22224/136154/
+四个女人一台戏,http://129.211.14.102:22224/23734243/
+无镖不成人 长安进行时,http://129.211.14.102:22224/29465876/
+城市猎人动漫版！美女好多,http://129.211.14.102:22224/20985840/
+骑士魂燃爆！从平成老大哥到令和新神，骑士变身爽到飞起,http://129.211.14.102:22224/20985813/
+哑舍 古风国产动漫,http://129.211.14.102:22224/16020022/
