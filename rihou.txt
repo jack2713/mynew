@@ -479,9 +479,9 @@ CGTN,http://bobohome.ignorelist.com:20247/migu?id=609017205.m3u8
 重庆卫视,http://bobohome.ignorelist.com:20247/migu?id=738910914.m3u8
 三沙卫视,http://bobohome.ignorelist.com:20247/migu?id=961023778.m3u8
 黑龙江卫视,http://bobohome.ignorelist.com:20247/migu?id=738906901.m3u8
-凤凰资讯高清,http://218.104.239.114:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰中文高清,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰中文,http://183.239.248.218:8181/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+香港卫视,http://webcast.hkstv.tv:80/livestream/mutfysrq/playlist.m3u8?hls_ctx=9dl33ad6
+凤凰中文,http://156.238.224.170:7001/fhx.php?id=cn
+CCTV1,http://120.76.248.139/live/bfgd/4200000488.m3u8
 凤凰资讯,http://183.239.248.218:8181/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=
 凤凰香港,http://xiangz.qzz.io:8031/php/fhx.php?id=fhhk
 凤凰中文,http://xiangz.qzz.io:8031/php/fhx.php?id=fhzx
@@ -2734,7 +2734,6 @@ cctv15,http://38.75.136.137:98/gslb/dsdqca/chcymdyhd.m3u8?auth=test20251009
 cctv16,http://38.75.136.137:98/gslb/dsdqca/chcjtyyhd.m3u8?auth=test20251009
 cctv17,http://38.75.136.137:98/gslb/dsdqca/fhzwhd.m3u8?auth=test20251009
 CCTV-1HD,http://120.76.248.139/live/bfgd/4200000484.m3u8
-CCTV-1HD,http://120.76.248.139/live/bfgd/4200000488.m3u8
 CCTV-1HD,http://120.76.248.139/live/bfgd/4200000489.m3u8
 CCTV-1HD,http://120.76.248.139/live/bfgd/4200000201.m3u8
 CCTV-2HD,http://120.76.248.139/live/bfgd/4200000061.m3u8
