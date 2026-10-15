@@ -1,6 +1,5 @@
-PLC,#genre#
+测试,#genre#
 Sana TV,https://stream.ottlive.co.in/sanatv/index.m3u8
-Music,#genre#
 Sana Plus,https://stream.ottlive.co.in/sanaplus/index.m3u8
 NTC TV,https://galaxyott.live/hls/ntv.m3u8
 NTC TV [Tata Play],https://cable85tataplay.akamaized.net/live/ntvpkt/index.m3u8
@@ -11,7 +10,6 @@ Anandham TV [IPCloud],https://anandhamtv.stream.ipcloud.live/anandhamtv/anandham
 Suriya TV,https://stream.ottlive.co.in/suryatvtamil/index.m3u8
 Subin TV,https://stream.ottlive.co.in/subintvtamil/index.m3u8
 Subin TV (Phoenix),http://subintv.phoenixcreations.online/subintv/subintv/playlist.m3u8
-Hindu Devotional,#genre#
 Dharsan TV,https://cable91tataplay.akamaized.net/live/dharshantv/index.m3u8
 Rock TV HD,https://stream.ottlive.co.in/suriyantvtamil/index.m3u8
 Rock TV,https://apis.avmediawork.in/tvhls/rocktv.m3u8
@@ -20,11 +18,9 @@ Suriyan TV [OliDigital],https://hlslive.olidigital.in/suriyantv/suriyantv/index.
 Aaryaa TV,https://stream.ottlive.co.in/aryatvtamil/index.m3u8
 Aaryaa TV (Cloud7),https://live.sscloud7.in/live/aaryaatv/index.m3u8
 Roja TV,https://hls.rojatv.cloud/rojatv/rojatv/index.m3u8
-Movies,#genre#
 Roja Movies,https://hls.rojatv.cloud/rojamovies/rojamovies/index.m3u8
 Bhagyam TV HD,https://ott.bhagyam.net/hls/bhagyamweb/index-1409148900-now.m3u8
 Bhagyam TV,https://bhagyam.iptv.pics/bhagyam/index.m3u8
-Christian Devotional,#genre#
 Nijam TV,https://nijamtv.nijamtv.org/live/nijamtv/index.m3u8
 Nijam TV [IndiaMatrix],https://nijamtv.indiamatrix.in/nijamtv/nijamtv.m3u8
 Nijam TV [GalaxyOTT],https://stream.galaxyott.live/live/nijamtv/index.m3u8
@@ -49,11 +45,9 @@ Dbhakthi,https://stream.d6-pro.com/dbhakhi/live/video.m3u8
 Tharun Movies,https://streaming.livebox.co.in/tharunmovieshls/live.m3u8
 MN TV,https://mntv.livebox.co.in/mntvhls/live.m3u8
 MN Music,https://mntv.livebox.co.in/musichls/live.m3u8
-News,#genre#
 GEM TV HD,https://gemtv.circle7stream.com/gem/fcce47a8559e30755582c396ce7fce9e.sdp/playlist.m3u8
 GEM TV,http://gem.inet.moe/live/gemtv/index.m3u8
 ACP TV,http://103.87.105.51:8080/acphd/acphd.m3u8?psk=123456
-Classic,#genre#
 ACP Classic,http://103.87.105.51:8080/acpclassic/acpclassic.m3u8?psk=123456
 ACP Isai Oli,http://103.87.105.51:8080/acpisaioli/acpisaioli.m3u8?psk=123456
 Succes TV Tamil,https://stream.onecloudlive.in/successtv/successtvhd/index.m3u8
@@ -128,7 +122,6 @@ JCV,https://applelive.in/jcvtv/jcvtv/index.m3u8
 JCV Musix,https://applelive.in/jcvtv/jcvmusix/index.m3u8
 Hai TV,https://applelive.in/haitv/haitv/index.m3u8
 Hai TV,https://applelive.in/stv/stv/index.m3u8
-International;News,#genre#
 JJ News Tamil,https://hlsstream.olidigital.in/jjtvnewstamil/jjtvnewstamil/index.m3u8
 Channel Spice,https://stream.onecloudlive.in/spicetv/spicetv/index.m3u8
 Channel Spice [MPD],https://stream.onecloudlive.in/spicetv/spicetv/index.mpd
@@ -212,7 +205,6 @@ Jawahar Channel HD,http://jawahar.7starcloud.com:1935/jawahartv/streamingbox2/pl
 7Star Music,http://premium.7starcloud.com:1935/live/7starmusic/playlist.m3u8
 Tamil Star TV,http://acv.7starcloud.com:1935/tamilstar/tv/playlist.m3u8
 Santhiya TV,https://stream.onecloudlive.in/santhiyatv/santhiyatvhd/index.m3u8
-PLC;SCV Platform;TCCL Platform;VK Digital Platform,#genre#
 Anandam TV Madurai,https://in-2.castr.io/live_537b9540239611f08690576446b3c082/index.mpd
 Anandam TV Madurai [TangoTV],https://mumt07.tangotv.in/zHjX9OFlANANDAMTV/index.m3u8
 Anandam Abi TV,https://in-2.castr.io/live_40fb69e0107211f0adde2f394a2bbc0f/index.mpd
@@ -339,9 +331,7 @@ National TV,https://stream.onecloudlive.in/karnan/Nationaltv/index.m3u8
 G TV,https://stream.onecloudlive.in/karnan/gtv/index.m3u8
 Vanavil TV Pattukkottai,https://stream.onecloudlive.in/karnan/vanaviltv/index.m3u8
 Eesan TV,https://live.singamcloud.in/eesantv/eesantv/index.m3u8
-PLC;VK Digital Platform,#genre#
 Vajra TV,https://mmtv.stream.onecloudlive.in/mmtv/vajramtv/index.m3u8
-PLC;TACTV Platform,#genre#
 Vajra TV (TACTV),https://mmtv.stream.onecloudlive.in/mmtv/vajratvtac/index.m3u8
 Vajram TV,https://mmtv.stream.onecloudlive.in/mmtv/vajratv/index.m3u8
 Citi Channel,https://stream.ashokadigital.net/cititv/cititvhd/index.m3u8
@@ -366,9 +356,7 @@ Siddhar Isai,https://3.proxy.nellaiiptv.com/DINESH/PT/index.m3u8?token=YAAL
 Appu TV,https://3.proxy.nellaiiptv.com/NOTV/IWORLDHD/index.m3u8?token=GTR
 Bama TV,http://bamatv.phoenixcreations.online/bamatv/bama/playlist.m3u8
 Smart Sri,https://mumbai-edge.smartplaytv.in/smartsri/index.m3u8
-PLC;TCCL Platform,#genre#
 J Jeyam,https://stream.singamcloud.in/jjeyam/jjeyam/index.m3u8
-PLC;TCCL Platform;TACTV Platform,#genre#
 Jeyam Plus,https://stream.singamcloud.in/jeyamplus/jeyamplus/index.m3u8
 D Jeyam,https://stream.singamcloud.in/djeyam/djeyam/index.m3u8
 Tharani TV,https://singamcloud.in/tharanitvtvl/tharanitvtvl/index.m3u8
@@ -386,7 +374,6 @@ Solai TV,https://ipcloud.live/solaitv/solaihd/index.m3u8
 Jeyam Plus Coimbatore,https://ipcloud.live/mmtv/jeyamplus/index.m3u8
 Mallai TV,https://rojatv.cloud/mallaitv/mallaitv/index.m3u8
 MM TV,https://ipcloud.live/mmtv/mmtvhd/index.m3u8
-Islamic Devotional,#genre#
 Salaam TV,https://stream.onecloudlive.in/salamtv/salamtvhd/index.m3u8
 Athithoothar TV,http://srvvii.nellaiiptv.com:8033/app-restream/ae5dja-athithoothartv/index.m3u8
 Mahimai TV HD,https://ktismaservers.in:3161/live/mahimaitvlive.m3u8
@@ -404,7 +391,6 @@ Deva TV,https://applelive.in/devatv/devatv/index.m3u8
 Jesus TV,https://applelive.in/jesustv/jesustv/index.m3u8
 Praise TV,https://applelive.in/praisetv/praisetv/index.m3u8
 Sharon TV,https://sscloud7.com/live/sharontv/index.m3u8
-Christian Devotional;Music,#genre#
 Vinmeen Music,https://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
 Jeeva Oli TV,https://jaeppiyar.livebox.co.in/jeevaolitvhls/live.m3u8
 J King TV,https://live.brightmeltech.in/jkingtv/jkingtv.m3u8
@@ -426,7 +412,6 @@ Top TV Thuraiyur,https://stream.onecloudlive.in/toptv/toptvhd/index.m3u8
 Top TV Thuraiyur [RojaTV],https://stream.rojatv.cloud/TOPTV/onecloud/index.m3u8
 Jay TV,https://stream.onecloudlive.in/jaytv/jaytvhd/index.m3u8
 Annai TV,https://annainew.livebox.co.in/annailivehls/live.m3u8
-PLC;SCV Platform,#genre#
 Annai Tamil,https://annainew.livebox.co.in/annaitamilhls/live.m3u8
 7Star Television,https://annainew.livebox.co.in/7startvhls/livestream.m3u8
 Amma TV,https://annainew.livebox.co.in/ammatvhls/live.m3u8
@@ -441,14 +426,10 @@ Global TV,https://applelive.in/globaltv/globaltv/index.m3u8
 Penguin TV,https://applelive.in/penguinhd/penguinhd/index.m3u8
 Punnagai Desam TV,http://punnagaidesamtv.phoenixcreations.online/punnagaidesamtv/punnagaidesamtv/playlist.m3u8
 Ayya Agilathirattu TV,https://live1.sscloud7.in/live/ayyatv/playlist.m3u8
-International,#genre#
 MonTamil,http://148.113.170.17:8091/montamil/index.m3u8
 Analai Express,https://3.proxy.nellaiiptv.com/ANALAI_MOVIE/index.m3u8?token=GTR
-International;Movies,#genre#
 Analai Express Cinema,https://3.proxy.nellaiiptv.com/MONTAMIL_CINEMA/index.m3u8?token=GTR
-International;Music,#genre#
 Analai Music,http://148.113.170.17:8091/analaimusic/index.m3u8
-International;Hindu Devotional,#genre#
 Analai Express Replay,http://148.113.170.17:8091/analaireplay1/index.m3u8
 Rudhram TV,http://148.113.170.17:8091/rudhram/index.m3u8
 Makkalpani TV,https://applelive.in/mapatv/mapatv/index.m3u8
@@ -509,7 +490,6 @@ Sri Arjun TV,https://stream.onecloudlive.in/sriarjuntv/sriarjun/index.m3u8
 Om TV,http://omtv.7starcloud.com:1935/omtv/live/live.m3u8
 CTN TV,https://ipcloud.live/ctn/ctntvhd/index.m3u8
 Arasu TV,https://ipcloud.live/ctn/arasu/index.m3u8
-Lifestyle,#genre#
 Magalir TV,https://ipcloud.live/ctn/magalir/index.m3u8
 Dina Tharani,https://stream.sscloud7.in/live/ddtv/index.m3u8
 TCBN,https://ktismaservers.in:3382/live/tcbntvlive.m3u8
@@ -521,14 +501,12 @@ Life TV,https://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8
 News 80 Tamil,https://3.proxy.nellaiiptv.com/NOTV/NEWS80/index.m3u8?token=GTR
 C TV,http://ctv.phoenixcreations.online/ctv/ctv/playlist.m3u8
 Thentamil TV,http://thentv.stream.onecloudlive.in/thentv/thentvhd/index.m3u8
-PLC;Saurasthra,#genre#
 RK TV,http://rktv.phoenixcreations.online/rktv/rktv/index.m3u8
 RK TV [TamilStream],https://rktv-hs1.tamilstream.in/rktv/tenkasi/playlist.m3u8
 Mangalam TV,http://mangalamtv.phoenixcreations.online/mangalamtv/mangalam/playlist.m3u8
 SS TV,https://sstv-ott.tamilstream.in/sstv/sstv/playlist.m3u8
 Raja TV Valliyur,http://rajatv.phoenixcreations.online/rajatv/raja/playlist.m3u8
 MM TV Valliyur,http://mmtv.phoenixcreations.online/mmtv/mm/index.mpd
-PLC;Badaga,#genre#
 We Baduga TV,https://rtmp.bmlive.net/webaduga/webaduga/index.m3u8
 Manasu TV,https://stream6.livebox.co.in/manasutvhls/live.m3u8
 Nila TV Sivaganga,http://nilatvsg.stream.mystreams.in/live/nilatvsg/index.m3u8
@@ -573,7 +551,6 @@ Sabari TV Aruppukottai,https://stream.onecloudlive.in/sabaritv/sabaritvhd/index.
 VIP TV,https://ipcloud.live/vip/viptv/index.m3u8
 Joy TV,https://joy.inet.moe/live/joytv/index.m3u8
 Joy TV HD,https://ktismaservers.in:3412/live/joytvlive.m3u8
-PLC;Unknown Platform,#genre#
 Arighni TV,https://dmtv.iptv.pics/live/dmtv/index.m3u8
 Kirubai TV,https://server1.thewebworld.in:3208/hybrid/play.m3u8
 GTA Tamil,http://144.217.77.42:8888/gta_tamil/index.m3u8
@@ -585,13 +562,11 @@ Thaai TV,https://ap02.iqplay.tv:8082/hls/thailive/playlist.m3u8
 Uthamiyae TV,https://kali.vdopanel.com:3169/stream/play.m3u8
 Samugam Media,https://ca.streamjo.com/live/samugam.m3u8
 EET TV,https://eu.streamjo.com/eetlive/eettv.m3u8
-International;Hindu Devotional;TCCL Platform,#genre#
 Britain Tamil Bhakthi,http://btc.inet.moe/live/btctv/index.m3u8
 Britain Tamil Bhakthi [IPTelevision],https://tcclbtc.iptelevision.live/btc/video.m3u8
 JC TV Madurai,https://ktismaservers.in:3545/live/jctvlive.m3u8
 ME24 Tamil,https://stream.onecloudlive.in/orange/ME24TAMIL/index.m3u8
 ME24 Tamil [RojaTV],https://stream.rojatv.cloud/ME24TAMIL/onecloud/index.m3u8
-International;Christian Devotional,#genre#
 Meiveli TV,https://meiveli.livebox.co.in/MEIVELIMAINhls/meivelimain.m3u8
 Yeshua TV,https://transcoding.livebox.co.in/Yeshuahls/live.m3u8
 TWOC TV,https://rtmp.applelive.in/twoctv/twoctv/index.m3u8
@@ -624,14 +599,12 @@ Sai TV Tenkasi,http://saitv.sscloud7.in/live/livesaitv/index.m3u8
 Boobsh TV,https://live.applelive.in/boobsh/boobsh/index.m3u8
 MR TV,https://live.apcloud.in/mrtv/mrtvhd/index.mpd
 Dolphin TV Sivakasi,https://view.rcserver.in/tmp_hls31/dolphintv/index.m3u8
-Other Devotional;TCCL Platform,#genre#
 Aruljothi TV,https://jothi.inet.moe/jothitv/index.m3u8
 Apple TV Thanjavur,https://stream.ipcloud.live/appletv/appletv/index.m3u8?token=dHVsbml0aXNhZHVtZHVt
 Banyan TV,https://view.rcserver.in/tmp_hls32/banyantv/index.m3u8?token=YW1hemV5
 D TV,https://view.rcserver.in/tmp_hls33/dtv/index.m3u8?token=YW1hemV5
 Pothigai Prime,http://podhigai-primetv.stream.nellaiiptv.com/live/podhigai-primetv/index.m3u8
 Idhayam TV,https://sanplayout.xyz/live2/idhayamtv/index.m3u8
-Kids,#genre#
 Idhayam Kids,https://sanplayout.xyz/live2/idhayamkidz/index.m3u8
 A1 Media News,https://sanplayout.xyz/live2/a1medianews/index.m3u8
 Jeevaneerodai TV,https://web.applelive.in/jeevaneerodaitv/jeevaneerodaitv/index.m3u8
@@ -656,7 +629,6 @@ NRJ TV,https://3.proxy.nellaiiptv.com/DINESH/NRJTV/index.m3u8?token=YAAL
 PJ TV,https://3.proxy.nellaiiptv.com/DINESH/PJTV/index.m3u8?token=YAAL
 Eye Tamil,https://2.proxy.nellaiiptv.com/EyeMedia/EyeTV/index.m3u8
 Eye Tamil Music,https://2.proxy.nellaiiptv.com/EyeMedia/music/index.m3u8
-International;Comedy,#genre#
 Eye Tamil Comedy,https://2.proxy.nellaiiptv.com/EyeMedia/comedy/index.m3u8
 Prince TV,http://princetv.phoenixcreations.online/princetv/prince/playlist.m3u8
 Belan TV,http://belantv.phoenixcreations.online/belantv/belan/playlist.m3u8
@@ -673,15 +645,10 @@ Thendral TV Nellai,http://srvvii.nellaiiptv.com:8033/app-restream/j0tt23-thendra
 Shark TV,http://srvvii.nellaiiptv.com:8033/app-restream/av4i2-sharktv/index.m3u8
 GJV TV,http://srvvii.nellaiiptv.com:8033/https://http://-restream/dbjd1j-gjvtv/index.m3u8
 Naveen TV,http://srvvii.nellaiiptv.com:8033/app-restream/b3nd9s-naveentv/index.m3u8
-VK Digital Platform;SCV Platform,#genre#
 Sri Varahi TV,https://real-vk.proxy.nellaiiptv.com/SRIVARAHITV/index.m3u8
-SCV Platform;TCCL Platform;VK Digital Platform;,#genre#
 Telemax Tamil,https://real-vk.proxy.nellaiiptv.com/TELEMAX/index.m3u8
-VK Digital Platform;PLC,#genre#
 Diamond TV,https://real-vk.proxy.nellaiiptv.com/DIAMONDTV/index.m3u8
-VK Digital Platform;Movies,#genre#
 Diamond Talkies,https://real-vk.proxy.nellaiiptv.com/DIAMONDTALKIES/index.m3u8
-VK Digital Platform;Music,#genre#
 Diamond Music,https://real-vk.proxy.nellaiiptv.com/DIAMONDMUSIC/index.m3u8
 Sri Vinayaga TV,https://1.proxy.nellaiiptv.com/srivinayagatv/hd/index.m3u8
 Sri Vinayaga Movies,https://1.proxy.nellaiiptv.com/srivinayagatv/movies/index.m3u8
@@ -717,7 +684,6 @@ Kirubai TV,https://live.sscloud7.in/live/kirubaitv/index.m3u8
 Thogai TV,https://thogaitv.stream.onecloudlive.in/thogaitv/12345678/index.m3u8
 SGB TV,https://hlsstream.olidigital.in/sgbtv/sgbtv/index.m3u8
 Sarah TV,https://sarah-7starcloud-com.proxy.nellaiiptv.com/live/sarahtv/live.m3u8
-Sports,#genre#
 Himalaya TV,https://app.ashokadigital.net/app/eb990565/index.m3u8
 Vaanam TV,https://lanka.vaanam24.com:3712/hybrid/play.m3u8
 Abnaz TV,https://live.toponlinetv.com/abnaztv/index.m3u8
@@ -743,7 +709,6 @@ Alpha TV,https://bk7l2z5nlx53-hls-live.5centscdn.com/alpha/55f071ebe5152828fdcc3
 Gopuram TV,https://gopuram.stream.onecloudlive.in/gopuram/gopuramhd/index.m3u8
 Aalaya TV,https://rtmp.applelive.in/aalayatv/aalayatv/index.m3u8
 Adhiralai TV,https://hlsstream.olidigital.in/adhiralaitv/adhiralaitv/index.m3u8
-TCCL Platform,#genre#
 S Madan TV,http://iptv.iptelevision.live/smadantv/index.m3u8?token=github.com/amazeyourself
 Nila TV,http://srvvii.nellaiiptv.com:8033/app-restream/nilatv-sas/index.m3u8
 Archana TV,https://live-stream.in/archanatv/archanatv/index.m3u8
@@ -759,7 +724,6 @@ Kali TV,https://stream.apcloud.in/SriVELAVANTVULTRAHD/srivelavantv/video.m3u8
 Ayyapa TV,https://srv-i.maduraiiptv.in/live/ayyappatv/index.m3u8
 Deiveegam TV,https://live3.onecloudlive.in/deiveegam/deiveegamtv/index.m3u8
 AMN TV Karur,https://live.onecloudlive.in/amn/amntv/index.m3u8
-港台频道,#genre#
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 凤凰中文,http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv
 凤凰资讯,http://173.208.234.146/live/fhzx.m3u8
@@ -783,7 +747,6 @@ Astro AOD,https://cdn3.indevs.in/stream/live/aod/
 Astro AEC,https://cdn3.indevs.in/stream/live/aec/
 Astro 爱奇艺,https://cdn3.indevs.in/stream/live/iqiyi/
 Astro 欢喜台,https://cdn3.indevs.in/stream/live/hxt/
-国际频道,#genre#
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 BBC News,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 GB News,https://rakutenaa-lightning-gbnews-rakuten-ccoa9.amagi.tv/playlist/rakutenAA-lightning-gbnews-rakuten/playlist.m3u8
@@ -847,7 +810,6 @@ Thrillers,https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649b
 Top Movies,https://top-movies-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/8b530802-f923-43a1-8496-e871276a745f/4.m3u8
 Reality,https://reality-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/228208ef-d17f-4825-a278-eccf505de378/4.m3u8
 Family,https://family-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/0426b7a3-6dd5-4a24-ac4c-22227a2b2f9d/4.m3u8
-地方频道,#genre#
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 看东方4K,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 钱江都市,http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
