@@ -1030,6 +1030,13 @@ closer,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000c6c60frc7
 1991逃学威龙,https://vip.dytt-film.com/20250311/12297_35fcfa9e/index.m3u8
 1990赌侠,https://play.modujx11.com/20241224/mBSx76B4/index.m3u8
 翡翠台,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/jade.flv
+明珠台,https://pull-mpeg-hs-cny-f5.douyincdn.com/live/mz-mddei9SE4s0zj8HEbn8tBnrtWDU9zjgfHU6JcWXOfwluNR2MDkSZeCXZBOupjnnWB5k1TvFWJChkJbq6.flv
+VIUTV,https://pull-mpeg-hs-cny-f5.douyincdn.com/live/viu-1WpQedL8WJaZKhj2PONLCEJ63JVlcncTqknAqIOpFmMOU0y7YlvyEfsHBqIaMLQdEXmHLGzsTWco4J4b.flv
+VIUTV6,https://pull-mpeg-hs-cny-f5.douyincdn.com/live/viu6-hDt1OMH7VGtvhYO39p86RuMntEEDXeKseoGXcbsrDLgRAhg2K6IYmsbZ5GcJvCAIyEVQf6DPxLINnCF6.flv
+港台电视32,https://pull-mpeg-hs-cny-f5.douyincdn.com/live/32-eWeJ09h6oF4h4tpTcLru0dSFExlH8DGJ7saFGxAbt7SCakQLcvr2hKv2m04oVwlrOxPY1LB4GafCgHd3.flv
+凤凰香港台,https://pull-mpeg-hs-cny-f5.douyincdn.com/live/fhxg-NpmWCJUXg5mHnVx7DxmiyCrNGMICZQrcqzOOFMXXCOY00h8jA0A7ps9jlYE4aRY1lOi6sYSHrLzzBMHv.flv
+凤凰资讯台,https://pull-mpeg-hs-cny-f5.douyincdn.com/live/fhzx-FUELRRDSMjF56EtzQmI2w3fvc9vW5DVmd44Ao7YCz1hVDkKyG4vPqpDFX0NjnnA1zuZNSAoli0g1outY.flv
+凤凰中文台,https://pull-mpeg-hs-cny-f5.douyincdn.com/live/fhzw-XhBtvRMDDO9YJ1UYzEe869mPWqpEZ2ZeuCcKoNrc6SbfHh9fz5ooFWJQkZObsjF0PcbZHPt4pr7wfsUh.flv
 翡翠台,http://gd.wsd.gd.cn:1698/hls/92/index.m3u8
 翡翠台,http://211.97.63.3:3443/hls/541/index.m3u8
 无线新闻台,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/wxxw.flv
@@ -1039,7 +1046,6 @@ closer,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000c6c60frc7
 凤凰资讯480p,http://ccav.zone.id/php/fh.php?id=1
 凤凰中文480p,http://ccav.zone.id/php/fh.php?id=2
 凤凰香港480p,http://ccav.zone.id/php/fh.php?id=3
-寰宇新闻,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/hyxw.flv
 TVB Plus,http://167.88.62.43:64012/0.ts
 NOW新闻台,http://psyl11.dyndns.tv:35451/live/axdynowtream/fSlawNmh15/23.ts
 FightSports,http://iptv.4666888.xyz/iptv2A.php?id=1
@@ -3712,6 +3718,7 @@ PT,#genre#
 中天新闻,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/ztxw.flv
 中天新闻,http://iactive-clink.com:8081/live/999ztxw.m3u8
 東森財經新聞,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+寰宇新聞,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/hyxw.flv
 无线新闻,http://bziyunshao.synology.me:8890/bysid/83
 TVBS,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/219177
 BBCNews,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
