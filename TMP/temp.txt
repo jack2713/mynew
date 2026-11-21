@@ -191,8 +191,10 @@ CCTV卫生健康,https://tv.ygo233.top/relay/ysp-vip-cctvwsjk.m3u8
 大连新闻综合,https://tv.ygo233.top/proxy/dalian-7.m3u8
 大连生活,https://tv.ygo233.top/proxy/dalian-8.m3u8
 大连文体,https://tv.ygo233.top/proxy/dalian-9.m3u8
+辽宁都市,https://tv.ygo233.top/proxy/liaoning-10d3de0d03c62e85a1a281bbde8b6952.m3u8
 辽宁影视剧,https://tv.ygo233.top/proxy/liaoning-918510749a0f319ec12ff695b1c95230.m3u8
-辽宁体育休闲,https://tv.ygo233.top/proxy/liaoning-e0bb9a7fd9afa954658bc50d0681cd49.m3u8
+辽宁生活,https://tv.ygo233.top/proxy/liaoning-078ce87dcf5384d51e4655cb962fda18.m3u8
+辽宁北方,https://tv.ygo233.top/proxy/liaoning-8e95535378bd3e5f7494bc23ab1cb117.m3u8
 家庭理财,https://tv.ygo233.top/proxy/liaoning-7e29bde4f41ca08642b7fc3ce4eb1ae4.m3u8
 沈阳新闻综合,https://tv.ygo233.top/proxy/liaoning-d447fcc472f14c7f14872d4e26b12d8f.m3u8
 沈阳经济,https://tv.ygo233.top/proxy/liaoning-eaecc3f39a6e94f2ac6197c229b4cd6b.m3u8
@@ -244,14 +246,14 @@ GRTN生活,https://tv.ygo233.top/relay/gdtv-102.m3u8
 厦视三套,https://tv.ygo233.top/proxy/fjtv-xiamen-18.m3u8
 福州综合,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 福州生活,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-漳州新闻综合,https://live4-fuyun.fjtv.net/hb_zztv/sd/live.m3u8?_upt=d3e6b26d1795229992
-三明综合,https://live4-fuyun.fjtv.net/hb_smtv/sd/live.m3u8?_upt=0dd374fa1795229992
-泉州新闻综合,https://live4-fuyun.fjtv.net/hb_qztv/sd/live.m3u8?_upt=dce39d841795229992
-南平综合,https://live4-fuyun.fjtv.net/hb_nptv/sd/live.m3u8?_upt=ca6424621795229992
-龙岩综合,https://live4-fuyun.fjtv.net/hb_lytv/sd/live.m3u8?_upt=b59fc4e31795229992
-莆田新闻综合,https://live4-fuyun.fjtv.net/hb_puttv/sd/live.m3u8?_upt=c55cb8c21795229992
-平潭综合,https://live4-fuyun.fjtv.net/hb_pttv/sd/live.m3u8?_upt=2037d9381795229992
-宁德新闻综合,https://live4-fuyun.fjtv.net/hb_ndtv/sd/live.m3u8?_upt=f06186431795229992
+漳州新闻综合,https://live4-fuyun.fjtv.net/hb_zztv/sd/live.m3u8?_upt=9a453fd41795251892
+三明综合,https://live4-fuyun.fjtv.net/hb_smtv/sd/live.m3u8?_upt=fe56666b1795251892
+泉州新闻综合,https://live4-fuyun.fjtv.net/hb_qztv/sd/live.m3u8?_upt=6ba8856c1795251892
+南平综合,https://live4-fuyun.fjtv.net/hb_nptv/sd/live.m3u8?_upt=5d6529371795251892
+龙岩综合,https://live4-fuyun.fjtv.net/hb_lytv/sd/live.m3u8?_upt=837233b91795251892
+莆田新闻综合,https://live4-fuyun.fjtv.net/hb_puttv/sd/live.m3u8?_upt=a7d613ee1795251892
+平潭综合,https://live4-fuyun.fjtv.net/hb_pttv/sd/live.m3u8?_upt=eaca67791795251892
+宁德新闻综合,https://live4-fuyun.fjtv.net/hb_ndtv/sd/live.m3u8?_upt=f655f7b61795251892
 泉州新闻综合,https://tv.ygo233.top/proxy/quanzhou-news-tv.m3u8
 泉州闽南语,https://tv.ygo233.top/proxy/quanzhou-minnan-tv.m3u8
 晋江电视台,https://live.ijjnews.com/jjtv/sd/live.m3u8
@@ -265,7 +267,6 @@ GRTN生活,https://tv.ygo233.top/relay/gdtv-102.m3u8
 闽侯综合,https://tv.ygo233.top/relay/gdy-2068-2656.m3u8
 泉港一套,https://tv.ygo233.top/relay/gdy-2333-3708.m3u8
 永春综合,https://tv.ygo233.top/relay/gdy-1792-2311.m3u8
-霞浦新闻,https://tv.ygo233.top/relay/gdy-3952-4744.m3u8
 漳州新闻综合,https://tv.ygo233.top/relay/gdy-175-1116.m3u8
 德化电视台,https://play.cmptp.fjgdwl.com/live/63a563ec75764af588f3215b0afa2588.m3u8
 河北卫视,https://tv.ygo233.top/relay/hebtv-10524916.m3u8
@@ -577,8 +578,6 @@ GRTN生活,https://tv.ygo233.top/relay/gdtv-102.m3u8
 成武综合,https://tv.ygo233.top/sdcounty-131-1
 成武综艺,https://tv.ygo233.top/sdcounty-131-2
 巨野综合,https://tv.ygo233.top/sdcounty-139-1
-郓城综合,https://tv.ygo233.top/sdcounty-135-3
-郓城民生综艺,https://tv.ygo233.top/sdcounty-135-2
 鄄城综合,https://tv.ygo233.top/sdcounty-141-186
 鄄城综艺,https://tv.ygo233.top/sdcounty-141-274
 东明新闻综合,https://tv.ygo233.top/sdcounty-111-2
@@ -829,6 +828,7 @@ CCTV17农业农村,https://tv.ygo233.top/relay/bestv-fj-176.m3u8
 西藏卫视,https://tv.ygo233.top/relay/bestv-fj-216.m3u8
 三沙卫视,https://tv.ygo233.top/relay/bestv-fj-217.m3u8
 海南卫视,https://tv.ygo233.top/relay/bestv-fj-199.m3u8
+张家口inzone商场,https://tv.ygo233.top/relay/gdy-3455-4101.m3u8
 武强音乐公园,https://tv.ygo233.top/relay/gdy-3672-1425.m3u8
 武强音乐小镇,https://tv.ygo233.top/relay/gdy-3714-1425.m3u8
 砀山和美乡村直播间,https://tv.ygo233.top/relay/gdy-2336-1364.m3u8
@@ -880,7 +880,6 @@ CCTV17农业农村,https://tv.ygo233.top/relay/bestv-fj-176.m3u8
 如皋奥体中心,https://tv.ygo233.top/relay/gdy-3845-1545.m3u8
 如皋标龙,https://tv.ygo233.top/relay/gdy-3858-1545.m3u8
 如皋火车站,https://tv.ygo233.top/relay/gdy-3859-1545.m3u8
-如皋钟楼,https://tv.ygo233.top/relay/gdy-3860-1545.m3u8
 如皋月星家居,https://tv.ygo233.top/relay/gdy-3861-1545.m3u8
 如皋奥体中心特写,https://tv.ygo233.top/relay/gdy-3865-1545.m3u8
 连云港云海观日,https://tv.ygo233.top/relay/gdy-3942-3566.m3u8
