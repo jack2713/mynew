@@ -74,7 +74,7 @@ if __name__ == "__main__":
     m3u_urls = [
         # "https://raw.githubusercontent.com/xJEYDAin/iptv-scraper/refs/heads/master/output/all_merged.m3u",
         #"https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/channels.m3u",
-        "https://tv.ygo233.top/",
+        "https://raw.githubusercontent.com/zilong7728/Collect-IPTV/refs/heads/main/best_sorted.m3u",
         "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/GNTV.m3u",
         "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
         # "https://raw.githubusercontent.com/yy-niuma/live-tv/refs/heads/main/output/all_merged.m3u",
